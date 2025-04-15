@@ -22,6 +22,11 @@ def home(request: Request):
     trends = cache.get("trends", [])
     ideas = cache.get("ideas", [])
 
+    # Check if Google Trends failed
+    trends_error = False
+    if trends and isinstance(trends[0], dict) and trends[0].get("title", "").startswith("[ERROR]"):
+        trends_error = True
+
     def get_ideas_for(posts, max_ideas=5):
         def standardize_post(p, source):
             if source == "reddit":
@@ -85,13 +90,16 @@ def home(request: Request):
         <div class="container">
             <h1>AppGenerator: Daily Trends & AI Suggestions</h1>
             <div class="section">
-                <div class="site-title"><span class="icon">👽</span>Reddit</div>
-                <ul class="sites">
+                <div class="site-title"><span class="icon">👽</span>Reddit <span style="margin-left:10px;font-size:0.95em;color:#888;">({len(reddit_posts)} posts)</span></div>
+                <details>
+                  <summary style="cursor:pointer;font-size:1em;padding:6px 0;outline:none;"><b>Show Reddit posts</b></summary>
+                  <ul class="sites">
     '''
     for post in reddit_posts:
         html += f'<li><b>[{post.get("subreddit", "?")}]</b> <a href="{post.get("url", "#")}" target="_blank">{post.get("title", "[No Title]")}</a> <span style="color:#888;font-size:0.93em">({post.get("score", 0)} upvotes)</span></li>'
     html += '''
-                </ul>
+                  </ul>
+                </details>
                 <div class="suggestions" id="sugg-reddit">
                     <div class="suggestions-title" onclick="toggleSuggestions('sugg-reddit')">💡 AI Suggestions for Reddit <span class="suggestion-toggle">▼</span></div>
                     <ul class="suggestion-list">
@@ -126,17 +134,21 @@ def home(request: Request):
                 <div class="site-title"><span class="icon">🌐</span>Google Trends</div>
                 <ul class="sites">
     '''
-    for trend in trends:
-        html += f'<li>{trend.get("title", "[No Title]")}</li>'
+    if trends_error:
+        html += '<li style="color:#d32f2f;font-weight:500;">Google Trends is currently unavailable. Please try again later.</li>'
+    else:
+        for trend in trends:
+            html += f'<li>{trend.get("title", "[No Title]")}</li>'
     html += '''
                 </ul>
                 <div class="suggestions" id="sugg-trends">
                     <div class="suggestions-title" onclick="toggleSuggestions('sugg-trends')">💡 AI Suggestions for Google Trends <span class="suggestion-toggle">▼</span></div>
                     <ul class="suggestion-list">
     '''
-    for idea in get_ideas_for(trends, max_ideas=5):
-        if idea.strip():
-            html += f'<li>{idea}</li>'
+    if not trends_error:
+        for idea in get_ideas_for(trends, max_ideas=5):
+            if idea.strip():
+                html += f'<li>{idea}</li>'
     html += '''
                     </ul>
                 </div>
