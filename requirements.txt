@@ -1,0 +1,9 @@
+praw
+requests
+feedparser
+schedule
+fastapi
+python-dotenv
+openai
+uvicorn
+pytrends
