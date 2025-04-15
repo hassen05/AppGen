@@ -25,9 +25,13 @@ data = {
 }
 
 try:
-    resp = requests.post(url, headers=headers, json=data, timeout=15)
-    resp.raise_for_status()
-    result = resp.json()
+    response = requests.post(url, headers=headers, json=data, timeout=30)
+    response.raise_for_status()
+    result = response.json()
+    print(result)  # Print the full response for debugging
+    if "choices" not in result:
+        print(f"[ERROR] OpenRouter API test failed: {result}")
+        exit(1)
     print("[SUCCESS] API responded:", result["choices"][0]["message"]["content"])
 except Exception as e:
     print("[ERROR] OpenRouter API test failed:", e)

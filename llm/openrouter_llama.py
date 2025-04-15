@@ -9,6 +9,33 @@ client = OpenAI(
     api_key=OPENROUTER_API_KEY,
 )
 
+def pick_best_ideas(ideas, top_n=5):
+    if not OPENROUTER_API_KEY:
+        return ["[ERROR] Please set your OPENROUTER_API_KEY in config.py."]
+    prompt = (
+        f"Analyze the following app ideas, and select the top {top_n} most promising and innovative ones. "
+        "Here are the ideas:\n" +
+        "\n".join(f"- {idea}" for idea in ideas)
+    )
+    try:
+        completion = client.chat.completions.create(
+            model=LLAMA_MODEL,
+            messages=[
+                {"role": "system", "content": "You are an expert startup evaluator."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=256,
+            temperature=0.7
+        )
+        content = completion.choices[0].message.content
+        best = [line.strip("- ").strip() for line in content.split("\n") if line.strip()]
+        return best
+    except Exception as e:
+        err_msg = str(e)
+        if "rate limit" in err_msg.lower() or "429" in err_msg:
+            return ["[ERROR] LLM rate limit exceeded: Please wait for your quota to reset or add credits to your OpenRouter account."]
+        return [f"[ERROR] LLM call failed: {e}"]
+
 def generate_app_ideas(posts, max_ideas=3):
     if not OPENROUTER_API_KEY:
         return ["[ERROR] Please set your OPENROUTER_API_KEY in config.py."]
@@ -38,4 +65,7 @@ Given the following Reddit posts and their top comments, extract key daily probl
         ideas = [line.strip() for line in content.split("\n") if line.strip()]
         return ideas
     except Exception as e:
+        err_msg = str(e)
+        if "rate limit" in err_msg.lower() or "429" in err_msg:
+            return ["[ERROR] LLM rate limit exceeded: Please wait for your quota to reset or add credits to your OpenRouter account."]
         return [f"[ERROR] LLM call failed: {e}"]

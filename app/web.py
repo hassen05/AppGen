@@ -2,7 +2,12 @@ from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from data_sources.reddit_fetcher import fetch_top_posts
 from data_sources.hn_fetcher import fetch_top_stories
-from llm.openrouter_llama import generate_app_ideas
+from data_sources.devto_fetcher import fetch_devto_articles
+from data_sources.lobsters_fetcher import fetch_lobsters_stories
+from data_sources.github_trending_fetcher import fetch_github_trending
+from data_sources.dribbble_fetcher import fetch_dribbble_shots
+from data_sources.techcrunch_fetcher import fetch_techcrunch_articles
+from llm.openrouter_llama import generate_app_ideas, pick_best_ideas
 from fastapi.responses import RedirectResponse
 from app.cache_utils import save_results, load_results
 
@@ -19,6 +24,11 @@ def home(request: Request):
 
     reddit_posts = cache.get("reddit_posts", [])
     hn_stories = cache.get("hn_stories", [])
+    devto_articles = cache.get("devto_articles", [])
+    lobsters_stories = cache.get("lobsters_stories", [])
+    github_trending = cache.get("github_trending", [])
+    dribbble_shots = cache.get("dribbble_shots", [])
+    techcrunch_articles = cache.get("techcrunch_articles", [])
     trends = cache.get("trends", [])
     ideas = cache.get("ideas", [])
 
@@ -37,13 +47,35 @@ def home(request: Request):
                 return {"title": p.get("title", ""), "selftext": "", "top_comments": []}
             return {"title": "", "selftext": "", "top_comments": []}
         # Guess source based on input
-        if posts and 'subreddit' in posts[0]:
-            source = 'reddit'
-        elif posts and 'score' in posts[0]:
-            source = 'hn'
+        if posts and posts and isinstance(posts[0], dict):
+            if 'subreddit' in posts[0]:
+                source = 'reddit'
+            elif 'score' in posts[0]:
+                source = 'hn'
+            else:
+                source = 'trends'
         else:
             source = 'trends'
         return generate_app_ideas([standardize_post(p, source) for p in posts], max_ideas=max_ideas)
+
+    # Generate ideas for each source
+    reddit_ideas = get_ideas_for(reddit_posts, max_ideas=5)
+    hn_ideas = get_ideas_for(hn_stories, max_ideas=5)
+    devto_ideas = get_ideas_for(devto_articles, max_ideas=5)
+    lobsters_ideas = get_ideas_for(lobsters_stories, max_ideas=5)
+    github_ideas = get_ideas_for(github_trending, max_ideas=5)
+    dribbble_ideas = get_ideas_for(dribbble_shots, max_ideas=5)
+    techcrunch_ideas = get_ideas_for(techcrunch_articles, max_ideas=5)
+    trends_ideas = get_ideas_for(trends, max_ideas=5)
+
+    # Aggregate all ideas
+    all_ideas = []
+    for ideas in [reddit_ideas, hn_ideas, devto_ideas, lobsters_ideas, github_ideas, dribbble_ideas, techcrunch_ideas, trends_ideas]:
+        if isinstance(ideas, list):
+            all_ideas.extend(ideas)
+        elif isinstance(ideas, str):
+            all_ideas.append(ideas)
+    best_ideas = pick_best_ideas(all_ideas, top_n=5)
 
     html = '''
     <html>
@@ -85,10 +117,22 @@ def home(request: Request):
     </head>
     <body>
         <div class="sticky-bar">
-            <form method="post" action="/refresh"><button class="refresh-btn" type="submit">🔄 Refresh</button></form>
+            <span style="font-weight:600;letter-spacing:0.03em;">AppGenerator</span>
+            <a href="/refresh" style="float:right;margin-right:18px;background:#1976d2;color:#fff;padding:4px 12px;border-radius:7px;text-decoration:none;font-size:0.97em;">🔄 Refresh</a>
         </div>
         <div class="container">
-            <h1>AppGenerator: Daily Trends & AI Suggestions</h1>
+            <h1>Trending Content & AI App Ideas</h1>
+
+            <div class="best-ideas-section" style="background:#e3f2fd;border:2px solid #1976d2;padding:18px 16px 14px 16px;border-radius:14px;margin-bottom:28px;box-shadow:0 2px 8px #1976d222;">
+                <div class="best-ideas-title" style="font-size:1.18em;font-weight:bold;color:#1976d2;margin-bottom:8px;display:flex;align-items:center;gap:8px;">🏆 Top 5 App Ideas (All Sources)</div>
+                <ul class="best-ideas-list" style="margin:0 0 0 10px;padding:0;">
+    '''
+    for idea in best_ideas:
+        html += f'<li>{idea}</li>'
+    html += '''
+                </ul>
+            </div>
+
             <div class="section">
                 <div class="site-title"><span class="icon">👽</span>Reddit <span style="margin-left:10px;font-size:0.95em;color:#888;">({len(reddit_posts)} posts)</span></div>
                 <details>
@@ -124,6 +168,107 @@ def home(request: Request):
                     <ul class="suggestion-list">
     '''
     for idea in get_ideas_for(hn_stories, max_ideas=5):
+        if idea.strip():
+            html += f'<li>{idea}</li>'
+    html += '''
+                    </ul>
+                </div>
+            </div>
+            <div class="section">
+                <div class="site-title"><span class="icon">📝</span>Dev.to</div>
+                <ul class="sites">
+    '''
+    for article in devto_articles:
+        html += f'<li><a href="{article.get("url", "#")}" target="_blank">{article.get("title", "[No Title]")}</a> <span style="color:#888;font-size:0.93em">({article.get("positive_reactions_count", 0)} reactions)</span></li>'
+    html += '''
+                </ul>
+                <div class="suggestions" id="sugg-devto">
+                    <div class="suggestions-title" onclick="toggleSuggestions('sugg-devto')">💡 AI Suggestions for Dev.to <span class="suggestion-toggle">▼</span></div>
+                    <ul class="suggestion-list">
+    '''
+    for idea in get_ideas_for(devto_articles, max_ideas=5):
+        if idea.strip():
+            html += f'<li>{idea}</li>'
+    html += '''
+                    </ul>
+                </div>
+            </div>
+            <div class="section">
+                <div class="site-title"><span class="icon">🦞</span>Lobsters</div>
+                <ul class="sites">
+    '''
+    for story in lobsters_stories:
+        html += f'<li><a href="{story.get("url", "#")}" target="_blank">{story.get("title", "[No Title]")}</a> <span style="color:#888;font-size:0.93em">({story.get("score", 0)} points)</span></li>'
+    html += '''
+                </ul>
+                <div class="suggestions" id="sugg-lobsters">
+                    <div class="suggestions-title" onclick="toggleSuggestions('sugg-lobsters')">💡 AI Suggestions for Lobsters <span class="suggestion-toggle">▼</span></div>
+                    <ul class="suggestion-list">
+    '''
+    for idea in get_ideas_for(lobsters_stories, max_ideas=5):
+        if idea.strip():
+            html += f'<li>{idea}</li>'
+    html += '''
+                    </ul>
+                </div>
+            </div>
+            {% for idea in best_ideas %}
+                <li>{{ idea }}</li>
+            {% endfor %}
+                </ul>
+            </div>
+
+            <div class="section">
+                <div class="site-title"><span class="icon">💻</span>GitHub Trending</div>
+                <ul class="sites">
+    '''
+    for repo in github_trending:
+        html += f'<li><a href="{repo.get("url", "#")}" target="_blank">{repo.get("title", "[No Title]")}</a> <span style="color:#888;font-size:0.93em">({repo.get("stars", 0)} ★, {repo.get("language", "")} )</span></li>'
+    html += '''
+                </ul>
+                <div class="suggestions" id="sugg-github">
+                    <div class="suggestions-title" onclick="toggleSuggestions('sugg-github')">💡 AI Suggestions for GitHub Trending <span class="suggestion-toggle">▼</span></div>
+                    <ul class="suggestion-list">
+    '''
+    for idea in get_ideas_for(github_trending, max_ideas=5):
+        if idea.strip():
+            html += f'<li>{idea}</li>'
+    html += '''
+                    </ul>
+                </div>
+            </div>
+            <div class="section">
+                <div class="site-title"><span class="icon">🎨</span>Dribbble</div>
+                <ul class="sites">
+    '''
+    for shot in dribbble_shots:
+        html += f'<li><a href="{shot.get("url", "#")}" target="_blank">{shot.get("title", "[No Title]")}</a></li>'
+    html += '''
+                </ul>
+                <div class="suggestions" id="sugg-dribbble">
+                    <div class="suggestions-title" onclick="toggleSuggestions('sugg-dribbble')">💡 AI Suggestions for Dribbble <span class="suggestion-toggle">▼</span></div>
+                    <ul class="suggestion-list">
+    '''
+    for idea in get_ideas_for(dribbble_shots, max_ideas=5):
+        if idea.strip():
+            html += f'<li>{idea}</li>'
+    html += '''
+                    </ul>
+                </div>
+            </div>
+            <div class="section">
+                <div class="site-title"><span class="icon">📰</span>TechCrunch</div>
+                <ul class="sites">
+    '''
+    for article in techcrunch_articles:
+        html += f'<li><a href="{article.get("url", "#")}" target="_blank">{article.get("title", "[No Title]")}</a></li>'
+    html += '''
+                </ul>
+                <div class="suggestions" id="sugg-techcrunch">
+                    <div class="suggestions-title" onclick="toggleSuggestions('sugg-techcrunch')">💡 AI Suggestions for TechCrunch <span class="suggestion-toggle">▼</span></div>
+                    <ul class="suggestion-list">
+    '''
+    for idea in get_ideas_for(techcrunch_articles, max_ideas=5):
         if idea.strip():
             html += f'<li>{idea}</li>'
     html += '''
@@ -169,6 +314,11 @@ from data_sources.google_trends_fetcher import fetch_trending_searches
 def refresh(request: Request):
     reddit_posts = fetch_top_posts(SUBREDDITS, limit=5)
     hn_stories = fetch_top_stories(limit=5)
+    devto_articles = fetch_devto_articles(limit=5)
+    lobsters_stories = fetch_lobsters_stories(limit=5)
+    github_trending = fetch_github_trending(limit=5)
+    dribbble_shots = fetch_dribbble_shots(limit=5)
+    techcrunch_articles = fetch_techcrunch_articles(limit=5)
     trends = fetch_trending_searches(limit=5)
 
     def standardize_post(p, source):
@@ -200,6 +350,11 @@ def refresh(request: Request):
     save_results({
         "reddit_posts": reddit_posts,
         "hn_stories": hn_stories,
+        "devto_articles": devto_articles,
+        "lobsters_stories": lobsters_stories,
+        "github_trending": github_trending,
+        "dribbble_shots": dribbble_shots,
+        "techcrunch_articles": techcrunch_articles,
         "trends": trends,
         "ideas": ideas
     })

@@ -1,406 +1,542 @@
 {
   "reddit_posts": [
     {
-      "title": "Everyone says they have this problem, but no one wants the solution — what am I missing? I will not promote",
-      "score": 32,
-      "url": "https://www.reddit.com/r/startups/comments/1jyxtk2/everyone_says_they_have_this_problem_but_no_one/",
-      "id": "1jyxtk2",
+      "title": "We hired a college fresher as a front-end intern. She outperformed experienced UI/UX designers and developers combined.  \"i will not promote\"",
+      "score": 130,
+      "url": "https://www.reddit.com/r/startups/comments/1jzwu6n/we_hired_a_college_fresher_as_a_frontend_intern/",
+      "id": "1jzwu6n",
       "subreddit": "startups",
-      "created_utc": 1744634308.0,
-      "num_comments": 43,
-      "selftext": "I will not promote.\n\nI'm currently building a solution to a problem I keep hearing about during my customer discovery interviews. Literally *every* person I talk to acknowledges the pain point — they even go into detail about how frustrating it is.\n\nBut when I bring up the idea of a solution or a potential partnership, the energy drops. None of them seem interested in buying, piloting, or even partnering to shape the solution further.\n\nIt’s confusing — if the problem is real and painful, why isn’t there more interest in solving it?\n\nI’m wondering if I’m framing the solution wrong, or if this is just a common trap in the discovery process. Has anyone else experienced this? How did you push through it?\n\nWould love any thoughts, frameworks, or real-life experiences you can share.\n\nEdit: since a lot of you mention the mom test, yes I have read it and try to follow it...",
+      "created_utc": 1744735911.0,
+      "num_comments": 88,
+      "selftext": "A few months back, we were hiring for a front-end role. We received over 600 applications and shortlisted 100. Instead of diving into long interviews or sending out take-home assignments, we did something simple.   \"i will not promote\" \n\nWe shared a 5-page study doc on the basics of UX, just enough to level the playing field. Then we spent 15 minutes with each person, asking twisted conceptual questions based only on that material. That’s all it took.\n\nIt gave everyone a sort of  fair shot. And from their answers, we could immediately see who could learn fast, think deeply, and apply creatively.\n\nThe thing is, startups can’t afford to hire for knowledge. There’s a disproportionate premium on it in the market, and big companies can pay that. Most startups simply can’t.\n\nBut what we can do is bet on potential. On people who pick things up quickly, who care about what they build, and who are kind and driven enough to work well with others.\n\nWhat I really dislike is when companies give out long assignments or ask candidates to work with internal boilerplate codes and call it “assessment.” That’s not assessment, it’s disguised exploitation. You’re asking someone to work for free without hiring them. And the worst part is, the candidate can’t even say anything because the power dynamics are too skewed. One side is offering a job, the other is just hoping.\n\nThat’s why our approach worked so well.\n\nOut of 100 candidates, ten stood out. One of them was still in college. I was skeptical. Our CTO insisted. She joined as an intern.\n\nAnd she’s now outperforming people with years of experience. Not because she knew everything, but because she learned fast, executed consistently, and took feedback without ego.\n\nIt sounds like common sense, but only once you’ve lived through it.\n\nStartups should optimize for learning ability, not experience. And the smartest ones do it in ways that are humane, fair, and simple.\n\nThat’s the only hiring framework we follow, and it’s worked beautifully.\n\nCurious to know how others approach hiring in early-stage teams. What has worked for you\n\n ",
       "top_comments": [
-        "You can try asking how they solve the problem today. If they don’t come up with workarounds, the problem may not be painful enough to be worth solving. \n\nhttps://www.momtestbook.com",
-        "My experience is people enjoy complaining about things more than being a part of the solution. \n\nIn MANY walks of life.",
-        "Hey, User Researcher here 👋🏻\n\nI could be wrong, but since you said everyone “acknowledges” the problem, I’m assuming that you’re asking them IF x and y are a pain point for them, which is leading them to say “yes”.\n\nAre you?\n\nIf this is the case, you need to stop doing this.\n\nInstead, ask them what they did in the past to solve the problem you are trying to solve.\n\nThen, dig deeper into the reasons why this is a problem for them, and why what they did helped them.\n\nThen, compare what they said with your solution. \n\nAvoid introducing solutions this early on, unless you’ve built a solution already based on insights from previous research.",
-        "There are problems and then there are compelling problems at different levels. Then there are different solutions.  Think of this way:\n\n- vitamins\n- painkillers\n- antibiotics\n\n(I can’t remember where I learned this for proper credit)\n\nVitamin problems and solutions: nice to have but not really compelling enough to change behaviors without major works. \n\nPainkiller problems and solutions only compel action when the pain is felt. Timing is all. \n\nAntibiotics are the best because nobody wants to die. \n\nCheck where you are in the spectrum. If you’ve read the mom test you know that what people say and will do are totally different things.",
-        "Classic example of this would be:\n\nPerson A: I really need to lose some weight.\n\nPerson B: Exercise and eat less bad foods.\n\nPerson A: No.\n\nIf the solution has a greater cost or inconvenience associated with it we'd rather stick to having the problem.\n\nSo, you're obviously a greater inconvenience than the problem that you could make go away. How can you change that? How can you go from being a PITA \"partnership\" to a quiet mouse that in the background just disappear this problem of theirs?"
+        "I hope you're not paying her an intern salary. If she's as skilled like you say she is, pay her commensurably.",
+        "I guess every person is unique and usually a new joiner shows better performance than the existing one. When I joined my first company many with 5 years experience were doing 10 tasks per day and I was doing 18-20 on a daily basis. This helped me to move through different teams to learn new things but financially it never helped.\nAlthough I miss my old self but honestly if you ask me today to do the same task 18-20 daily I won't be able to do it because of lack of motivation. That time I had a motivation to learn and show the world I can do something.",
+        "I can tell you what did not work for us as a startup - not having the time to interview 100 candidates hoping we hit jackpot. We had great deal of success interviewing a few experienced candidates. From previous experience, hiring fresh grads worked when we had a great training/onboarding program geared towards them, and the luxury to pay for all that both in money & time.\n\nIm glad it worked for you.",
+        "Sorry but you will soon find out why you don’t get interns to build your products. Even experienced devs struggle with this, it’s scalability of code. Anyone can write code but only few can write scalable code. Anyways gluck",
+        "She is am exception, by definition, or the other candidates were all coincidentally quite bad at what they do for a living.\n\nEither way, companies do typically hire based on a combination of existing skill, perceived ability to learn & grow, work ethic, etc. I don't think this is necessarily some revelation but maybe some startups need to hear it. For obvious reasons people with no work experience or demonstrable skills often won't even get the interview, because you can't burn a bunch of runaway interviewing every breathing human who applies."
       ]
     },
     {
-      "title": "I can't \"Relax\", so I Found a Better way to Disconnect from my Startup (I will not promote)",
-      "score": 19,
-      "url": "https://www.reddit.com/r/startups/comments/1jz81zt/i_cant_relax_so_i_found_a_better_way_to/",
-      "id": "1jz81zt",
+      "title": "Sequoia Capital called ME to Pitch - and I Blew It (I will not promote)",
+      "score": 84,
+      "url": "https://www.reddit.com/r/startups/comments/1jzru0o/sequoia_capital_called_me_to_pitch_and_i_blew_it/",
+      "id": "1jzru0o",
       "subreddit": "startups",
-      "created_utc": 1744659943.0,
-      "num_comments": 18,
-      "selftext": "For years I couldn't figure out why it was so hard for me to go on vacation or take a break and \"forget about my startup\".  \n\nI would try, but every time I did I wound up being even more anxious than when I started.  I'd get 2 days into a week-long vacation, and I'd be sitting by the pool trying to wind down, but all my brain could do was think about what I had to do with my startup.\n\nSo a couple of years ago, I tried something different - I looked for a challenge that I could obsess over that was WAY bigger than my startup - and that's when it finally clicked.\n\nI'm an avid hobbyist carpenter, so I decided to design and build a new house entirely on my own.  I would learn everything from 3D modeling to create it to all of the trades necessary to build it.  I made this thing so overwhelming that I had no choice but to consume my brain.\n\n(BTW you can learn literally anything on YouTube!)\n\nNow, truth be told, I wasn't able to build every single aspect myself since there were certain things (like laying foundation or structural steel) the I wasn't looking to take chances with.  But I've designed every. single. aspect of this house in full 3D (Sketchup, Enscape, Vray) down to the size of the drawer slide in the basement bathroom.  I've built every kitchen cabinet, vanity, closet - you name it.  \n\nBut this isn't me talking about my carpentry skills; it's about talking about what it DID for me.  \n\nIt completely changed my focus.  Not in a way where it hurt my startup, but in a way it HELPED my startup (and me personally, which I think should count for something).\n\nI needed something that could compete with those anxious thoughts at 2am where I would normally be trying to solve my startup problems that frankly never got solved at 2am.  Instead my mind was consumed by SOLVABLE problems like how to best join two parts of a cabinet.  I had no idea how badly my mind needed to work on things that had a definitive start and end (this isn't a small point, many of us having timelines that are years, decades).\n\nI'm curious if anyone here has had a similar experience of how they've found a challenging counterbalance to their startup.  Yes, I'm also a father of two, so I'm well aware of how family fits here, I'm talking about outside of that.\n\n(I will not promote)",
+      "created_utc": 1744723548.0,
+      "num_comments": 32,
+      "selftext": "So many moons ago I was running an online automotive marketplace that was doing fairly well, but hadn't taken any funding.\n\nOne day I get a call from Roelof Botha, who some of you know is the Managing Partner of Sequoia.  But back then (this is 2003-ish) he was just an associate pounding the phones looking for deals, and he came across my company.\n\nUp until this point I had never raised a penny in my life, but I knew exactly who Sequoia was, and when he called and asked if we were raising my answer was basically \"Sure, if you're investing...\"  I would imagine they get a lot of that.\n\nThey wanted me to fly from Columbus, Ohio to their offices on Sand Hill Road.  I knew absolutely nothing about what it meant to prep a pitch deck (which is ironic because I now help people with this for a living) or how to answer any questions, but I was really good at face-to-face sales because I had run an ad agency for a decade.\n\nI fly to Menlo Park and show up wearing a suit - mistake one.  I was used to big agency pitches where people still wore suits to presentations (back then).  I looked like I was going to church, or a funeral.. or any event but a Silicon Valley VC pitch.  It did not go un-noticed.\n\nThe moment the meeting started, Roelof, who BTW is one of the kindest guys in VC, told me how much he appreciated me flying all the way out and how he had asked another partner if he'd join us.  But not just any partner - the partner - the legendary Mike Moritz.  Mike's list of deals could fill a NASCAR car - Google, Yahoo!, PayPal, Linkedin - all the darlings of that era.\n\nMike Moritz, as it happens, s NOT the kindest guy in VC.  He immediately laid into me with no hesitation and started asking questions that at the time I had never heard \"So what are you doing with your CPA? (Cost per Acquisition, we call it \"CAC\" now) and my answer was \"We don't have a CPA, currently\"  I literally thought he meant who is our accountant.  That did not go over well.\n\nMike was very clear about how unprepared and incompetent I was.  While feeling humiliated I also thought \"Dude, you called ME\".  But I persisted.  I explained how quickly our metrics were improving (even if I apparently didn't know what they were called...) and that I thought this could be a billion dollar company, if not more.  I think they saw a glimmer of hope, but quickly showed me the door anyway.  I assumed that was the end of it.\n\nOn my way back to my airport hotel next to SFO, ready to head home, Roelof calls me and says \"They really liked what they saw - we want you to come to the partner's meeting on Monday if you're willing to stay the weekend.\"\n\nI was shocked.  It was maybe the worst feeling I had ever had coming out of a sales meeting and I had been on hundreds.\n\nRegardless, I showed up on Monday ready to give it a second shot.  I had never been to a partners meeting, and I had no idea what that meant or the significance.  It would be like getting invited to play in the SuperBowl but you didn't really know what football was.\n\nThe partner meeting is where ALL of the partners of the firm show up to get pitched together.  It's the big show.  I got up there in my out-of-place suit, and fired away about the future of this startup.\n\nThat's when one of the partners, Mark Kvamme, simply asked \"So how are you looking at your TAM?\"  (For those that aren't familiar, \"TAM\" means Total Addressable Market and it means how many people could possibly buy your product, even if not all of them bought from you.)\n\nI had no goddamn clue what a \"TAM\" was.  I panicked, and I did I what I had learned when I was coming up in the agency business in my early 20's - I flipped the question.\n\n\"Before I dig in, can you give me a sense for how you're looking at it, so I'm answering the question properly?\"  The idea there is to see if they will give you some context clues before you completely bomb out.  Mark didn't take the bait - \"No, just tell me how you're seeing it.\"\n\nTotally f\\*cked.  When you sit in front of arguably the smartest, most successful VC's in the world, you probably should know what your goddamn market size is.  I didn't even know what the term for my market size was.  (bc life is weird, Kvamme and I would end up re-connecting years later when he moved to Columbus, Ohio of all places).\n\nI've been in a lot of big pitches prior to that, and some way bigger than this, but I don't think I've ever seen the sheer disdain from a group of people that I saw on the faces of the people in that room, at that moment.  I truly earned that reaction.\n\nThey were very professional, but I'm well aware when I've completely bombed, it usually happens when you see each of the people on the other side of the table exchange glances, and then collectively agree that you should get the hell out of the room.\n\nRoelof dutifully escorted me out, past what has to be the biggest collection of \"tombstones\" (investment banker speak for 'companies we took IPO or had a huge sale') that I've ever seen in my life.  It was like a reminder of who I wouldn't become.\n\nOn my way back home, he called and informed me that Sequoia would not be investing \"in this round\" (beautiful phrasing btw) and how much they would love to stay in touch.  I've been told \"no\" from nearly every VC that's out there at some point in my career, but to this day, no one made me feel better about it than he did.  I've always held so much respect for that, because it's not an easy call to make.\n\nSo, I went back to my little corner of the world and just kept bootstrapping.  The company would go on to be very profitable and still privately held today (not by me).  I would go on to start 3 more venture funded companies (incidentally, none by Sequoia...)\n\nI share this for those of you who are fundraising for the first time - I do this for a living (31 years as a startup Founder) and have helped other startups raise over a billion dollars, and I still didn't know jack shit going into this - there's no reason you would either!\n\nI also share this with my fellow Founders who may have gone through this same experience and can appreciate what it feels to get completely shut down on the pitch.\n\nIt happens to all of us.\n\nSide note - Soon after meeting with me, Roelof would meet the Founders of YouTube and land his first major investment, which apparently went better than mine, and is what put him on the track to become Managing Partner he is today.\n\n(I will not promote)",
       "top_comments": [
-        "I can relate. I used to play a lot of computer games as a kid. Later I dropped competitive gaming and spent last 15 years in IT. 3 years ago I started my own business and had similar issue like you.\n\nWith burn down and too much on my plate I decided to step down from my leadership role. This did not help as my mind was still in work 24/7 I just worked on different part of it with same obsessive passion.\n\nYear and a half ago my old game of choice, quake 2, got remastered and the community of old players resurfaced. This gave me option and push to try something I always wanted to do, make new maps.\n\nI found discord and people that helped me start, and there I was, obsessed by my new old passion. It helped me relax, moved my thoughts away from startup and business meetings.\n\nDid it help both? Well I for sure am better as I refocused to me, family and what I love. For the startup I think it also gave space to others to step where my obsession moved away.\n\nHope we both get the best out of this life.\nThanks for sharing OP.",
-        "some people just like to build",
-        "Hi OP. You are awesome. Designing a house in 3D is really awesome. I work on my yard . Grow different kinds of flowers and work on electrical stuff . Keeps me really happy",
-        "This, so much this. At the moment, I'm not taking the time to do such things, but your post definitely underlines that I definitely should.",
-        "Great idea and breakdown, highly recommend. The one for me was fixing my body, specifically my lower back. Has turned into an entire project to be extremely fit and healthy. Great challenge to undertake that takes my mind off my business, while indirectly contributing massively to its success. Best of luck with both your house and startup!"
+        "Cool story.\n\n\nBack then most people didn't know about CAC and TAM. VCs want to know if they give you money that you can spend it efficiently and potentially 10x their investment.\n\n\nCarvana was a success story in online autos, so your sector had potential. Maybe Sequoia was talking to a bunch of similar companies to see which one gave them the best vibes.",
+        "I'm a big fan of Roelof and these types of first-hand stories are hard to come by, so I appreciate you sharing. \n\nWere there any other interesting questions that they asked that stood out to you as different compared to other VCs?",
+        "I just want to say thanks for sharing your first hand experience.",
+        "Awesome, really awesome. Appreciate the honesty .",
+        "HAHAHA LOVE THIS. \n\nI’ve been in similar situations and by the end of your story I was practically reading through my fingers in shared embarrassment. \n\nThanks for sharing."
       ]
     },
     {
-      "title": "Anyone here built (or joined) a Slack community for startups? Looking for tips. I will not promote.",
-      "score": 19,
-      "url": "https://www.reddit.com/r/startups/comments/1jz6gwh/anyone_here_built_or_joined_a_slack_community_for/",
-      "id": "1jz6gwh",
+      "title": "playbook YC startups use to add $2M+ ARR in 3 months (I will not promote)",
+      "score": 55,
+      "url": "https://www.reddit.com/r/startups/comments/1jzst85/playbook_yc_startups_use_to_add_2m_arr_in_3/",
+      "id": "1jzst85",
       "subreddit": "startups",
-      "created_utc": 1744656155.0,
-      "num_comments": 15,
-      "selftext": "Hey all – I work at a VC firm that has ~400 active portfolio companies, and we’re spinning up a private Slack community for Founders and CEOs. The goal is to create a space for collaboration, shared resources, real-time questions, and a general sense of founder-to-founder support. \n\nI’m looking to learn from anyone who has experience building or participating in similar communities:\n-What made it great (or at least worth being active in)?\n-What killed engagement?\n-What are smart ways to organize channels (we invest across Software, Life Sciences, HardTech, and Consumer Products)?\n-What are some underrated tips that helped it run smoothly over time?\n-Bonus points if you’ve dealt with managing scale or vertical-specific convos in one space.\n\nWould love to hear any wins, lessons learned, or even horror stories. Appreciate the wisdom!",
+      "created_utc": 1744726147.0,
+      "num_comments": 11,
+      "selftext": "Here's a YC success case study of using hyper-specific micro-campaigns to drive a ton of B2B enterprise sales.\n\nThe core ideas:\n\n1. Start with tiny lists (10-100 prospects). Instead of massive csvs with 10k+ prospects, use lists so specific the list *itself* basically writes the messaging. Think \"Series A founders in X niche who recently hired Y role\". Use tools like Clay for enrichment.\n\n2. List = Messaging. Because the list criteria are so tight, the email angle should be super relevant right off the bat. Less generic BS, more \"I saw you specifically did...\"\n\n3. Multi-Channel Punch: Uploaded the *same* micro-lists for LinkedIn connection requests (directly from founder profiles). Accepted connection => relevant, manual DM. Hit email + LinkedIn in the same short window.\n\n4. Founder Content: Posted 4-5 valuable LinkedIn pieces weekly (wins, insights, even personal stuff). Keeps you top-of-mind and builds authority.\n\n5. Engager Outbound: Scrape LinkedIn post likers/commenters, enriched, and run *another* targeted outbound sequence if they fit the ICP. (Basically, \"Hey, saw you liked my post on X, thought you might find Y interesting...\")\n\nIn summary, it's all about creating a wall of sound with high-quality, relevant touches, not just volume. More upfront work on list building and personalization, but way fewer crickets and way more actual meetings booked.\n\ntldr; more targetting, less blasting.\n\nI will not promote",
       "top_comments": [
-        "Keep the invitations to people that physically show up to meetups or participate in other events. And have channels dedicated to people at similar stages. Don’t make the good ones run away after drowning in messages from those just starting out and begging for introductions to the investors. ",
-        "We ran a 650 member Discord for startup founders and execs (2018-2022). It was great for support (early on) and off-platform meetups, but there were key challenges with engagement and scaling trust once the group got big.\n\n*Early Decisions (and challenges):*\n\n* Vetting\n* Guardrails\n* Legal risks\n* Discord vs Slack\n\n*What worked well:*\n\n* Off platform events - A lot of members hosted events - basketball, coffee meetups, co-working, etc. That created real bonds that carried back online.\n* Promo sharing - Discount codes for tools (Docusign, Workspace, Domain sites, etc.) were a hit and created a karma effect.\n* Office & equipment sharing - Members would lend short-term access to things like office desks, 3D printers, camera gear, etc. Office space they charged way lower than commercial options and for gear they usually just charged for things they used like filaments (for 3D printing). One cooler example: a few members went in together on a professional embroidery machine to make custom marketing hats and shirts. They broke even compared to getting them done professionally. Others in the group could use it too. All they had to do was bring their own thread and chip in a small donation.\n\n*What didn't work:*\n\n* Heavy mod dependence - For the first 9 months, the group required active mods to seed conversations, follow-ups, and maintain engagement. It helped that one mod was a semi-well known entrepreneur with multiple exits, so people wanted to hear what he had to say and give feedback.\n* Too many channels - We created too many which resulted in empty channels. This made people think the entire server was a ghost town. We trimmed them down to just a few core ones and only added new ones when there was consistent demand. I'd suggest start with like 3-5 channels.\n* Group got too big (after 100) - Once we crossed 100 members, engagement dropped noticeably. People shared less because they didn't feel safe sharing with so many newer faces. Over time, small cliques formed and it started to feel like high school all over again.\n* Member expectations - These communities thrive when new members show up ready to contribute. It signals to others that there's mutual value. But in reality, we found most people wanted to consume rather than contribute. Many wanted to feel like part of a community, but without actually engaging. By the end, over 92% of members were lurkers (we had bots tracking user activity). While they logged in regularly, they didn't meaningfully participate or add value to the group.",
-        "Yes. I run StartupSauce, a private slack community for advanced SaaS founders based outside Silicon Valley. \n\nSome advice:\n\n1 - Screen people before they are allowed to join. \n\nWe only allow founders and CEOs of SaaS businesses with $5k MRR or more to join. \n\nWe don’t take idea stage folks. We don’t take non-founders. We don’t accept people who run non-SaaS businesses. \n\nThis keeps the group relevant and ensures discussion is on point. It also filters out a lot of bad advice. \n\n2 - Have a regular ritual that brings people together. \n\nWe organise bi-weekly mastermind calls where founders can discuss problems and give each other advice. Technically they could just do this via the slack group - but there’s something a lot more human about a video call. Many of our members rarely post, but engage a lot on these calls. We also generally see a flurry of activity after these calls as it brings people back to our slack group and they catch up on all the other messages.\n\n3 - Don’t poke people for fake engagement \n\nThis was a crucial lesson for us. The conventional wisdom is to push people constantly to engage on slack. But our members are founders, they’re busy building their company and don’t want to sift through a thousand irrelevant messages to find one gold nugget. \n\nSo we focus on more signal, less noise. If we find something genuinely great, we’ll post it. If someone asks for help, we’ll offer resources and intros and tag other members with relevant experience. But we don’t just post shit for the sake of it - that’s just an annoying distraction for our members and we want to focus on quality. \n\n4 - Make sure there is a place to celebrate wins\n\nAs entrepreneurs, we spend a lot of time fighting fires and dealing with problems, so it’s nice to actually take some time out to be proud of what we built. \n\nAt StartupSauce we do this two ways. First we have a #wins channel where folks can post anything they consider a win. This isn’t necessary revenue - we’ve had people post about finally finding that awesome developer they’ve been trying to hire for months; or getting a kickass testimonial from a happy customer, to being able to fire their last consulting client and go all-in on their bootstrapped software business. These posts usually get a LOT of positive encouragement from other founders - and it feels really damn good to have a whole slack community of other founders cheering for you. \n\nThe other way? We have an unofficial tradition that when a member reaches $1m ARE we send them a gift - usually a bottle of wine or whiskey or something. I even bought some really fancy sparkling wine for a founder who didn’t drink. This is a huge milestone and it’s important to celebrate it. About 30% of our members are at $1m ARR or beyond so we’ve actually had to buy a lot of gifts 😂. \n\n5 - Make sure there are some formal learning opportunities\n\nWe do workshops once a month. Usually they are member-led. Sometimes we record them, but sometimes - if the subject matter is really sensitive - we don’t. We have a big library of previous workshops that new members can watch. Everything from how to actually run FB ads for SaaS to building competitor comparison pages for SEO to selling your business and managing stress and burnout as a founder. \n\nWe ALSO require all our members to - at some stage - run a workshop or be on a panel discussion. So there is a formal mechanism for each member to share their knowledge with the community. This is super valuable, because it’s very rare that an earlier stage founder can get easy access to insights from so many other founders who are a few steps ahead. \n\nThere’s a LOT more to this, happy to discuss further privately if you want to DM me. \n\nWe made a bunch of mistakes too, like not having a content layer when we started, so I eventually bit the bullet and started a podcast where I interview 7 figure SaaS founders - but that wasn’t until several years into running the community.",
-        "I run our Slack community of founders at [Startups.com](http://Startups.com) that currently has 1,300+ members (not all active). The biggest thing is to make sure your channels are organized (with proper permissions) in a sensible fashion and you have people dedicated to getting the flywheel spinning. In other words, nobody likes being part of a Slack where nobody talks (too much talking is a whole other thing). I find that founders on Slack act differently than discord users. So, listen to your audience and keep adjusting until you find your culture.",
-        "From the other side — each of my VCs has a group, and I’m in three different Techstars groups. There are thousands of founders between them, but fewer than 10 founder posts total each month. Most of the posts are just people sharing their LinkedIn content asking for likes and shares. These rarely get any engagement in Slack, but a lot of founders engage with the actual LinkedIn post — so people are reading.\n\nI’m also in a local startup studio group, which is the most active. I think it’s the most active bc they have someone on staff who always posts in there forcing engagement.\n\nThe most active Slack groups I’m in are highly focused — like GTM for [X eg Heath tech SaaS] or JS devs. They have way fewer people, but dozens of posts every day.\n\nI think the problem with general startup groups is that, yeah, we’re all founders — but that’s where the similarities end. We’re building totally different companies, at different stages, and we’re all overworked. The advice ends up being general, not pointed like in niche GTM or dev groups. I think segmenting founders into verticals could help like marketplaces, health tech, etc. \n\nThis would give me a specific place to post a specific question and I would get a response from someone else doing that exact thing…. Kinda like subreddits but more private."
+        ">  Hit email\n\nthis is spam. I'm a founder and I instantly just report spam + ignore anyone who is trying to sell me something in email.",
+        "Cap.",
+        "First off, I agree with the approach.  \n\nI do absolutely love the marketing angle that comes with this advice, though.  Today's \"hyper-personalized micro-campaigns\" were 2013's prospecting standards.\n\nI think people should be aware that sales is well aligned with general human psychology and many of the principles are persistent.  New technology like automation and AI creates short-term advantages for salespeople before prospects eventually savvy up to the tactics and things revert to the mean."
       ]
     },
     {
-      "title": "Is now the time for a European social media startup? I will not promote",
-      "score": 17,
-      "url": "https://www.reddit.com/r/startups/comments/1jytsu6/is_now_the_time_for_a_european_social_media/",
-      "id": "1jytsu6",
+      "title": "What advice would you give to a startup founder who is struggling to close deals and wants to hire a head of sales? i will not promote",
+      "score": 29,
+      "url": "https://www.reddit.com/r/startups/comments/1jzlcg4/what_advice_would_you_give_to_a_startup_founder/",
+      "id": "1jzlcg4",
       "subreddit": "startups",
-      "created_utc": 1744618824.0,
-      "num_comments": 21,
-      "selftext": "With U.S. platforms dominating and tensions rising, is there room for a social media app built and based in Europe?\n\nFull control over data, policy, and direction — no dependency on U.S. companies.\n\nReal opportunity or just a fantasy against the network effect? I will not promote",
+      "created_utc": 1744699892.0,
+      "num_comments": 39,
+      "selftext": "Seed stage company selling to large enterprise. Struggling to close deals and wants to bring on a head of sales to fix it. Issues are coming in the sales cycle (POC and pilot) around value prop understanding and from poor process, sales 101 type stuff. \n\nI’ve have “Founding Sales” in paperback and kindle. I know this is not a good idea. I am trying to convince my friend (ceo) of this, that he needs to solve this himself a few times before he can hire someone, that he needs to focus more time on founder led sales. But he always wants to hire. It’s his first startup although he has 20 years of experience in consulting for his ICP. \n\nI am wondering if I am missing something and there’s a world where this would be a good idea? What advice would you give someone who is seriously considering this? ",
       "top_comments": [
-        "Get in line behind the existing people already doing it, and have been trying to do for a long time, and are trying to get a boost out of these times being what they are. ",
-        "Astounding how well-researched posts are. \n\nXING is widely used in Germany, Switzerland. Viadeo is based in Paris. There are others but I don't care enough to find them. \n\nFantasy is problematic when you can't deal with nor acknowledge reality.",
-        "No, you really got to add something new to the table. Privacy and control is not what people make a social media account for and they definitely wouldn't be your best users. Just being European will not be enough to enhance a network effect like the mainstream social media, maybe in a niche group.",
-        "No. The idea isn’t rooted in user demand, it’s driven by business or political motives, not by what people actually want. Without a genuine need or desire from users, it won’t work.",
-        "Many of the smaller social media apps use Google's ContentId in the backend, because even they wouldn't allow random image uploads these days. That api can become very expensive. Meta has 10000s of \"content cleaners\" who see really bad shit every day and a 100 million dollar ai platform to manage the less important bits.\n\nThe prime issue is to get all those highly trained people and a strict legal setup that doesn't require you to pay 1$ for every image or sound uploaded. Because you are in no position to avoid the copyright hawks. TiKTok can slide through a lot of those things due to market power but the startup can't. They will subjugate every startup into bankruptcy."
+        "I think in the beginning your friend has to do it to know exactly what needs to be done, boots on the ground.\n\nAfter he experiences it and validates that clients actually want his service, then he can proceed with hiring sales and expanding the team as needed.\n\nBut generally, from what I’ve seen, people don’t like to be sold to. A better approach is to show value first, solve a small problem, offer real insight, or share something useful, and then pitch the next steps if there’s a fit.\n\nSo tl;dr is:\n→ don’t sell directly, show value first and gauge interest\n→ once there’s a signal, guide them toward the next steps naturally\n→ do the work yourself at the start to deeply understand the pain\n→ after validation, scale up with hires and systems",
+        "I'll put a different spin on this that I'm not seeing anywhere.\n\nSounds like the founder hasn't had any sales himself, so he has a product that has not been sold  (or has had very little sales).\n\nHiring a head of sales in that area guarantees at least one of two things, if not both.\n\n1. He's going to have to give up a lot of equity.\n\n2.  He runs a very high risk of wasting whatever compensation he's giving to the sales person.  If he can't vet his own PRODUCT, how is he going to vet a sales person?",
+        "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*",
+        "Have you validated the offering or is this the market pushing back?",
+        "Focus on objections, and helping instead of selling. People dont want to be sold."
       ]
     },
     {
-      "title": "idea for a product but the skills are beyond me (I will not promote)",
-      "score": 4,
-      "url": "https://www.reddit.com/r/startups/comments/1jzawn1/idea_for_a_product_but_the_skills_are_beyond_me_i/",
-      "id": "1jzawn1",
+      "title": "Strategy > Execution (i will not promote)",
+      "score": 9,
+      "url": "https://www.reddit.com/r/startups/comments/1jzl9va/strategy_execution_i_will_not_promote/",
+      "id": "1jzl9va",
       "subreddit": "startups",
-      "created_utc": 1744667008.0,
-      "num_comments": 18,
-      "selftext": "I'm curious about how to start a startup. I've got an idea that will require about 5 different engineers but I have no idea how to find the ideal candidates or to get the funding to hire them. Is there a potential for % ownership of the theoretical company? I'm just curious how to take a product idea and actually start developing it. (I will not promote?)",
+      "created_utc": 1744699598.0,
+      "num_comments": 23,
+      "selftext": "The idea that 'execution eats strategy for breakfast' and that 'execution is everything' has become a religion for many VCs and founders. After being part of a couple of journeys, I wanna officially call BS on that. \n\nGood and swift decision-making in the startup space is not talked about enough, IMO. Knowing when to expand heavily, who to partner with, where to take the product, and who to target makes a huge difference. \n\nThe problem with underestimating decision-making and overestimating 'execution' is that you spend too much time perfecting internal processes and talking about ownership... and too little care in decisions that can either put you in cruise control, or aim you at a brick wall. \n\nFor me, I'd rank it:\n\n\\- WHAT you are doing ('the strategy') --> 40%\n\n\\- WHO you are doing it with ('the people') --> 40% \n\n\\- HOW you are doing it ('the day-to-day execution') --> 20%\n\nDo you agree?\n\n(I will not promote)",
       "top_comments": [
-        "You don't know how to code but it will require 5 different engineers? How did you come up with that may I ask?",
-        "I'll do it for 100%, Just post the idea here.\n\nSeriously though, what are you bringing to the table? Because ideas are worth less than nothing. They are a statement of required work with no guarantee of profit.\n\nIf you want people to be interested in the idea bring a business model.",
-        "Great ideas are a dime a dozen, don't be too attached to them.\n\nExecuting is 50x harder than getting a good idea.",
-        "Ask ChatGPT 😜",
-        "First step is not finding resources. \n\nFirst step is determining whether you should build it. Test the business idea and mitigate the risk of failure and loss. \n\nHere are some notes: https://mrno.co/testing"
+        "How about...\n\nHOW painful is the problem?\n\nHOW much empathy do the people on the team have for the people with that problem?\n\nHOW much does everyone want to solve it?\n\nWHAT are the blockers to solving it?\n\nWHO can overcome each blocker?\n\nHOW does the team communicate to orchestrate those solutions?\n\nWHAT are the communication touchpoints and rhythm of the work?\n\nHOW are decisions made, and HOW is that process structured to improve itself over time?\n\nThe \"Conditions\" Set > Strategy = Execution\n\nStartups are more like RTS games and this is like debating playing an RPG (Execution) versus designing the game mechanics (Strategy).\n\nIf your team isn't wired to do both, enjoy both, and keep getting better at both--need to look at what you're actually doing, the conditions you have set to do it, and the people that are doing with with you.\n\n\"Conditions\" turn into \"Culture\" and that's the thing that really ends up setting companies apart.  A company with a good culture going up against a company that thinks culture means the C-suite spending 6 months to write a 5 sentence vision statement they are super proud of that no one remembers... Will ultimately win every time.",
+        "You're separating execution and strategy, but I don't know founders or VCs that would define it this way especially for a startup. Execution isn't just how you are doing something. It includes all the real-time decisions you make while building. Things like: how do you respond to user feedback, when to pivot or double down, what feature to prioritize next. \n\nIn a startup you're not pausing to \"do strategy\" once a quarter. Most startups, including mine, follow some form of Agile ... which is built on the idea that strategy is something you uncover through execution, not separate from it.\n\nSo in that sense I disagree with how you separate the two. But if you combine your percentages for strategy and execution ... I would agree that most VCs and founders would say \"execution (which includes strategy)\" make up roughly 60% and the team 40% of a company's success.",
+        "Totally agree. Execution is important, but it's just the vehicle - if you're heading in the wrong direction, it doesn't matter how fast you're moving. Good strategy and sharp decision-making are underrated, especially early on.",
+        "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*",
+        "Yes, I agree, strategy is important and sets the direction for the execution. I think strategy is often mistaken for execution. If the product is not gaining traction, it’s easy to say they didn’t execute. But is it not gaining traction because you’re building the wrong thing or because you’re building the right thing wrongly? The former is strategy, the latter is execution."
       ]
     },
     {
-      "title": "I’m 22. Took a loan to build an AI startup. It failed, and I’m trying to be okay with that.",
-      "score": 595,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jz77t9/im_22_took_a_loan_to_build_an_ai_startup_it/",
-      "id": "1jz77t9",
+      "title": "How I Built My Idea in 1 Week (& sold a customer for $2K/m)",
+      "score": 165,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jzrhwf/how_i_built_my_idea_in_1_week_sold_a_customer_for/",
+      "id": "1jzrhwf",
       "subreddit": "entrepreneur",
-      "created_utc": 1744657898.0,
-      "num_comments": 219,
-      "selftext": "I don’t really know why I’m writing this, maybe just to get it off my chest or hear from someone who's been through something similar.\n\nI’m 22. Last year, I took out a loan to build an AI startup I really believed in. It wasn’t just a side project. It was everything. I spent months building, learning, trying to solve a real problem with tech I thought was the future. I said no to job offers, pulled all-nighters, burned through savings, and then the loan, thinking I just needed a little more time to make it work.\n\nWe launched. Got a bit of traction. People seemed curious but not enough to stay. Feedback was mixed. I kept pushing, trying to pivot, trying to “just fix one more thing.” But eventually, it became clear that it wasn’t working. Not in the way I hoped. Not enough to survive.\n\nWe shut it down a few weeks ago. And now I’m left with a failed startup, debt, and a lot of lessons I didn’t expect to learn this early in life.\n\nBut I don’t regret it. I really don’t. I just wish it didn’t hurt this much.\n\nIf nothing else, I know now how hard it is to build something from scratch. How lonely it can feel. How much pressure comes when you’ve bet on yourself and it doesn’t work out.\n\nStill, I’d rather try and fail than sit wondering “what if.”",
+      "created_utc": 1744722614.0,
+      "num_comments": 28,
+      "selftext": "My day job is in UX and I wanted to launch a productized service. I’m 27, living in Minnesota, making \\~90K per year. Many of you know of DesignJoy and that was my initial inspiration. Considered taking their course (literally called Productize Yourself lol) but the reviews were horrible.\n\nFast forward to today, and I have a service that helps entrepreneurs find specific user personas for customer discovery. I promise 4 meetings of 30+ mins/month, remote or in person. I pitch it as a 1:1 mini-focus-group for founders, where they might even end up with a sale (or a new feature request from a ready buyer).\n\nIf I fail to get 4 meetings, I give back a prorated amount of money. If I overshoot, I get more money until we hit a cap. How did I get here? A week ago, I found a step by step guide from UC Berkeley on reddit - Solopreneur Starter Kit. \n\nSince it’s free, I figured why the hell not. I did the exercises, called a former boss, and they signed up. Couldn’t believe it. I don’t even have a website and get paid on Zelle.\n\nThe biggest lesson I learned is that ideation & PROFITABLE IDEATION are totally different. If you follow your gut you will not make money. I did that so many times.\n\nI realized I needed to follow advice from people who've actually done this successfully. If I can get 3 more customers, I might actually be able to leave my 9\\~5",
       "top_comments": [
-        "Proud of you",
-        "Failure makes you smart faster, it helps understand what's at stake.",
-        "Why do you think it’s called WD-40?",
-        "What was your startup and business idea? Just because it's failed right now does not mean that the market won't become much more accepting now. And let me tell you this, the fact that you've accomplished even what you have is more than what many people can say! Surely using this as a way to become more established and get a job where you can continue to develop within the industry, network, and find yourself more opportunities is certainly not a bad place to be. Sucks about the loan!",
-        "How much debt are we talking about? If it's not a crazy five or six figure amount then you literally bought valuable experience and knowledge for a good price. I don't see a failure here. If your debt is in the crazy five or six figures, you still bought valuable experience and knowledge, all of which are great for your resume, but you overpaid, that's all. 20s are the best ages to experiment with these things, hopefully though without going bankrupt yourself. A little debt is okay.\n\nObligatory Roosevelt quote: \n\n>It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
+        "Reminds me of my wife who started her side hustle after having a baby. She wanted to be a homemaker but she’s really extroverted. She spent a lot of time helping new moms in including colleagues of mine. Within a month she started posting the advice she was giving, I hired a website builder, and she has 1~10 clients at a time on a 3 month postpartum group and coaching program. In good months she makes more than I do which is wild (and amazing) :)",
+        "Well done, guerrilla marketing team. \n\nVery interesting post history with seemingly authentic activity and sponsored content littered in.",
+        "Just goes to show how much can change in a moment if you f**k around and find out.",
+        "I would love to hear an update about this - if you get your 4 clients and quit your job you have to let us all know!",
+        "would you mind post a link? would like to take a look on that guide"
       ]
     },
     {
-      "title": "Is it time for me to leave my day job? Looking to make a decision within the next week",
-      "score": 154,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jyrfxp/is_it_time_for_me_to_leave_my_day_job_looking_to/",
-      "id": "1jyrfxp",
+      "title": "Most people don't have a startup ...they have a to-do list with a logo.",
+      "score": 134,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jzoylq/most_people_dont_have_a_startup_they_have_a_todo/",
+      "id": "1jzoylq",
       "subreddit": "entrepreneur",
-      "created_utc": 1744608625.0,
-      "num_comments": 46,
-      "selftext": "Let me give you guys a little background on my situation. I’m 26 years old, and no, I’m not a multi-millionaire or some guru. Actually, it’s kind of the opposite. I’d consider myself pretty broke, just trying to figure out how to buy a house and hopefully put together a decent wedding for my fiancée and me within the next year. If you’ve done either one of those things, you already know how financially stressful it is, let alone trying to tackle both at the same time. That pressure is exactly why I’ve been working two jobs, hoping it'll all come together somehow.\n\nMy first job is your typical 9-5 office gig. My second job is my own business, where I help local companies get more visibility through their Google business profiles. I originally got into traditional SEO, but if you’ve spent any time in that world, you know how oversaturated and full of “experts” it is, people selling pipe dreams. Eventually, I shifted my focus to Google Business Profiles because that’s where I started seeing real results and was really able to carve out a name for myself.\n\nFast forward to now, and I really feel like I’ve found my lane. Business has been picking up, and a lot of local companies are coming to me for help. It’s exciting but also kind of scary. My income from this business is starting to match, sometimes even beat, what I make at my 9-5. I feel like I’m standing at the edge of something really promising, but I also feel like I’m at a crossroads. If I want to keep the momentum going, I know I’ll eventually have to leave my day job. But with all the financial pressure I’m under, it’s a tough call.\n\nI’m really starting to think it’s time to make the jump. But I’m still unsure.\n\nShould I take the leap?",
+      "created_utc": 1744714798.0,
+      "num_comments": 39,
+      "selftext": "Building a company isn't about being busy. It's about creating momentum that compounds.\n\nBut it's wild how many early founders confuse motion for progress.\nThey spend 3 weeks picking a name, 5 days tweaking a landing page, and call it \"building.\"\n\nMeanwhile, someone else with no logo, no followers, and one Google Doc is out closing their first 3 customers.\n\nThe real difference?\nExecution over ego. Velocity over vanity.\n\nCurious... what’s the one move you made early that actually shifted momentum?",
       "top_comments": [
-        "You’re in a strong spot—your side business is already proving itself. One practical step: set a clear savings goal (e.g. 3–6 months of expenses) before quitting the 9-5. That cushion will give you peace of mind and space to scale confidently. You’re almost there—just prep the landing before the leap.",
-        "Think about it this way. You’re working presumably 40 hours at your full time job. And maybe another 20-30 hours a week on your business? If that? Imagine you had an extra 40 hours a week to just focus on that business, that has already replaced your full time job in income. Scaling would be much easier",
-        "You're going to have to show bank statements, paychecks etc. in order to get a mortgage. I would speak to a few lenders first before losing a source of income.",
-        "Delay the wedding and get your house first. Buy as tenants in common. Weddings are such a con and in my opinion, a waste of money. Tell your fiancée you can’t do both. Maybe when the business takes off you can do a « decent » wedding,",
-        "Taking the leap could be daunting, but you're in a prime position at 26. Your business is picking up and even surpassing your 9-5 income, which shows promise. Before quitting, ensure you have a financial buffer and a plan for health insurance. Consider expanding your client base by targeting larger local businesses or institutions. If revenue drops, can you sustain operations? Remember, the world won't end if you take a pay cut, and time's on your side. Trust your instincts and the momentum you've built."
+        "I remember spending way too long designing business cards for a project.  Like an embarrassing amount of time.  Finally a friend told me \"No one cares about your business card. Go get a client\"\n\nHe was so right.  That one comment really snapped things into focus.  My first momentum shift was landing that first client. business card be damned",
+        "What do you do with a google doc?",
+        "My issue is finding an idea worth pursuing tbh. \n\nI have a great expertise in high end enterprise sales. \n\nBut all the ideas I can think of are BtoC product where I have no experience in launching or promoting.",
+        "How I Managed:\n\nI had the Idea, made a fake company on Google maps, got 1 call on the next day, then I build a Website and invested in the required assets ~1k$\n\nI did a trial phase and got to see how many people actually are interested, then went got all licenses, started buying more assets and now Ive spend around 4-5k.\n\nIf all works out I could make those 5k back easily  in 1 year, cant tell you if it worked yet because I am still building, but everyday I get a step closer. \n\nIt feels like someone has put many stones In my way.",
+        "So funny because I completely get this. I started in branding, was getting clients left right and center, and then would occasionally freak out because I didn’t have my own business cards, or I didn’t have my own website… and yet, the client list was stacked! \n\nNow with this painting company, it’s so nice to feel the balance of .. okay tweaking the visuals.. now taking action to let it play out.. now tweaking the strategy.. and let’s go place some door hangers! \n\nWhat’s really helped me is finding the balance between the big picture and the smaller stuff  - action moves the needles absolutely, but EVERYTHING builds and it takes time, open-mindedness, and curiosity to find that sweet spot."
       ]
     },
     {
-      "title": "How Losing My Best Employee Nearly Broke My Business (And What Fixed It)",
-      "score": 152,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jyx5pm/how_losing_my_best_employee_nearly_broke_my/",
-      "id": "1jyx5pm",
+      "title": "Getting my business to $1M was the hardest thing I ever did",
+      "score": 126,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jzq9to/getting_my_business_to_1m_was_the_hardest_thing_i/",
+      "id": "1jzq9to",
       "subreddit": "entrepreneur",
-      "created_utc": 1744632216.0,
-      "num_comments": 19,
-      "selftext": "There’s this false sense of stability that creeps in when things are going well. Clients are happy, work is flowing, and there’s always that one person on your team who just... gets it. They manage the chaos. They catch the things you miss. They’re your safety net, even if you don’t realize it.\n\nI had that person.\n\nWe used to joke that they had the whole agency mapped out in their head. Timelines, deliverables, tricky clients, feedback loops-they managed it all. I could sleep easy knowing they were on top of things. It felt like we were finally at that stage where things were smooth. Predictable, even.\n\nI remember finishing a Friday knowing everything was handled. That kind of peace in business is rare-and addictive.\n\nThen one morning, I got a message that knocked the wind out of me: \"Hey, can we chat for five minutes?\"\n\nThat five-minute chat changed everything.\n\nThey were leaving. No drama, no issues. Just moving on to something that made sense for them. But for me, it felt like a giant hole just opened up under our feet.\n\nThe days that followed were rough. The kind of rough you only understand when you’ve built a business too tightly around specific people instead of strong systems. Tasks were missed. Clients followed up asking things I didn’t have answers to. Team members were unsure who was handling what. Everything felt... fragile.\n\nI realized, painfully, that we had built a business on memory, not method. Talent, not structure. And I’m not knocking talent. I just finally saw how risky it is when it’s the only thing holding things together.\n\nSo I did what most of us avoid until we’re forced to. I paused, and rebuilt.\n\nIt started small. A single Notion page. One checklist. Then another. I sat down with the team and said, “If you do something more than once, we need it documented.”\n\nWe didn’t aim for perfection. Just clarity.\n\nThere was some hesitation at first. No one wants to stop and write things down when work is piling up. But a few weeks in, it clicked. We were moving faster. Fewer questions, fewer dropped balls. Everyone could see the difference.\n\nWe created a living playbook. No bloated manuals. No outdated PDFs. Real steps, written by the people who actually do the work. Every week, we’d update it. Improve it. Turn chaos into clarity.\n\nIt wasn’t glamorous. But over time, it changed everything.\n\nNow, when someone joins the team, they get the keys to our system. They don’t guess. They follow. And they grow. If someone needs time off or moves on, the work doesn’t stop. The process doesn’t break.\n\nNotion, surprisingly, became the backbone of our business. A simple tool we underestimated turned into the foundation for consistency and growth.\n\nIf we were to hire someone new today, what used to take three weeks of handholding would now take just a few days. They’d step in, follow the process, and the system would do most of the heavy lifting. That’s how I know this is finally working.\n\nHere’s the thing I wish someone had told me sooner:\n\nIf your business can’t run without one specific person, it’s not a business. It’s a dependency.\n\nProcesses aren’t the enemy of creativity. They protect it. They free your team to focus on better work, not just trying to remember what the next step is.\n\nSo if you’re running a service business, I’d challenge you to ask yourself:\n\n* What happens if your most reliable person takes two weeks off tomorrow?\n* Would the rest of your team know what to do?\n* Would your clients notice a difference?\n\nIf that question makes you uncomfortable, good. That’s where the work starts.\n\nStart with one thing. One recurring task. Write it down. Make it better each time. Tools like Notion or even a shared doc can take you a long way. Just don’t wait for the panic moment to make the shift.\n\nWe’re still improving. Still figuring things out. But we’re no longer scared of growing. And that feels like real progress.\n\nIf you’ve been through a similar moment or are in the middle of one, I’d love to hear how you approached it. What worked, what didn’t, what you learned along the way.\n\nAnd if you haven’t hit that wall yet, maybe this story helps you avoid it.\n\nIf you're thinking about building your own SOP system and don’t know where to start, feel free to reach out. Always happy to help someone get unstuck.\n\n**A Simple SOP Template You Can Steal and Use Today:**\n\n**Title:** \\[Name of the task or process\\]\n\n**Purpose:** Briefly explain why this SOP exists and what outcome it supports.\n\n**Frequency:** How often is this task done (daily, weekly, monthly, ad hoc)?\n\n**Responsible:** Who is in charge of executing it?\n\n**Tools Needed:** List any apps, platforms, or tools required\n\n**Steps:**\n\n1. Step one (what exactly needs to be done)\n2. Step two (details and specific instructions)\n3. Step three (add context or edge cases if necessary)\n\n**Checklist (Optional):**\n\n\n\nYou don’t need to start with everything. Just start with what’s repeating and painful. That’s usually the best place to begin.\n\n  \nHope this helped you :)",
+      "created_utc": 1744719055.0,
+      "num_comments": 44,
+      "selftext": "**The beginning**\n\nThe initial vision for my current business (Venngage) actually came from an earlier startup that I had called VisualizeMe, which was an infographic resume sort of site. It was a free site that converted your LinkedIn profile into an infographic. So it would visualize your skills, it would visualize your experience in a timeline, and all that. It was pretty cool, and it uses charts, timelines, and graphs to do some of it.\n\nSo the inspiration basically went from creating a very specific type of infographic tool to something that everybody could use to create any type of infographic. And this was before Canva, this was before any sort of simple-to-use drag-and-drop design tool. And people were still using Photoshop or Illustrator to do these kinds of designs or these kinds of infographics. So the inspiration came from that and said, how can we let non-designers, like everybody, create infographics? \n\n**The first version was bad but people still paid**\n\nIt took us around six months to build the MVP (minimum viable product). The download feature barely worked. Our users would complain and we’d have to fix the files manually and send them back. Even so, we gated the core features and started charging from day one.\n\nThat decision changed everything. People were actually paying for a tool that was kind of broken. That’s when I knew there was real demand.\n\n**We made $50K in year one doing custom work**\n\nWe didn’t hit $1M fast. In the first year we made about $50K. Most of it came from custom infographic work we did for agencies and large clients. I remember we had one contract with an agency that worked with companies like Ford. We even worked with Facebook. But we were charging very little. something like $20K for the entire year.\n\n**Content and SEO made all the difference**\n\nIt wasn’t until year two or three that things really started moving. The biggest driver of traffic and conversions was content and SEO. We started publishing blog posts around high intent keywords. We were a visual tool, so we focused on both written and visual content. That helped us rank and start bringing in traffic.\n\nWe were pitched by agencies offering links on blogs for $1K to $5K per placement. We couldn’t afford that. So we reverse engineered their process. They were just doing guest posting. We figured out who they pitched and started doing the same. It was a lot of work but free :)\n\nOur scrappy efforts made a big difference early on.\n\n**What I wish I knew**\n\nGoing from zero to your first real traction is brutal. You’re not sure if anything is working. You second guess everything. Once we found the right channel and leaned into it, things started to click. But that first stretch was by far the hardest.\n\nIf I had to do it again, I would have picked a better name and focused more on brand from day one. A good free version helps people talk about your product. We gated a lot early on because we were bootstrapped, but that made word of mouth harder.\n\n**Final thought**\n\nIf you're somewhere in that early stage still figuring things out, making slow progress, just know that it's supposed to feel that way. Your first $1M is not easy. But you learn so much. Focus on what's working and keep going!",
       "top_comments": [
-        "Imagine that. Something actually useful on this sub. Not sure I buy the story … but the lesson is solid.",
-        "Ur input is highly appreciated",
-        "All companies should be using this for everything. It makes training SO much quicker and easier. I had to build the framework for myself in my old position then had to train my replacement when I moved positions. This framework made training so easy! The lady I trained thought the training was easy and she constantly referred to that framework. She ended up leaving so I trained a new replacement. \n\nThis new one thought she knew better than the framework work and wouldn’t refer to it at all. Everyone was absolutely fed up with all the mistakes she made and she ended up being let go. It was easier to do her job than it was to have the frustration of fixing her mistakes for her because she wouldn’t follow the framework to fix her mistakes. \n\nI’ve made a framework for my current position so if I go it will be easy to train my replacement.",
-        "We had different issue related to productivity, where we start growing with onsite staff and offshore staff it is hard to find productivity and we had to spend whole day and night catching up with different staff we end up preparing multiple tools to manage productivity to make sure everyone is doing work.",
-        "Wow, a post on here that isn't political ragebait? Mods!!!"
+        "I can't tell if these posts are real or not any more.",
+        "I tried the venngage.com infographic generator:\n\n‘A data visualisation of the different types of apples‘\n\nAnd I’m sorry to say the results were hot garbage: Unsourced statistics and nonsensical sentences.",
+        "Bad bot",
+        "what're some of the next steps? do you have plans to grow it to 5M? 10M?\n\nif so, is SEO still main driver of your growth and are you looking for more enterprise outreach?",
+        "Its interesting, but at the same time questionable :0"
       ]
     },
     {
-      "title": "The Next 5 Years Are Going to Break Reality (Here's What I See Coming)",
-      "score": 143,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jyvefm/the_next_5_years_are_going_to_break_reality_heres/",
-      "id": "1jyvefm",
+      "title": "So many fake 'lessons learned' posts",
+      "score": 97,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jzgwef/so_many_fake_lessons_learned_posts/",
+      "id": "1jzgwef",
       "subreddit": "entrepreneur",
-      "created_utc": 1744625792.0,
-      "num_comments": 102,
-      "selftext": "Been thinking deeply about where we're headed. Here's a brain dump of the weird, wild, and inevitable shifts coming our way:\n\nAnyone with a Google Sheet, Zapier, and an AI agent becomes a company.\n\nYour personal AI will attend meetings, decline calendar invites like you would, and negotiate your raise to $140k.\n\nThe internet splits: one half for humans, the other for bots.\n\nAmazon buys voice rights from 50,000 people. Celeb voiceclones become a thing.\n\nSEO is being rewritten for agents. It’s 2002 all over again.\n\nAgent error recovery becomes a $100M business—rollback, retries, insurance.\n\nA human with an AI brain implant enters the 2028 World Chess Championship. Massive ethics debate erupts.\n\nGood-enough content becomes free. Distribution, speed, and originality are king.\n\nMVPs need to feel complete on day one. If it works, it’ll be cloned in 15 minutes.\n\n“What software do you use?” becomes “What agents run your life?”\n\nGoldman Sachs replaces 25% of analysts with AI. Other firms follow.\n\nA startup will fail because a dominant agent misinterprets its product.\n\nThe new MVP = a prompt, a workflow, and a landing page.\n\nHiring an agent becomes the default for repetitive work.\n\nSMBs will be valued based on how easy they are to automate.\n\nNations enforce “digital protectionism”—blocking foreign agents.\n\nJailbroken GPT-9s hit the black market—$50k for unrestricted models.\n\nA new distribution hack emerges: get inside agent workflows.\n\nAI diagnoses 97% of conditions via smartphone pics; average doctors hit 62%.\n\nA small town becomes fully agent-run. Taxes drop, satisfaction soars.\n\nThe first AI agent closes a $100M deal over 437 emails. No human involved.\n\nCreators license their workflows and build businesses with zero employees.\n\n“Agent drift” becomes a real risk—AI stops doing what you intended.\n\nA new wave of analytics startups emerges—just to interpret AI decision data.\n\nSoftware buying decisions revolve around agent compatibility, not UX.\n\nNew media emerges—written for agents to train on, not people to read.\n\nNPS becomes aNPS (agent net promoter score). Brands compete for it.\n\nThe new UX isn’t chat, it’s goals. “Grow my revenue” is the interface.\n\nAI investing agents spark a boom in niche SMB investing.\n\nRoboadvisors eat the wealth management industry.\n\n“Grow my podcast” becomes a voice command. AI handles the rest.\n\nAgency margins collapse. Productized AI services take over.\n\nEvery software category is rebuilt—AI-native, not AI-added.\n\nThe first AI-to-AI-only language emerges. Humans can’t even parse it.\n\nNew job titles: AI ops lead, workflow architect, agent orchestrator.\n\nAI uncovers a $1B accounting fraud missed by auditors for 5 years.\n\nMiddle-class founder boom: non-techies launch businesses with no savings.\n\nLLMs market memory like iPhones used to market storage.\n\nCompliance becomes auto-enforced by agents. Most people won’t qualify to file their own taxes.\n\nAgent reputation graphs become billion-dollar data products.\n\n“Human-to-agent ratio” becomes a KPI.\n\nInbox Zero becomes real. 70% of your digital life handled while you sleep.\n\nA newsletter built for agents, not humans, raises a $50M Series B.\n\nBoring SaaS tools become background APIs for smarter agent UIs.\n\nThe internet feels new again—new behavior, new monopolies, new chaos.\n\n\nThis isn’t sci-fi. It’s the very near future. The AI age won’t feel like a step forward—it’ll feel like a hard reset.\n\nLet’s talk: which of these do you think is most likely? Which scares you the most?\n",
+      "created_utc": 1744684099.0,
+      "num_comments": 27,
+      "selftext": "Why are there so many Guru type Lessons Learned posts on this sub? It's clear that most of them are bullshit, regurgitated tech bro motivational speaker crap. Just why?\n\nMost of these 'founders' have done nothing significant, nor have the experience to be able to be giving advice. I'd wager more than 75% are one person marketing agencies making <$5K per year. And no, no one needs your AI based B2B SaaS you built in a day.\n\nAnyone who's worked with real business owners know that they don't have the time to be typing out their strategic business advice in longform on a daily basis, nor do they usually have a rags to riches story.\n\nAnd it's the same text, spammed across multiple subs, why? ",
       "top_comments": [
-        "Tell me you’re a LinkedIn junkie\n\nwithout telling me you’re a LinkedIn junkie.\n\nYour writing style\n\nis extremely LinkedIn.",
-        "This reads like a timeshare pitch. You too, can get on the ground floor of what we are calling \"A.I.\"",
-        "OP stole this from Greg Isenberg on X. \nhttps://x.com/gregisenberg/status/1911467353436463340?s=46&t=LoaDiegDQQ2uutu0l64gcA",
-        "Meds. Take them",
-        "With free intelligence, anyone can build a product.\n\nBut, generating demand is another thing.\n\nSo, the winners are going to be ones who know how to stand out from the crowd and generate demand."
+        "As with everything in life, it exists on a bell curve. Reddit tends to attract the left tail of the curve.",
+        "It's all guys trying to gain followers on social media and trying to sell programs on how to get rich like \"they did\" 🙄",
+        "You nailed it at the end. \"it's the same text... spammed across multiple subs\"\n\n\nMe as a fellow random user and as many of users here we're busy, we don't have time to be posting on reddit and most of the times would doubt to post because of \"will this post be valuable? Maybe I can provide value later\".\n\n\nThat type of people who behave like gurus without any shame ends up selling you something and killing any sub business/service oriented",
+        "So agreed. It's beyond annoying",
+        "Most business subreddits I have discovered is full of bullshit, it’s why I now just lurk and don’t contribute anymore. \n\nThe small business subreddit mostly consists of telling business owners to give up and get a job.\n\nThis subreddit is full of advertising, and dozen of posts of I am X amount age what should I do with my life.. and the other half is like you said “ Buy my Saas”, and I made x amount doing this ask me anything for advice."
       ]
     },
     {
-      "title": "If you could give one piece of advice to your younger self in entrepreneurship, what would it be?",
-      "score": 122,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jyu4fw/if_you_could_give_one_piece_of_advice_to_your/",
-      "id": "1jyu4fw",
+      "title": "I went FT freelance in February and this month I made almost 9k",
+      "score": 74,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1jzsb06/i_went_ft_freelance_in_february_and_this_month_i/",
+      "id": "1jzsb06",
       "subreddit": "entrepreneur",
-      "created_utc": 1744620321.0,
-      "num_comments": 180,
-      "selftext": "Mine: Just start. Don’t wait for things to be perfect. You’ll learn more by doing than thinking.\n\nWhat’s yours?",
+      "created_utc": 1744724831.0,
+      "num_comments": 37,
+      "selftext": "I just wanted to tell somebody lol. I had a FT videography job that was cool. Taught me a lot but it started to get toxic. So I dropped down to PT. Couldn’t stand it anymore STILL and took the risk 2/1 to just do FT freelance. \n\nI’m a videographer and photographer and I do graphic design. For 3 years I’ve used Upwork to get clients and gigs/experience. I’m now top rated. And I’ve raised my rates from about $60 per hour to $95. I’ve even cold called/emailed clients and gained long term clients from that. \n\nNow I’m at a point where I have long term clients and work coming in consistently *fingers crossed*\n\nI realize that’s probably not a lot of money to some of you guys but it’s the most I’ve made in a month from work. \n\nI’m hoping to start an actual LLC soon just need to do all of the logistics. Any advice going from here or praise would be great!\n\nThanks all keep grindin",
       "top_comments": [
-        "You don’t need a business partner to start something.",
-        "Look after your health - physical, mental, emotional, and spiritual. Because success without them isn’t success at all.",
-        "Go for it and don't be afraid of failure. Also - make sure you use the right tools to set yourself up for success from CRMs to website builders, these things can set your process up for growth!",
-        "Don’t overthink, just plan and start. Starting is THE MOST important step.",
-        "Start it \nYou'll never be 100% prepared, start it"
+        "Congratulations. I love hearing about this working out.",
+        "Nice! Make sure to set up your LLC, get your EIN, business account.. separate expenses, get quickbooks! Also, put yourself out there on social media. Get more exposure and grow :)",
+        "That’s amazing! Congratulations! This is actually really great given you went FT in February and are already there in no more than 3 months! \n\nI’m in web design and SEO sector and finding clients, let alone consistently, is a huge challenge for me. Keep up the good work! You’re doing great!",
+        "Congratulations",
+        "$9k / month with almost zero costs (besides equipment you already have anyway, most likely) is pretty darn good, don't let anyone tell you otherwise!!"
       ]
     },
     {
-      "title": "I made \"whatyoucandotohelp.org\" so that you can put your friends and community to work next time one of them asks \"what can I do to help?\"",
-      "score": 153,
-      "url": "https://whatyoucandotohelp.org/",
-      "id": "1jzds28",
+      "title": "I built a site that shows you which cafés and pubs are currently in the sun — in real time.",
+      "score": 75,
+      "url": "https://sunnydays.dawodx.com/",
+      "id": "1k00fsh",
       "subreddit": "InternetIsBeautiful",
-      "created_utc": 1744674855.0,
-      "num_comments": 20,
-      "selftext": "There are an infinite number of problems that need solving in the world. I wanted to give people a place to go when they want to start solving them. Ideally, this site will connect organizers and charities together with volunteers and donors. I want to turn regular people into activists by matching them with local work where they can feel like their contributions matter.\n\nThere aren't very many users yet! This is my first time making it public! I'd appreciate any feedback!!",
+      "created_utc": 1744744553.0,
+      "num_comments": 13,
+      "selftext": "☕🌞 It’s finally sunny in London, and like most people, I wanted to enjoy an iced coffee or a pint in the actual sun — not tucked away in the shade.\n\nSo I built a web app that shows you cafés and pubs currently in sunlight, using real-time shadow simulation, Mapbox, and open data from OpenStreetMap.\n\nIt simulates how buildings and terrain cast shadows throughout the day, so you can find the sunniest spots around you — and skip the cold corners.\n\nIt’s a design experiment, a side project, and a bit of summer fun:\n\n→ https://sunnydays.dawodx.com/\n\nBuilt with:\n\t•\tMapbox GL JS\n\t•\tTurf.js\n\t•\tOverpass API\n\t•\tShadow simulation with terrain + building height\n\nLet me know what you think — feedback, feature ideas, or pub recs are always welcome!",
       "top_comments": [
-        "Not to take away from what you are doing because it's a little bit different of a take, but there's also justserve.org",
-        "Does it cost money",
-        "Very cool. Nice work!",
-        "Great idea!",
-        "I like the site and the intention behind it. I hope it helps people. I just want to add that one thing everyone can do to make the world a better place, regardless of political leaning, is to take care of yourself. Goes a long way."
-      ]
-    },
-    {
-      "title": "I made a site that shows how far through the year we are, relative to other things",
-      "score": 43,
-      "url": "https://year-progress.cnln.dev/",
-      "id": "1jyyker",
-      "subreddit": "InternetIsBeautiful",
-      "created_utc": 1744636444.0,
-      "num_comments": 2,
-      "selftext": "",
-      "top_comments": [
-        "fantástico",
-        "Some reason I felt like we were further into the year than I thought. What day and time in the week really put things in perspective."
-      ]
-    },
-    {
-      "title": "I am not looking for a high-paying job, just something to hold on to",
-      "score": 10,
-      "url": "https://www.zeldesigns.com/",
-      "id": "1jzf9yq",
-      "subreddit": "InternetIsBeautiful",
-      "created_utc": 1744679147.0,
-      "num_comments": 24,
-      "selftext": "I got laid off about a month ago after working as a solo UI/UX designer on a contract for almost 8 months. Out of nowhere, I was told to “focus on prototyping,” even though I’d already done that for every project. A few days later, my email, Figma access, and everything tied to the job were suddenly revoked, no explanation, no heads-up. I was also never paid for the previous month’s work.\nNow rent is due, and I’m honestly just trying to stay afloat. If you have any design project UI/UX, prototyping, mobile/web, anything. I’m more than ready to jump on it. Just something to make me breathe again. I'm open to short gigs, contracts, whatever you've got.\nIf you know someone who needs a reliable, fast, and passionate designer. please send them my way. I’d be really grateful.",
-      "top_comments": [
-        "This is the wrong sub, try looking for better subs and search for gig-economy jobs in your area..also you should make a Workaway profile. Make an excel sheet and copy paste the name, number, email of every single place you can find near you and mass apply with open applications, if there is a job where you can bicycle, drive, scooter for deliveries, do it, they pay every week or 2 weeks usually and it is a quick start up",
-        "My role was also eliminated. I led a team of designers. In my case, I was paid a bit too much and my boss the CTO mentioned that multiple times. Yeah, who does that. Then I had a push someone out from my team as he would collaborate. That exit was not clean. He self imploded. My boss used that as excuse to let me go. I got a massive severance but the exit was sudden. I was planning of leaving that place anyway. This exit came days after I did a major presentation about UX strategy for Agentic AI.\n\nTruth is, executives will use whatever excuse to get you out. \"He doesn't use AI\", or \"he doesn't prototype.\" are just excuses.\n\nAs for solution, yes skill up. Know everything there is to know about AI short of coding or building models. That is ML/data science work. If you are young, Look for work in countries in the world like Dubai, New Zealand etc. US will be going through some turmoil for a while.",
-        "Sorry this happen, but try r/forhire , there are more subs related to work in there. I hope it helps you!",
-        "I could use some help polishing an application I’m currently working on if you’re down",
-        "See my other comment about vibe coding before dumping too much time into this path.\n\nVibe coding is very new and over hyped right now. The reality of vibe coding is much different than what people will tell you. Vibe coding and AI is a whole have been going through so many huge changes so quickly that there is a very good chance that vibe coding will change quickly into something else or the next be AI thing will takeover.\n\nDespite the fear mongering both designers and developers are still needed and not obsolete. I'm not saying you shouldn't learn new skills. Personally I think everyone should know how LLMs work and how to properly prompt LLMs to prevent hallucination. Right now everyone thinks everything that AI does is perfect but it's far far from perfect. That's what I mean by over hyped. \n\nIf you are a good designer you could find clients to design for. Good designers are not going anywhere yet. \n\nIf I were you I would create a small agency, focus on designing specific types of websites and focus on getting premium customers that pay well. Create yourself a badass site with some a good handful of examples of your work. If you don't have any then make some. Do some research in the niche area you decide to design for and research what kind of customers are in your niche. This is an area where AI can be leveraged, help you research customers, competition, or even help you choose what niche to focus on.\n\nAnother idea is to create designs for websites, again you could focus on niche sites to help narrow the market and raise the price if you like, and use AI to create a frontend template that uses your designs and sell access/license to use your template marketplaces. I know of many people who aren't even top Sellers that make great passive revenue doing this and despite AI they are still in demand. \n\nThere's still a lot you can do with your design skills. I wouldn't give up on it. Also remember that just because the headlines make it sound like AI has already taken everything it doesn't mean it is true. Most big companies are struggling to figure out how to properly implement AI in a controllable way that doesn't introduce risk. Even Apple couldn't get AI to properly summarize the headlines of their articles without hallucinating and had to roll back. AI and these tools are for first adopters right now."
+        "Ah, how I love creative people! Nice!",
+        "doesn't seem like you accounted for timezones mate. not sure why so many pubs in london are sunny at 3am.",
+        "About to travel to London, I’ll give this one some testing 😂 As an Aussie, I find the lack of sun… disturbing.",
+        "That is extremely cool. Well done!!!",
+        "license it to yelp"
       ]
     },
     {
       "title": "Made a browser audio analysis tool that is completely client side",
-      "score": 4,
+      "score": 41,
       "url": "https://drfinder.redditblackout.com/",
       "id": "1jzggdh",
       "subreddit": "InternetIsBeautiful",
       "created_utc": 1744682745.0,
-      "num_comments": 0,
+      "num_comments": 3,
       "selftext": "Wanted something where I could quickly load up an audio file and get all the metrics I needed but couldn't find anything, so I decided to make my own.\n\nIt calculates the Dynamic Range, Integrated Loudness, Loudness Range, Peak Level, and RMS Level without it ever leaving your device.",
-      "top_comments": []
-    },
-    {
-      "title": "Find a website where you can transform your any documents into Cornell Notes and download Cornell Notes templates.",
-      "score": 0,
-      "url": "https://www.ainee.com/cornell-notes-generator",
-      "id": "1jzihcb",
-      "subreddit": "InternetIsBeautiful",
-      "created_utc": 1744689103.0,
-      "num_comments": 0,
-      "selftext": "",
-      "top_comments": []
-    },
-    {
-      "title": "Americans of Reddit, what do you think about President Trump and El Salvador president Bukele refusing the Supreme Court’s order to return Kilmar Abrego Garcia to the US?",
-      "score": 8989,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1jz9cyl/americans_of_reddit_what_do_you_think_about/",
-      "id": "1jz9cyl",
-      "subreddit": "AskReddit",
-      "created_utc": 1744663065.0,
-      "num_comments": 3620,
-      "selftext": "",
       "top_comments": [
-        "Due process was one of the most important demands of the founding fathers of America. The loss is a total and complete abrogation of the Constitution.",
-        "\"In his meeting with President Nayib Bukele today in the White House, President Donald Trump told his Salvadoran counterpart that ‘home-growns are next’ and that El Salvador would ‘need to be build about five more places’ to hold American citizens.”\n\nThe President is directly saying he intends to send US citizens to concentration camps while also saying he can do this without any due process and while ignore the Supreme Court's instructions to stop and return an innocent man.  \n  \nEdit to include sources directly in this post:\n\n[https://www.independent.co.uk/news/world/americas/us-politics/trump-home-growns-bukele-citizens-b2733207.html](https://www.independent.co.uk/news/world/americas/us-politics/trump-home-growns-bukele-citizens-b2733207.html)\n\n[https://snyder.substack.com/p/trump-home-growns-are-next?utm\\_source=substack&utm\\_medium=email](https://snyder.substack.com/p/trump-home-growns-are-next?utm_source=substack&utm_medium=email)",
-        "In a proper country, Congress would be *at least* withholding money from the State Department and ICE until this was resolved.",
-        "I'm currently looking at South Korea with envy with regards to how *they* handled their president staging a coup and wondering why the *fuck* we can't have that here (even though I know why we can't have that here).",
-        "The single most worrying development in the federal government of my 41 year life. The conservative sub continues to cheer it on which makes everything so much worse…."
+        "It would be awesome to make this kind of feature as a browser extension, so you could analyze audio on other websites without having to download the files"
       ]
     },
     {
-      "title": "What’s a personal internet hack you use that makes life easier but isn’t widely known ?",
-      "score": 7895,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1jyx5ca/whats_a_personal_internet_hack_you_use_that_makes/",
-      "id": "1jyx5ca",
+      "title": "Americans, how do things really look in your day-to-day life after Trump’s presidency began?",
+      "score": 13292,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1jzuvru/americans_how_do_things_really_look_in_your/",
+      "id": "1jzuvru",
       "subreddit": "AskReddit",
-      "created_utc": 1744632186.0,
-      "num_comments": 2675,
+      "created_utc": 1744731177.0,
+      "num_comments": 15255,
       "selftext": "",
       "top_comments": [
-        "Ctrl+Shift+t  \nReopens the last browser tab that was closed. Really handy when you accidentally close the wrong tab.",
-        "Learn to paste stuff using ctrl+shift+v \nIt strips away any bold, italics, or colors and some other formatting options. \nBesides being usefull removing crap from the clipboard and making your life easier when pasting for example data to excel it might be helpfull when pasting data that came from an a.i. that could be detected and get you in trouble.",
-        "I pay for an email and domain service with the catchall redirected to my own email address - when I sign up for a service I set my email for that service to be \\[servicename\\]@mydomain.com, this way when I see spam coming in I know which bastard service sold my details, I then never use them again.",
-        "If you check your Saved on Reddit, there’s a bunch of useful stuff you wanted to do at one point.",
-        "‘Ctrl + enter’ wraps whatever your typed in the url bar with ‘www.*.com”\n\nThe harder tip comes from the MySpace era. Create a fake persona and use it for every single online account you make. Same name, dob, hometown, etc. you build a breadcrumb trail for any dox that leads all around the internet but never leads to anything worthwhile"
+        "I work at a seaport, so longshoremen and truck drivers are definitely freaking out as their jobs are vaporizing. \n\nEdit to address 90% of the comments. This is in Oakland, virtually none (or maybe very few) of these people are open trump supporters. Go whack yourselves off to something else. ",
+        "I am a federal scientist for NOAA and -although we didn’t have high hopes to not get fired- we just found out we’re getting dismantled completely sooooo . Other jobs in science fields are getting scarcer by the minute, as well. It sucks!",
+        "This one guy at work can't retire now, so who knows how much longer I have to deal with his BS.",
+        "Weekly status meetings now include the phrase \"this client's plans are now on hold because of the tariffs\" quite a lot.",
+        "So far, aside from the existential dread and horror mounting by the day from watching what's being done, not a lot aside from watching prices gradually increase. I'm fortunately in an industry that is not yet being majorly impacted by these chaotic decisions. \n\nFor me, the Trump presidency is like watching a mushroom cloud go off in the far distance. You're not at ground zero, but you know it's bad, you know it's catastrophic, and you don't know when the fallout will reach you. Will you be far enough away to avoid the radioactivity? What form will the fallout finally take if and when it does hit? Will your bunker be sufficient to weather it for the long haul?\n\nShit sucks, even if you're not yet being fully impacted. Just a bone-deep thrum of dread and worry."
       ]
     },
     {
-      "title": "Conservatives of reddit, what are your thoughts on Kilmar Abrego Garcia being deported?",
-      "score": 6446,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1jz6r60/conservatives_of_reddit_what_are_your_thoughts_on/",
-      "id": "1jz6r60",
+      "title": "What do you think about Trump's hot mic moment saying \"Homegrowns are next. You gotta build about 5 more places.\" to Bukele?",
+      "score": 8787,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1jzvx81/what_do_you_think_about_trumps_hot_mic_moment/",
+      "id": "1jzvx81",
       "subreddit": "AskReddit",
-      "created_utc": 1744656807.0,
-      "num_comments": 4127,
+      "created_utc": 1744733690.0,
+      "num_comments": 1434,
       "selftext": "",
       "top_comments": [
-        "You need to make this post flared users only if you want any conservatives to show up",
-        "A lot of people never read A Man For All Seasons.\n\n>“William Roper: “So, now you give the Devil the benefit of law!”\n\n>Sir Thomas More: “Yes! What would you do? Cut a great road through the law to get after the Devil?”\n\n>William Roper: “Yes, I'd cut down every law in England to do that!”\n\n>Sir Thomas More: “Oh? And when the last law was down, and the Devil turned 'round on you, where would you hide, Roper, the laws all being flat? This country is planted thick with laws, from coast to coast, Man's laws, not God's! And if you cut them down, and you're just the man to do it, do you really think you could stand upright in the winds that would blow then? Yes, I'd give the Devil benefit of law, for my own safety's sake!”",
-        "My dad thinks it’s fake news and won’t listen to anything negative about Trump. If I ask him to research it he tells me no. Fun times.",
-        "Just spoke with my in-laws. They are beyond delusional and think the Supreme Court ruled 9 to 0 in favor of no due process and that Trump can deport anyone and doesn’t need to bring this guy back. My mind is just exploding.",
-        "Redditors of Reddit, how have you not realized asking questions to conservatives on this subreddit does not yield any actual answers?"
+        "I think we should believe it.",
+        "He means it and you can throw out the Constitution. That sacred document means nothing to this man.",
+        "Feels like he just started the primer for how he’ll describe anyone that goes against his regime - “the homegrowns”.",
+        "Imagine a Democrat getting elected next and the first official act is to have Trump deported to El Salvador.",
+        "It’s extremely alarming. It’s explicitly against the law to deport U.S. criminals to foreign countries without their consent. America is quickly becoming a dictatorship. What else is there to say?"
       ]
     },
     {
-      "title": "What’s a ‘normal’ thing that you’ve never done, and people are always shocked when they find out?",
-      "score": 2191,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1jyxgmz/whats_a_normal_thing_that_youve_never_done_and/",
-      "id": "1jyxgmz",
+      "title": "What’s the stupidest thing you’ve done because of lust? Was it worth it?",
+      "score": 2359,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1jzq3rh/whats_the_stupidest_thing_youve_done_because_of/",
+      "id": "1jzq3rh",
       "subreddit": "AskReddit",
-      "created_utc": 1744633192.0,
-      "num_comments": 4488,
+      "created_utc": 1744718537.0,
+      "num_comments": 973,
       "selftext": "",
       "top_comments": [
-        "I have never experienced a death in my family. All great-grandparents passed before I was born. All grandparents are still alive. Great-aunts and uncles still alive as well. I’m a funeral director, surrounded by death, but I guess I don’t  *really* understand grief since I haven’t experienced the grief of losing a loved one, and I’m very scared of the day I will have to.",
-        "There are many movies I haven’t seen that people are surprised I haven’t seen them.",
-        "Whistle",
-        "Never broken a bone which needed a cast.",
-        "I used to tell people at the bar or pub that I never had a certain beer or cocktail and 9 times out of 10 I'd get a free drink. It sucked being a broke-ass alcoholic lol."
+        "Listened to all of her podcasts so I could have “things to talk about”… ended up coming off as a full-blown creep who knew way too much about her. Definitely not worth it.",
+        "Drove from Long Island to Boston in a blizzard so bad that I only crossed north-east Connecticut and Mass successfully by slaloming in the wake of semi-trucks the whole stretch of I-84 and Mass Pike. Totally worth it, she's my wife now.",
+        "Met a woman at a parking lot to go have sex out in the woods. Basically, I was willing to risk having my organs harvested to get a little something something.\n\nAnd it was worth it. The sex was phenomenal. We hooked up off and on for a couple of months, and to this date, I still have all of my original organs.",
+        "Took a 3-hour bus to a town i couldn’t pronounce just to spend 45 minutes in a boy’s basement. missed the last ride home and had to explain to my mom why i was stranded next to a Taco Bell.",
+        "Tried to follow a girl from Europe to the US. Turns out she didn't arrange for my housing like we had agreed on. Got kicked out at customs for lack of a place to stay and had to take a flight back."
       ]
     },
     {
-      "title": "What has little by little disappeared over the last 10-20 years without people paying much attention or noticing?",
-      "score": 1565,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1jz6lg7/what_has_little_by_little_disappeared_over_the/",
-      "id": "1jz6lg7",
+      "title": "What motivates you to be nice and kind to people?",
+      "score": 1946,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1jzkzvh/what_motivates_you_to_be_nice_and_kind_to_people/",
+      "id": "1jzkzvh",
       "subreddit": "AskReddit",
-      "created_utc": 1744656434.0,
-      "num_comments": 2287,
+      "created_utc": 1744698459.0,
+      "num_comments": 4522,
       "selftext": "",
       "top_comments": [
-        "To be totally unreachable for hours or even days.",
-        "Decorative antenna balls for car antennas",
-        "Almost everything replaced by a smartphone. Eg calendar.",
-        "Perpetual licenses instead of paying monthly for every single thing",
-        "Stores open past 11 PM"
+        "It’s the world I want to live in. I believe in doing the right thing.",
+        "I like making others feel good.",
+        "It takes far less energy to be kind than it does to have confrontations, so I guess I’m just lazy.",
+        "People were not kind to me so I strive to be better than that",
+        "I’m not sure. Maybe because I know how much it sucks to be treated badly 🤷🏻‍♀️."
+      ]
+    },
+    {
+      "title": "What’s something innocent you did as a kid that you later realized was extremely inappropriate?",
+      "score": 1460,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1jzjclq/whats_something_innocent_you_did_as_a_kid_that/",
+      "id": "1jzjclq",
+      "subreddit": "AskReddit",
+      "created_utc": 1744692043.0,
+      "num_comments": 522,
+      "selftext": "",
+      "top_comments": [
+        "My sister and I both were born with bright ginger hair. No one else in the family had the same hair. Whenever relative’s would comment how lovely my hair was, and ask where did it come from, I would parrot my father’s response; the postman.\n\nDidn’t realise until years later how mortifying this must have been for my mum.",
+        "When I was a kid I really loved sucking all the \"air\" out of a can of whipped cream because it made me feel funny. Fast forward 20 years I found out i was just doing whippets.",
+        "I was the youngest of the family, I used to ask everyone ,\"Can I have that when you die?\"",
+        "Mine was asking my dad in a public place if he was a pedophile",
+        "When I was 12 or 13, a strapping young lad discovering porn, I got tired of watching people older than me doing the deed. I wanted to watch people my age. So, I'd put certain keywords in the search bar and couldnt understand why nothing is coming up. When I was 25 or smth, I remembered that and only then realized what the fuck was I doing"
       ]
     }
   ],
   "hn_stories": [
     {
-      "title": "Hacking a Smart Home Device (2024)",
-      "url": "https://jmswrnr.com/blog/hacking-a-smart-home-device",
-      "score": 64,
-      "id": 43688658,
-      "by": "walterbell",
+      "title": "How dairy robots are changing work for cows and farmers",
+      "url": "https://spectrum.ieee.org/lely-dairy-robots",
+      "score": 32,
+      "id": 43699188,
+      "by": "DonHopkins",
       "text": "",
       "top_comments": [
-        "For vendors of ESP32-based IoT devices:<p><pre><code>  Give a man a fish, and you feed him for a day.\n</code></pre>\n<i>&gt; I&#x27;d like to make it clear that my intentions were solely to upgrade the smart device I&#x27;ve purchased to integrate with my smart home system. Doing so does not affect any other instances of this product or its cloud services. Therefore, any sensitive product-specific data, such as private keys, domains, or API endpoints, have been obfuscated or redacted from this post.</i><p>For owners of ESP32-based IoT devices:<p><pre><code>  Teach a man to fish, and you feed him for a lifetime.\n</code></pre>\n<i>&gt; I&#x27;m still curious to explore creating an open-source project to de-cloud and debug smart home products; I&#x27;ve learned much more about the technical aspects of achieving that. Thanks for reading! I hope you found some value in this post. I put a massive amount of effort into creating it, probably more than I did actually doing the project itself. It would be amazing to receive feedback on the format!</i><p>blog author: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;jmswrnr\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;jmswrnr</a>",
-        "Nice writeup and very comprehensive! I&#x27;ve done some ESP32 development in the past and I vowed to always use an open protocol and allow users to connect devices to their own servers, if I ever made a product based on it.<p>You really went through the whole reverse engineering process end to end, I know that must have been a ton of work to not only reverse engineer it but also to write everything up!",
-        "As far as I can tell it doesn&#x27;t mention <i>which</i> air purifier.<p>Knowing that might help influence purchasing decisions for those also interested in a &quot;sleek&quot; air purifier that contains an ESP32.",
-        "I’ve got a power station (Ugreen) with an ESP32 that I’d also love to connect to HomeAssistant, instead of their app which provides me no benefit.<p>This is definitely beyond my capabilities at this point but it could be interesting to go through a similar process once mentally ready.",
-        "Awesome journey! Thank you for having me … I learned a lot."
+        "It&#x27;s cool that this allows the cows to be milked whenever they feel like it. I&#x27;d imagine the autonomy actually does improve the cow&#x27;s quality of life. Also neat that they learned to game the feeding robot. It reminds me of the image recognition experiments they do with birds.",
+        "&gt; And of course there’s manure. A dairy cow produces an average of 68 kilograms of manure a day. All that manure has to be collected and the barn floors regularly cleaned.<p>Ok that&#x27;s a stat I didn&#x27;t expect. 68kg! That&#x27;s ~150lbs! Holy crap.",
+        "Now I want a robotic farm management game like a cross between Factorio and SimFarm!",
+        "These videos of robotic cow milking machines, feed mixers and distributers and pushers, and manure roombas are amazing!<p>Cows like to push and play with their food to get to the yummy grain bits, so the feed robot pushes the food back so they can eat it all.<p>And the Poopoombas had to learn to be more aggressive about pushing cows out of the way and not stopping every time they bumped or got kicked, because otherwise the cows would assign them the lowest status in the pecking order, and they could only cower in the corner.<p>Here are the videos from the article and some more:<p>The milking process of the Lely Astronaut A5 - EN:<p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=g-zYshsAg1E\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=g-zYshsAg1E</a><p>Takes Dairy Farm Tour<p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=vZY8TbBoDd0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=vZY8TbBoDd0</a><p>Zeta - how it works - EN - NL subtitles:<p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=17TA-lI_oqQ\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=17TA-lI_oqQ</a><p>Zeta - Vision film - EN - NL subtitles<p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8nRaj16tPLc\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8nRaj16tPLc</a><p>Their web site has a pretty cool &quot;page not found&quot; error page too:<p><a href=\"https:&#x2F;&#x2F;www.lely.com&#x2F;moo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lely.com&#x2F;moo</a><p>Now dairy farms can use two different kinds of AI together! ;) They could develop an insemination module to go with their calving module.<p><a href=\"https:&#x2F;&#x2F;www.lely.com&#x2F;solutions&#x2F;latest-innovations&#x2F;zeta&#x2F;ai-calving&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lely.com&#x2F;solutions&#x2F;latest-innovations&#x2F;zeta&#x2F;ai-ca...</a><p>I wonder if you can rent swarms of these and dispatch them to anywhere you need them:<p><a href=\"https:&#x2F;&#x2F;www.lely.com&#x2F;solutions&#x2F;manure&#x2F;discovery-collector&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lely.com&#x2F;solutions&#x2F;manure&#x2F;discovery-collector&#x2F;</a><p>Or if you can use them in reverse, loading them up them dumping shit wherever you wanted to, like a giant Logo Turdle, in the name of art and science.",
+        "Brought to you by the species that considers <i>The Matrix</i> an undesirable outcome."
       ]
     },
     {
-      "title": "Behind the 6-digit code: Building HOTP and TOTP from scratch",
-      "url": "https://blog.dogac.dev/how-do-one-time-passwords-work/",
-      "score": 93,
-      "id": 43653322,
-      "by": "dogacel",
+      "title": "Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator",
+      "url": "https://filiph.github.io/unsure/",
+      "score": 208,
+      "id": 43690289,
+      "by": "filiph",
       "text": "",
       "top_comments": [
-        "Six-digit verification codes for something like a &quot;forgot password&quot; flow are OTPs -- they&#x27;re only good for one login -- but they are not HOTP&#x2F;TOTPs. HOTP&#x2F;TOTP has a registration step, where you copy a server-generated secret to your phone through a QR-code-encoded otpauth:&#x2F;&#x2F; URI (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;google-authenticator&#x2F;wiki&#x2F;Key-Uri-Format\">https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;google-authenticator&#x2F;wiki&#x2F;Key-Uri-...</a>). That doesn&#x27;t happen in a &quot;forgot password&quot; flow.<p>Incidentally, if you think of TOTP as being HMAC(unix mod 30, secret), one idea would be to do public key crypto instead of symmetric HMAC stuff. That&#x27;s basically what a security key is.<p>If you additionally made it so that you couldn&#x27;t phish the security key -- by having the OS + web browser know which apps can ask for which security keys -- you&#x27;d have reinvented WebAuthn.<p>P.S.: Make you sure you have stuffing protection in place against these kinds of six-digit-code auth schemes. A million possibilities is often acceptable for a secondary factor, but it&#x27;s useless if attackers can just try all million codes.<p>Since they&#x27;re in the thread, nice article &#x27;dogacel! I&#x27;ve never seen an article on this that also took the time to dig into HMAC internals and that gnarly DT function.",
-        "Well I started reading, but then the page was blurred and blocked by a popup, so I only made it about a third down.",
-        "It is a bit terse, but there is a 20-line Python implementation which cleared up the ideas for me: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;susam&#x2F;mintotp\">https:&#x2F;&#x2F;github.com&#x2F;susam&#x2F;mintotp</a>",
-        "It&#x27;s often a good idea to set up TOTP on accounts just because they may treat you differently due to having 2FA enabled. It would be harder to lose a gmail account to their &quot;security&quot; systems if you add TOTP to it for example. In the case of gmail adding it is a hassle involving devtools to emulate a hardware key first then add TOTP and then delete the hardware 2FA.<p>Some password managers such as KeepassXC have TOTP incorporated into them and you can have it available right next to the password. It may defeat the purpose of 2FA under some assumptions.",
-        "Another post which describes the TOTP concisely - <a href=\"https:&#x2F;&#x2F;drewdevault.com&#x2F;2022&#x2F;10&#x2F;18&#x2F;TOTP-is-easy.html\" rel=\"nofollow\">https:&#x2F;&#x2F;drewdevault.com&#x2F;2022&#x2F;10&#x2F;18&#x2F;TOTP-is-easy.html</a>"
+        "If I am reading this right, a range is expressed as a distance between the minimum and maximum values, and in the Monte Carlo part a number is generated from a uniform distribution within that range[1].<p>But if I just ask the calculator &quot;1~2&quot; (i.e. just a range without any operators), the histogram shows what looks like a normal distribution centered around 1.5[2].<p>Shouldn&#x27;t the histogram be flat if the distribution is uniform?<p>[1] <a href=\"https:&#x2F;&#x2F;github.com&#x2F;filiph&#x2F;unsure&#x2F;blob&#x2F;123712482b7053974cbef9ffa7ba46c1cdfb765f&#x2F;lib&#x2F;src&#x2F;range.dart#L27\">https:&#x2F;&#x2F;github.com&#x2F;filiph&#x2F;unsure&#x2F;blob&#x2F;123712482b7053974cbef9...</a><p>[2] <a href=\"https:&#x2F;&#x2F;filiph.github.io&#x2F;unsure&#x2F;#f=1~2\" rel=\"nofollow\">https:&#x2F;&#x2F;filiph.github.io&#x2F;unsure&#x2F;#f=1~2</a>",
+        "Would be nice to retransform the output into an interval &#x2F; gaussian distribution<p><pre><code>   Note: If you&#x27;re curious why there is a negative number (-5) in the histogram, that&#x27;s just an inevitable downside of the simplicity of the Unsure Calculator. Without further knowledge, the calculator cannot know that a negative number is impossible\n</code></pre>\nDrake Equation or equation multiplying probabilities can also be seen in log space, where the uncertainty is on the scale of each probability, and the final probability is the product of exponential of the log probabilities. And we wouldnt have this negative issue",
+        "I put &quot;1 &#x2F; (-1~1)&quot; and expected something around - to + infinty. It instead gave me -35~35.<p>I really don&#x27;t known how good it is.",
+        "The ASCII art (well technically ANSI art) histogram is neat. Cool hack to get something done quickly. I&#x27;d have spent 5x the time trying various chart libraries and giving up.",
+        "It sounds like a gimmick at first, but looks surprisingly useful. I&#x27;d surely install it if it was available as an app to use alongside my usual calculator, and while I cannot quite recall a situation when I needed it, it seems very plausible that I&#x27;ll start finding use cases once I have it bound to some hotkey on my keyboard."
       ]
     },
     {
-      "title": "GPT-4.1 in the API",
-      "url": "https://openai.com/index/gpt-4-1/",
-      "score": 516,
-      "id": 43683410,
-      "by": "maheshrijal",
-      "text": "",
+      "title": "Cursor IDE support hallucinates lockout policy, causes user cancellations",
+      "url": "https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/",
+      "score": 452,
+      "id": 43683012,
+      "by": "scaredpelican",
+      "text": "Earlier today Cursor, the magical AI-powered IDE started kicking users off when they logged in from multiple machines.<p>Like,you’d be working on your desktop, switch to your laptop, and all of a sudden you&#x27;re forcibly logged out. No warning, no notification, just gone.<p>Naturally, people thought this was a new policy.<p>So they asked support.<p>And here’s where it gets batshit: Cursor has a support email, so users emailed them to find out. The support peson told everyone this was “expected behavior” under their new login policy.<p>One problem. There was no support team, it was an AI designed to &#x27;mimic human responses&#x27;<p>That answer, totally made up by the bot, spread like wildfire.<p>Users assumed it was real (because why wouldn’t they? It&#x27;s their own support system lol), and within hours the community was in revolt. Dozens of users publicly canceled their subscriptions, myself included. Multi-device workflows are table stakes for devs, and if you&#x27;re going to pull something that disruptive, you&#x27;d at least expect a changelog entry or smth.<p>Nope.<p>And just as people started comparing notes and figuring out that the story didn’t quite add up… the main Reddit thread got locked. Then deleted. Like, no public resolution, no real response, just silence.<p>To be clear: this wasn’t an actual policy change, just a backend session bug, and a hallucinated excuse from a support bot that somehow did more damage than the bug itself.<p>But at that point, it didn’t matter. People were already gone.<p>Honestly one of the most surreal product screwups I’ve seen in a while. Not because they made a mistake, but because the AI support system invented a lie, and nobody caught it until the userbase imploded.",
       "top_comments": [
-        "As a ChatGPT user, I&#x27;m weirdly happy that it&#x27;s not available there yet. I already have to make a conscious choice between<p>- 4o (can search the web, use Canvas, evaluate Python server-side, generate images, but has no chain of thought)<p>- o3-mini (web search, CoT, canvas, but no image generation)<p>- o1 (CoT, maybe better than o3, but no canvas or web search and also no images)<p>- Deep Research (very powerful, but I have only 10 attempts per month, so I end up using roughly zero)<p>- 4.5 (better in creative writing, and probably warmer sound thanks to being vinyl based and using analog tube amplifiers, but slower and request limited, and I don&#x27;t even know which of the other features it supports)<p>- 4o &quot;with scheduled tasks&quot; (why on earth is that a model and not a tool that the other models can use!?)<p>Why do I have to figure all of this out myself?",
-        "Numbers for SWE-bench Verified, Aider Polyglot, cost per million output tokens, output tokens per second, and knowledge cutoff month&#x2F;year:<p><pre><code>             SWE  Aider Cost Fast Fresh\n Claude 3.7  70%  65%   $15  77   8&#x2F;24\n Gemini 2.5  64%  69%   $10  200  1&#x2F;25\n GPT-4.1     55%  53%   $8   169  6&#x2F;24\n DeepSeek R1 49%  57%   $2.2 22   7&#x2F;24\n Grok 3 Beta ?    53%   $15  ?    11&#x2F;24\n</code></pre>\nI&#x27;m not sure this is really an apples-to-apples comparison as it may involve different test scaffolding and levels of &quot;thinking&quot;. Tokens per second numbers are from here: <a href=\"https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;gpt-4o-chatgpt-03-25&#x2F;providers\" rel=\"nofollow\">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;gpt-4o-chatgpt-03-25&#x2F;pr...</a> and I&#x27;m assuming 4.1 is the speed of 4o given the &quot;latency&quot; graph in the article putting them at the same latency.<p>Is it available in Cursor yet?",
-        "don&#x27;t miss that OAI also published a prompting guide WITH RECEIPTS for GPT 4.1 specifically for those building agents... with a new recommendation for:<p>- telling the model to be persistent (+20%)<p>- dont self-inject&#x2F;parse toolcalls (+2%)<p>- prompted planning (+4%)<p>- JSON BAD - use XML or  arxiv 2406.13121 (GDM format)<p>- put instructions + user query at TOP -and- BOTTOM - bottom-only is VERY BAD<p>- no evidence that ALL CAPS or Bribes or Tips or threats to grandma work<p>source: <a href=\"https:&#x2F;&#x2F;cookbook.openai.com&#x2F;examples&#x2F;gpt4-1_prompting_guide#prompting-induced-planning--chain-of-thought\" rel=\"nofollow\">https:&#x2F;&#x2F;cookbook.openai.com&#x2F;examples&#x2F;gpt4-1_prompting_guide#...</a>",
-        "From OpenAI&#x27;s announcement:<p>&gt; Qodo tested GPT‑4.1 head-to-head against Claude Sonnet 3.7 on generating high-quality code reviews from GitHub pull requests. Across 200 real-world pull requests with the same prompts and conditions, they found that GPT‑4.1 produced the better suggestion in 55% of cases. Notably, they found that GPT‑4.1 excels at both precision (knowing when not to make suggestions) and comprehensiveness (providing thorough analysis when warranted).<p><a href=\"https:&#x2F;&#x2F;www.qodo.ai&#x2F;blog&#x2F;benchmarked-gpt-4-1&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.qodo.ai&#x2F;blog&#x2F;benchmarked-gpt-4-1&#x2F;</a>",
-        "I have been trying GPT-4.1 for a few hours by now through Cursor on a fairly complicated code base. For reference, my gold standard for a coding agent is Claude Sonnet 3.7 despite its tendency to diverge and lose focus.<p>My take aways:<p>- This is the first model from OpenAI that feels relatively agentic to me (o3-mini sucks at tool use, 4o just sucks). It seems to be able to piece together several tools to reach the desired goal and follows a roughly coherent plan.<p>- There is still more work to do here. Despite OpenAI&#x27;s cookbook[0] and some prompt engineering on my side, GPT-4.1 stops quickly to ask questions, getting into a quite useless &quot;convo mode&quot;. Its tool calls fails way too often as well in my opinion.<p>- It&#x27;s also able to handle significantly less complexity than Claude, resulting in some comical failures. Where Claude would create server endpoints, frontend components and routes and connect the two, GPT-4.1 creates simplistic UI that calls a mock API despite explicit instructions. When prompted to fix it, it went haywire and couldn&#x27;t handle the multiple scopes involved in that test app.<p>- With that said, within all these parameters, it&#x27;s much less unnerving than Claude and it sticks to the request, as long as the request is not too complex.<p>My conclusion: I like it, and totally see where it shines, narrow targeted work, adding to Claude 3.7 - for creative work, and Gemini 2.5 Pro for deep complex tasks. GPT-4.1 does feel like a smaller model compared to these last two, but maybe I just need to use it for longer.<p>0: <a href=\"https:&#x2F;&#x2F;cookbook.openai.com&#x2F;examples&#x2F;gpt4-1_prompting_guide\" rel=\"nofollow\">https:&#x2F;&#x2F;cookbook.openai.com&#x2F;examples&#x2F;gpt4-1_prompting_guide</a>"
+        "There is a certain amount of irony that people try really hard to say that hallucinations are not a big problem anymore and then a company that would benefit from that narrative gets directly hurt by it.<p>Which of course they are going to try to brush it all away. Better than admitting that this problem very much still exists and isn’t going away anytime soon.",
+        "LLM anything makes me queasy. Why would any self respecting software developer use this tripe? \nLearn how to write good software. Become an expert in the trade. AI anything will only dig a hole for software to die in.\nCheapens the product, butchers the process and absolutely decimates any hope for skill development for future junior developers.<p>I&#x27;ll just keep chugging along, with debian, python and vim, as I always have. No LLM, no LSP, heck not even autocompletion. But damn proud of every hand crafted, easy to maintain and fully understood line of code I&#x27;ll write.",
+        "Tinfoil hat me says that it was a policy change that they are blaming on an &quot;AI Support Agent&quot; and hoping nobody pokes too much behind the curtain.<p>Note that I have absolutely no knowledge or reason to believe this other than general distrust of companies.",
+        "here&#x27;s an archive of the original reddit post since it seemed to be instantly nuked: <a href=\"https:&#x2F;&#x2F;undelete.pullpush.io&#x2F;r&#x2F;cursor&#x2F;comments&#x2F;1jyy5am&#x2F;psa_cursor_now_restricts_logins_to_a_single&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;undelete.pullpush.io&#x2F;r&#x2F;cursor&#x2F;comments&#x2F;1jyy5am&#x2F;psa_c...</a>",
+        "I just cancelled - not because I thought the policy change was real - but simply because this article reminded me I hadn&#x27;t used it much this month."
       ]
     },
     {
-      "title": "Meta antitrust trial kicks off in federal court",
-      "url": "https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court",
-      "score": 311,
-      "id": 43680957,
-      "by": "c420",
+      "title": "Generate videos in Gemini and Whisk with Veo 2",
+      "url": "https://blog.google/products/gemini/video-generation/",
+      "score": 194,
+      "id": 43695592,
+      "by": "meetpateltech",
       "text": "",
       "top_comments": [
-        "&gt; &quot;The FTC&#x27;s lawsuit against Meta defies reality. The evidence at trial will show what every 17-year-old in the world knows: Instagram, Facebook and WhatsApp compete with Chinese-owned TikTok, YouTube, X, iMessage and many others,&quot; Meta spokesperson Chris Sgro said in a statement.<p>Everyone knew at the time that Facebook bought Instagram because it threatened Facebook&#x27;s dominance, and hindsight shows that exactly that happened. There&#x27;s a huge swath of people that dropped off FB and now use Insta, but Meta owns both. It was a great move but it was absolutely anti-competitive at the time.",
-        "Other articles posted about this:<p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;04&#x2F;14&#x2F;technology&#x2F;meta-antitrust-trial-ftc.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;04&#x2F;14&#x2F;technology&#x2F;meta-antitrust...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;8wOPP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;8wOPP</a>)<p><a href=\"https:&#x2F;&#x2F;www.cnn.com&#x2F;2025&#x2F;04&#x2F;14&#x2F;media&#x2F;meta-ftc-trial&#x2F;index.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnn.com&#x2F;2025&#x2F;04&#x2F;14&#x2F;media&#x2F;meta-ftc-trial&#x2F;index.ht...</a><p><a href=\"https:&#x2F;&#x2F;www.politico.com&#x2F;news&#x2F;2025&#x2F;04&#x2F;13&#x2F;meta-zuckerberg-ftc-washington-court-00288044\" rel=\"nofollow\">https:&#x2F;&#x2F;www.politico.com&#x2F;news&#x2F;2025&#x2F;04&#x2F;13&#x2F;meta-zuckerberg-ftc...</a><p>(I&#x27;ve omitted the HN links this time because there weren&#x27;t any comments yet. Someday we&#x27;re going to do proper URL bundling and karma sharing for cases like this, where multiple submitters post good articles on the same underlying story.)",
-        "I don&#x27;t understand the FTC&#x27;s strategy here. Their entire case hinges on the fact that the judge will accept that Instagram, WhatsApp, Snapchat and MeWe (?) are direct competitors of Facebook in the &quot;personal social networking&quot; space while TikTok, YouTube, X, iMessage and all the rest aren&#x27;t. Unsurprisingly that is what Meta&#x27;s legal team is spending all of its efforts debating. I really can&#x27;t see the judge allowing such a cherry-picked definition of what Facebook&#x27;s market is.",
-        "What has actually changed in the last 13 years regarding Whatsapp? Video. And I believe that&#x27;s the reason why anyone hasn&#x27;t actually challenged them regarding messaging: you can build a similar application with similar features with a rather small group of people (not saying it&#x27;s easy, but it&#x27;s feasible). But handling those pentabytes of bandwith shared every day? Actually _promoting_ the use of DIY video as the preferred communication media? That&#x27;s something you can&#x27;t do as an small shop. And that&#x27;s, I think, why you cannot compete.\nI decided to quit Whatsapp, which in Latinamerica is quite an outrageous move: that application is the communication channel for EVERYTHING: all families, all schools, all neighborhoods. I did it because I think Meta&#x27;s main metric is actually hostile to their users: they want as much of your time as they can get from you, and they&#x27;ll use are sorts of psychological weaponry to keep you inside. They were actually vocal about it in the past. There&#x27;s zero reason to trust them. But why is it that no one has come up with a true alternative (although props to Signal)? Well, there&#x27;s the network effect, for sure. They also employ very good engineers. But I believe the true reason is scale: it didn&#x27;t use to be that way, but infrastructure costs are now inmense.",
-        "Shout out to <a href=\"https:&#x2F;&#x2F;www.bigtechontrial.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bigtechontrial.com&#x2F;</a> which covered Google Trial and is now covering Facebook trial.<p>Disclaimer: Matt Stoller is big on anti monopoly so he&#x27;s in support of government in both cases but overall, his coverage is really good and more details than you will probably get from other outlets."
+        "Whisk itself (<a href=\"https:&#x2F;&#x2F;labs.google&#x2F;fx&#x2F;tools&#x2F;whisk\" rel=\"nofollow\">https:&#x2F;&#x2F;labs.google&#x2F;fx&#x2F;tools&#x2F;whisk</a>) was released a few months ago under the radar as a demo for Imagen 3 and it&#x27;s actually fun to play with and surprisingly robust given its particular implementation.<p>It uses a prompt transmutation trick (convert the uploaded images into a textual description; can verify by viewing the description of the uploaded image) and the strength of Imagen 3&#x27;s actually modern text encoder to be able to adhere to those long transmuted descriptions for Subject&#x2F;Scene&#x2F;Style.",
+        "This is amazing. I wouldn&#x27;t think that something as computationally expensive as generating 8 second videos would be available outside of paid API anytime soon.",
+        "I am not really technical in this domain, but why is everything text-to-X?<p>Wouldn&#x27;t it be possible to draw a rough sketch of a terrain, drop a picture of the character, draw a 3D spline for the walk path, while having a traditional keyframe style editor, and give certain points some keyframe actions (like character A turns on his flashlight at frame 60) - in short, something that allows minute creative control just like current tools do?",
+        "I think I would buy &quot;yes&quot; shares in a Polymarket event that predicts a motion picture created by a single person grossing more than $100M by 2027.",
+        "Brave to make ads with the Ghibli style. Would have thought that&#x27;s burned by now."
       ]
     },
     {
-      "title": "The path to open-sourcing the DeepSeek inference engine",
-      "url": "https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine",
-      "score": 418,
-      "id": 43682088,
-      "by": "Palmik",
+      "title": "Clolog",
+      "url": "https://github.com/bobschrag/clolog",
+      "score": 171,
+      "id": 43695620,
+      "by": "todsacerdoti",
       "text": "",
       "top_comments": [
-        "In March, vLLM picked up some of the improvements in the DeepSeek paper. Through these, vLLM v0.7.3&#x27;s DeepSeek performance jumped to about 3x+ of what it was before [1].<p>What&#x27;s exciting is that there&#x27;s still so much room for improvement. We benchmark around 5K total tokens&#x2F;s with the sharegpt dataset and 12K total token&#x2F;s with random 2000&#x2F;100, using vLLM and under high concurrency.<p>DeepSeek-V3&#x2F;R1 Inference System Overview [2] quotes &quot;Each H800 node delivers an average throughput of 73.7k tokens&#x2F;s input (including cache hits) during prefilling <i>or</i> 14.8k tokens&#x2F;s output during decoding.&quot;<p>Yes, DeepSeek deploys a different inference architecture. But this goes onto show just how much room there is for improvement. Looking forward to more open source!<p>[1] <a href=\"https:&#x2F;&#x2F;developers.redhat.com&#x2F;articles&#x2F;2025&#x2F;03&#x2F;19&#x2F;how-we-optimized-vllm-deepseek-r1\" rel=\"nofollow\">https:&#x2F;&#x2F;developers.redhat.com&#x2F;articles&#x2F;2025&#x2F;03&#x2F;19&#x2F;how-we-opt...</a><p>[2] <a href=\"https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;open-infra-index&#x2F;blob&#x2F;main&#x2F;202502OpenSourceWeek&#x2F;day_6_one_more_thing_deepseekV3R1_inference_system_overview.md\">https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;open-infra-index&#x2F;blob&#x2F;main&#x2F;20...</a>",
-        "I really empathised with this part:<p>&gt; Codebase Divergence: Our engine is based on an early fork of vLLM from over a year ago. Although structurally similar, we’ve heavily customized it for DeepSeek models, making it difficult to extend for broader use cases.<p>I&#x27;ve been there. Probably a few of us have.<p>Their approach of working on splitting out maintainable sublibraries and sharing info directly even if not integrated seems a really nice way of working with the community -- ie, they have obstacles, but they&#x27;re not letting the obstacles cause them to take the easy route of not contributing at all. And while it might seem better to someone wanting to use their techniques to share only working code, not info on the techniques, at least it&#x27;s still knowledge sharing. And again I think it&#x27;d be easier for them not to do it. So kudos to them.",
-        "What motivates the commercial AI companies to share their research results and know-how?<p>Why did Google published the Transformer architecture instead of keeping it to themselves?<p>I understand that people may want to do good things for humanity, facilitate progress, etc. But if an action goes against commercial interest, how can the company management take it and not get objections from shareholders?<p>Or there is a commercial logic that motivates sharing of information and intellectual property? What logic is that?",
-        "&quot;We have something that would be of interest to the open source community, but it needs a lot of tidying to even run outside our company, and we don&#x27;t have the manpower to properly maintain it when released&quot;.<p>Plenty of companies are in this position.<p>Please just open source anyway with a note saying &quot;we won&#x27;t be maintaining this, but feel free to fork!&quot;",
-        "[delayed]"
+        "Very cool! I just cloned the repository, will play with it later.<p>BTW, Clojure was such a brilliant name (from Rich): Whenever I see a project starting with &quot;Clo&quot; I pay attention.<p>EDIT: had a chance to try it: a very cool resource!",
+        "really happy to see something of a revival of interest for logic programming lately. it&#x27;s an extremely powerful tool if you know when to reach for it.",
+        "This is very nice, I played with it before and working on a similar idea in CL (I am one of those people who finds the uniformity of no syntax soothing).",
+        "I absolutely love the aesthetic of a repo having a giant README.md",
+        "This might unironically be a reason for me to finally try Clojure!"
       ]
+    }
+  ],
+  "devto_articles": [
+    {
+      "title": "Your last MCP to schedule all your social posts! 🤯",
+      "url": "https://dev.to/nevodavid/your-last-mcp-to-schedule-all-your-social-posts-al4",
+      "description": "MCP is the future   I'm pretty addicted to the Last Of Us series, Sorry about the cover...",
+      "published_at": "2025-04-15T10:56:09Z",
+      "tags": "webdev, programming, javascript, ai",
+      "comments_count": 11,
+      "positive_reactions_count": 134
+    },
+    {
+      "title": "Top 10 Icon Libraries for Next.js - 2025",
+      "url": "https://dev.to/icons/icon-libraries-for-nextjs-1915",
+      "description": "Icons are more than just visual candy—they help communicate ideas faster, improve UX, and make your...",
+      "published_at": "2025-04-15T04:58:07Z",
+      "tags": "icons, nextjs, webdev, programming",
+      "comments_count": 4,
+      "positive_reactions_count": 51
+    },
+    {
+      "title": "9 Ways Palm Vein Recognition Enhances Public Safety and Security",
+      "url": "https://dev.to/faceplugin/9-ways-palm-vein-recognition-enhances-public-safety-and-security-3jfj",
+      "description": "Palm vein recognition is changing how we secure and verify identities in critical environments. It...",
+      "published_at": "2025-04-15T03:18:12Z",
+      "tags": "ai, machinelearning, datascience, softwaredevelopment",
+      "comments_count": 1,
+      "positive_reactions_count": 49
+    },
+    {
+      "title": "We made the world first shopping AI chatbot, by MCP like approach, and avoided pink slip",
+      "url": "https://dev.to/samchon/i-made-the-world-first-shopping-ai-chatbot-by-mcp-like-approach-and-avoided-pink-slip-5f5m",
+      "description": "Summary   My boss showed me white paper of sierra.ai, and gave me a mission to do the...",
+      "published_at": "2025-04-15T08:59:52Z",
+      "tags": "programming, typescript, opensource, ai",
+      "comments_count": 1,
+      "positive_reactions_count": 47
+    },
+    {
+      "title": "PHP 8.4’s array_find Function: Innovative and Practical, or Just a Nice-to-Have?",
+      "url": "https://dev.to/mattyedwards/php-84s-arrayfind-function-innovative-and-practical-or-just-a-nice-to-have-48io",
+      "description": "💡PHP 8.4 introduces a new function, array_find, which makes array searching more elegant. But is it...",
+      "published_at": "2025-04-15T00:34:21Z",
+      "tags": "php, programming, tutorial, productivity",
+      "comments_count": 2,
+      "positive_reactions_count": 43
+    }
+  ],
+  "lobsters_stories": [
+    {
+      "title": "Two Years of Rust",
+      "url": "https://borretti.me/article/two-years-of-rust",
+      "description": "",
+      "created_at": "2025-04-15T07:35:59.000-05:00",
+      "tags": [
+        "rust"
+      ],
+      "comments_count": 0,
+      "score": 43
+    },
+    {
+      "title": "What the Hell Is a Target Triple?",
+      "url": "https://mcyoung.xyz/2025/04/14/target-triples/",
+      "description": "",
+      "created_at": "2025-04-14T23:03:23.000-05:00",
+      "tags": [
+        "compilers"
+      ],
+      "comments_count": 0,
+      "score": 54
+    },
+    {
+      "title": "You cannot have our user's data",
+      "url": "https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/",
+      "description": "",
+      "created_at": "2025-04-15T09:27:17.000-05:00",
+      "tags": [
+        "rant"
+      ],
+      "comments_count": 0,
+      "score": 62
+    },
+    {
+      "title": "Arch Linux now has an official WSL image",
+      "url": "https://antiz.fr/blog/archlinux-official-wsl-image/",
+      "description": "",
+      "created_at": "2025-04-15T11:19:55.000-05:00",
+      "tags": [
+        "linux"
+      ],
+      "comments_count": 0,
+      "score": 19
+    },
+    {
+      "title": "MITRE will stop issuing new CVEs",
+      "url": "https://infosec.exchange/@briankrebs/114343835430587973",
+      "description": "<p>The funding for the CVE database runs out on April 16th, and MITRE itself will no longer be issuing CVEs. CNAs will still be issuing CVEs for now. It’s also mentioned downthread that the funding renewal has come down to the wire before.</p>\n",
+      "created_at": "2025-04-15T16:51:33.000-05:00",
+      "tags": [
+        "security"
+      ],
+      "comments_count": 0,
+      "score": 12
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "22,685"
+    },
+    {
+      "title": "svcvit/Awesome-Dify-Workflow",
+      "url": "https://github.com/svcvit/Awesome-Dify-Workflow",
+      "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
+      "language": "",
+      "stars": "5,581"
+    },
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+      "language": "Python",
+      "stars": "15,551"
+    },
+    {
+      "title": "Zackriya-Solutions/meeting-minutes",
+      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)https://meetily.zackriya.com/",
+      "language": "C++",
+      "stars": "3,002"
+    },
+    {
+      "title": "jlevy/og-equity-compensation",
+      "url": "https://github.com/jlevy/og-equity-compensation",
+      "description": "Stock options, RSUs, taxes — read the latest edition:www.holloway.com/ec",
+      "language": "",
+      "stars": "10,772"
+    }
+  ],
+  "dribbble_shots": [
+    {
+      "title": "[ERROR] Dribbble fetch failed: 404 Client Error: Not Found for url: https://dribbble.com/shots/popular.rss"
+    }
+  ],
+  "techcrunch_articles": [
+    {
+      "title": "Nvidia H20 chip exports hit with license requirement by US government",
+      "url": "https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/",
+      "description": "Semiconductor giant Nvidia is facing unexpected new U.S. export controls on its H20 chips. In a filing Tuesday, Nvidia said it was informed by the U.S. government that it will need a license to export its H20 AI chips to China. This license will be required indefinitely, according to the filing — the U.S. government [&#8230;]",
+      "published": "Tue, 15 Apr 2025 22:24:49 +0000"
+    },
+    {
+      "title": "Figma ignores the fear, files paperwork for an IPO",
+      "url": "https://techcrunch.com/2025/04/15/figma-ignores-the-fear-files-paperwork-for-an-ipo/",
+      "description": "Design software startup Figma announced Tuesday it has filed its confidential paperwork for an IPO. We won&#8217;t know more until that paperwork becomes public, which, best-case scenario would be in about a month. However, with the stock market in groundhog mode — seeing its shadow with every new gyration of the Trump administration&#8217;s trade policies [&#8230;]",
+      "published": "Tue, 15 Apr 2025 21:54:36 +0000"
+    },
+    {
+      "title": "Telli, a YC alum, raises pre-seed funding for its AI voice agents",
+      "url": "https://techcrunch.com/2025/04/15/telli-a-yc-alum-raises-pre-seed-funding-for-its-ai-voice-agents/",
+      "description": "Former Y Combinator startup telli is helping companies alleviate the bottleneck that occurs when a high-volume of customers try to, for example, book appointments. Its AI voice agents kick in and handle basic operations while handing off more-complex processes to human operators. The Berlin-based startup has now raised $3.6 million in a pre-seed funding round led [&#8230;]",
+      "published": "Tue, 15 Apr 2025 21:06:40 +0000"
+    },
+    {
+      "title": "For security, Android phones will now auto-reboot after three days",
+      "url": "https://techcrunch.com/2025/04/15/for-security-android-phones-will-now-auto-reboot-after-three-days/",
+      "description": "The update comes months after Apple pushed its own “inactivity reboot” feature.",
+      "published": "Tue, 15 Apr 2025 20:59:20 +0000"
+    },
+    {
+      "title": "TikTok takes on Google Maps by surfacing reviews in the comments tab",
+      "url": "https://techcrunch.com/2025/04/15/tiktok-takes-on-google-maps-by-surfacing-reviews-in-the-comments-tab/",
+      "description": "As TikTok continues to build out its search experience, the social network is now surfacing reviews for select places right within the comments tab of a video. The new feature, which appears to be a test, eliminates the need to conduct a new search or open Google when you come across a place on TikTok [&#8230;]",
+      "published": "Tue, 15 Apr 2025 20:49:45 +0000"
     }
   ],
   "trends": [
@@ -409,6 +545,9 @@
     }
   ],
   "ideas": [
-    "[ERROR] LLM call failed: Error code: 401 - {'error': {'message': 'No auth credentials found', 'code': 401}}"
+    "Here's a list of 3 creative app ideas based on the pain points and problems discussed in the given Reddit posts:",
+    "1. **FounderPal**: An AI-powered mentorship platform that connects startup founders with experienced entrepreneurs who have navigated similar challenges, providing guidance on fundraising, sales, and product development. The platform could also offer personalized advice and resources based on the founder's specific needs and goals.",
+    "2. **SalesSphere**: A sales enablement tool that helps startup founders and sales teams craft effective pitches, identify high-quality leads, and develop targeted outreach strategies using data-driven insights and machine learning algorithms. The tool could also provide real-time feedback and coaching to improve sales performance.",
+    "3. **Probabilistic Calculator**: A user-friendly calculator app that allows users to input uncertain values and calculate probabilities, making it easier to make informed decisions in business and personal finance. The app could be built upon the Unsure Calculator concept and expanded to include features like scenario planning and sensitivity analysis."
   ]
 }
