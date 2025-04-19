@@ -4,7 +4,9 @@ feedparser
 schedule
 fastapi
 python-dotenv
-openai
+huggingface_hub
+transformers
+torch
 uvicorn
 pytrends
 beautifulsoup4
