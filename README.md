@@ -13,3 +13,4 @@ An AI-powered agent that fetches trending content, extracts problems, and genera
 - `llm/` — LLM prompt/response logic
 - `output/` — Save results, notifications
 - `config.py` — API keys/settings
+uvicorn app.web:app --reload --port 8000

@@ -77,6 +77,27 @@ def home(request: Request):
             all_ideas.append(ideas)
     best_ideas = pick_best_ideas(all_ideas, top_n=5)
 
+    # Batch all sources and generate ideas + pick best in one LLM call
+    from llm.openrouter_llama import generate_and_pick_best_ideas
+    posts_by_source = {
+        "Reddit": reddit_posts,
+        "Hacker News": hn_stories,
+        "Dev.to": devto_articles,
+        "Lobsters": lobsters_stories,
+        "GitHub Trending": github_trending,
+        "Dribbble": dribbble_shots,
+        "TechCrunch": techcrunch_articles,
+        "Google Trends": trends
+    }
+    ideas_result = generate_and_pick_best_ideas(posts_by_source, top_n=5, per_source_limit=2)
+    per_source_ideas = ideas_result.get("per_source", {})
+    best_ideas = ideas_result.get("best_overall", [])
+    # Save all ideas to a JSON file
+    import json
+    ideas_to_save = {**per_source_ideas, "best_ideas": best_ideas}
+    with open("latest_app_ideas.json", "w", encoding="utf-8") as f:
+        json.dump(ideas_to_save, f, ensure_ascii=False, indent=2)
+
     html = '''
     <html>
     <head>
