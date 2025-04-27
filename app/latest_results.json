@@ -1,485 +1,514 @@
 {
   "reddit_posts": [
     {
-      "title": "Best law firm to contact to sue startups for unpaid wages/imvoices? (I will not promote)",
-      "score": 11,
-      "url": "https://www.reddit.com/r/startups/comments/1k2x55b/best_law_firm_to_contact_to_sue_startups_for/",
-      "id": "1k2x55b",
+      "title": "How many early adopters did you get before launch? (I will not promote)",
+      "score": 7,
+      "url": "https://www.reddit.com/r/startups/comments/1k8jphz/how_many_early_adopters_did_you_get_before_launch/",
+      "id": "1k8jphz",
       "subreddit": "startups",
-      "created_utc": 1745071883.0,
-      "num_comments": 14,
-      "selftext": "Hi there! I worked at a startup as a 1099 worker and they stopped responding to me while we were discussing collecting payment. 1) How do I go about this?\n2) any law firms you can recommend me to sue the company? I have about ~$40k in unpaid wages for my work. Thanks! \n\n***I will not promote***",
+      "created_utc": 1745692119.0,
+      "num_comments": 23,
+      "selftext": "The current incubator program I have been in touch with says VC’s don’t touch startups now without market validation in the form of early adopters.\n\nIn fact, from what I gathered it’s fine to simply present an idea as long as you have a list of individuals who sign up for it. This had me thinking about just how many signatures you would need to convince a VC into a stupid product that actually had market fit. \n\nSo basically early adopters = funding \n\nHow many did you get before launch?",
       "top_comments": [
-        "I went through this several years ago except it was closer to $250K. The reason they didn't pay wasn't out of spite, it was an overall lack of funding. Just be sure you measure your outputs of cash vs. their viability to pay. Just because you get a judgment means you'll get your money back. You may spend $5000 to get there and have $45K in sunk costs while they go out of business.",
-        "What state are you in/is the company in? Some states can protect you under their department of labor (like California) but if you and the company are in different states their help can only get so far. I was in a similar position and got legal consults but no one would take the case if the amount owed was under $50k. They said with legal payouts it just wasn’t worth their time, and that I wouldn’t end up getting much of the money back either. In my situation I had to take an L and it took me 3 years to recover from it…",
-        "Not what you’re going to want to hear, but it may cost you more than it’s worth. There’s an idiom “you can’t squeeze blood from a turnip”. Unless they’re just being malicious, they likely can’t afford to pay you. It’s possible that You’ll spend more on an attorney suing them than they have to pay you; I totally get being pissed and being in the right, but sometimes it’s just not worth the emotional energy.",
-        "You might be a misclassified employee - but assuming you're a legitimate 1099 contractor, there should be a contract that clearly lays out what your responsibilities are and what they need to pay you once you complete your responsibilities. Personally, I'd encourage you to sue. You're rolling the dice with probably around 10k in initial attorney fees to get you past the intake/complaint/service/etc. but there's a decent chance you can settle.\n\nAlso, being sued is a major buzz kill for a startup looking to get more funding. Explain to them what your next steps will be and what the consequences to them will be if they do not cooperate in resolving this early.",
-        "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*"
+        "Still in beta as a two man team and broke but we have about 10k free sign ups and only 40 regular users with about 6 or so paying. \n\nThe problem for us isn't product market fit, though it does need more ironing out. The real problem is that the bar for new apps has dramatically increased so the old wisdom of make some janky product that has that min value is no longer the case. Now you need a bare min quality that everyone is accustomed to with max value for that one singular value proposition where other features can be added.\n\nSo this means tons and tons of tiny little fixes and standard additions that are common for most sites. The biggest shock was seeing how many new users came from mobile. Our app is canvas-based dealing with a lot of information. The thought of using this on mobile puts a horrible taste in my mouth because it makes zero sense to use it on mobile. But unfortunately, the numbers don't lie so now we're scrambling to optimize for mobile as well so we don't lose half of the prospective customers that show up. \n\nUnbelievably insane that people use mobile most of the time for apps like ours that are geared towards complicated data structuring...like I totally get it for social media and smaller things, but for something like this...idk. I can be convinced that people prefer mobile, but I can never convince myself to use mobile for this specific app lol. It's a crazy cognitive dissonance but big lesson is this. Step the fuck our of your head and listen to your customers, not what you prefer.",
+        "We have 120k registered users, 20k weekly actives, 10k$ MRR and we're still considered too early\n\nIt's definitely not purely about numbers!",
+        "There is no magic number. It depends on your business model and goals. You should calculate your own targets based on your plan, for example how many users you would need to prove demand, retention, or revenue potential. It is more about proving real market fit to yourself first.",
+        "Misread the title. Thought it said before \"lunch\". I was thinking ... shit that is the new KPI?",
+        "We tried to make waiting list for our clients, they are pretty good. You might find amazing people who would even want to pay for your idea if the landing page is properly made."
       ]
     },
     {
-      "title": "What’s your process for validating startup ideas before building? Trying to improve mine and wondering how others handle it. i will not promote",
-      "score": 10,
-      "url": "https://www.reddit.com/r/startups/comments/1k2wzfi/whats_your_process_for_validating_startup_ideas/",
-      "id": "1k2wzfi",
-      "subreddit": "startups",
-      "created_utc": 1745071428.0,
-      "num_comments": 13,
-      "selftext": "I will not promote. I’ve been obsessing over early-stage validation lately—especially how much time solo founders (myself included) can waste building before realizing no one actually wants the product.\n\nIn my case, I’m trying to systematize the validation process. Instead of going full MVP or shipping a full product, I’ve been playing with workflows like:\n\n* Writing down 5+ variations of the same idea to stress-test the core\n* Creating quick landing pages + simple survey funnels\n* Running ultra-targeted Reddit/Twitter/Google Ads with $25–50\n* Measuring CTR + actual form fills as early traction signals\n\nIt’s helping me dodge the trap of building beautiful things for ghosts, but I still feel like I’m winging parts of it.\n\nSo I’m curious:\n\n**How do YOU validate an idea before committing to build?**  \nDo you talk to people first? Fake-door test? Do you treat pre-traffic like a dealbreaker?\n\nBonus question: If you’re not technical, how do you get something live *fast* without relying on a dev cofounder?\n\nWould love to hear what systems or red flags you've developed over time. If enough people are interested, maybe we can put together a Notion doc of everyone’s idea validation stack/process. I’ll start.",
-      "top_comments": [
-        "I talk to real people and ask them to tell me everything about the problem before I do anything else. If I don’t do that, everything else becomes way riskier. Your steps are good but can be supercharged with proper interviews.",
-        "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*",
-        "I’m on the same stage, and I was thinking how to adopt a Scientific approach to discover the real pain points of the problem that you drafted. I was thinking about how to discover specific use cases in certain industries for B2B business, with large or medium IT departments. So, my first approach it is a landing page with a short survey, but the problem is how to bring the right people to fill up the survey I want.",
-        "Non-tech founder here (I am a designer)\n\nMy process:\n\n1. Talk to people that fit within my target market for that idea and get feedback and uncover pain points  \n2. Set up a quick waitlist landing page to collect emails  \n3. Post on socials, comment and engage on relevant post to share what I am building as a possible solution.  \n4. Go into FB groups, slack groups, etc groups that fit within my target market and post the waitlist with a tantalizing offer.\n\nLots of ways to validate, just try and experiment. Getting that data is important so you don't end up building something people don't want.\n\nUnless you're solving your own problem then build and validate is ok 'cause at least you're going to use it.",
-        "On the bonus question, check lovable or bolt or other AI tools that help you hammer out the MVP.\n\nOn the testing, firstly, it it B2B or B2C. If it's B2B, think about your ICP, and then try to talk to them. First through your own network, then extended network, then cold outreaches. If it's B2C, same thing, but you can pair it with online surveys or ads as you suggested. Although I would still always go for personal interviews first.\n\nAlso, it's even more important to think about which hypotheses you actually need to test before jumping on the ship."
-      ]
-    },
-    {
-      "title": "I will not promote: What security measures did you wish you implemented BEFORE your first enterprise deal?",
-      "score": 6,
-      "url": "https://www.reddit.com/r/startups/comments/1k2qska/i_will_not_promote_what_security_measures_did_you/",
-      "id": "1k2qska",
-      "subreddit": "startups",
-      "created_utc": 1745047609.0,
-      "num_comments": 15,
-      "selftext": "I will not promote: Want to know the security playbook you played with enterprise sales. You’re closing your first big enterprise contract, then their security team hits you with a 50-question vendor assessment that makes your startup’s \"Move fast and break things\" approach look... reckless. \n\nHow did you handle this without any external SOC2 type of certifications?",
-      "top_comments": [
-        "you go get soc2 and hopefully the client will wait for you",
-        "Even a team that's half-assing it shouldn't end up in that situation without any prior warning or thought at all.",
-        "I've done this a few times.\n\nThe key here is to have a strong internal champion (you need that regardless of compliance issues). Someone who knows how to navigate the organisation, and which things they can push back on.\n\nAfter that, be honest, collaborative and flexible with your champion. Don't treat \"compliance\" as one binary thing, but a series of negotiations.\n\nYou'd be surprised how far you get with honesty,. humility, and the phrase \"we don't have that yet, is that a deal breaker for you?\". Many times, the answer to this simple question is \"no\".\n\nOften, your champion can get you exemptions in their checklist.\n\nAlso, for the things that are real breakers, often if you're working on achieving them, and have a realistic timeframe (within the next 12 months), you can navigate this.\n\nGood luck!",
-        "SOC2 is generally only a requirement for government contracts in my experience, though some enterprises ask for them without really understand what they’re asking for. \nA set of ISO 27001 Annex A Policies which you can share with customers is generally enough for an initial contract. You will need to be able to implement them and be ready to evidence them asap though.",
-        "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*"
-      ]
-    },
-    {
-      "title": "Where do you find early beta testers without a budget? (i will not promote\" in post titles)",
+      "title": "Startup Marketing Case Study: Coupa - Got acquired for $8 Billion in 2022 (I will not Promote)",
       "score": 4,
-      "url": "https://www.reddit.com/r/startups/comments/1k2z7lt/where_do_you_find_early_beta_testers_without_a/",
-      "id": "1k2z7lt",
+      "url": "https://www.reddit.com/r/startups/comments/1k8ywx9/startup_marketing_case_study_coupa_got_acquired/",
+      "id": "1k8ywx9",
       "subreddit": "startups",
-      "created_utc": 1745077484.0,
-      "num_comments": 10,
-      "selftext": "I’m building a mobile app and finishing the MVP soon. I’d like to test it with real users and do some post-usage interviews.\n\nNo budget, so I’m not running ads or anything — just wondering where other indie founders have had success finding their first testers.\n\nNot here to promote anything — just trying to learn what channels work for early-stage validation.",
+      "created_utc": 1745741410.0,
+      "num_comments": 6,
+      "selftext": "(I will not promote)\n\n  \nSharing something I dug up for my '**Startup Marketing**' newsletter this week. In my quest to understand how enterprise products did early stage marketing, I ended up studying Coupa’s early growth and it is a gem if you're trying to crack into a mature market without a big budget.\n\n**First, a little about Coupa:**\n\n* Coupa is a **business spend management platform** — basically, they help big companies manage procurement, expenses, and suppliers.\n* They started in 2006, IPO'd in 2016, and were acquired for **$8 Billion** in 2022.\n* Coupa entered a market ruled by *giants* like SAP, Oracle, and Ariba... and still won.\n\nTheir early stage marketing is worth studying because they broke into a **mature, dominated market** — without raising huge funding rounds or burning millions on ads.\n\n**Their Marketing Strategy**\n\nCoupa’s growth strategy wasn’t to fight incumbents head-on — it was to expand the market. Their goal was to make procurement software accessible to companies of all sizes, especially those that couldn’t afford Oracle or SAP. Procurement software back then was **only** for massive enterprises with big IT budgets.\n\nSo they had a simple goal: Get in front of finance and procurement teams who wanted to streamline their purchasing process but lacked the budget or IT capacity for heavyweight solutions.\n\n**Here’s how Coupa pulled it off:**\n\n1. **Launched an open-source version** — almost unheard of in procurement tech at the time.\n2. **Built it fast** using Ruby on Rails (lean team, limited resources).\n3. **Distributed through SourceForge** — the #1 open-source project platform (500K+ visits/month back then).\n4. **Leveraged founder’s reputation** — Dave Stephens (ex-Oracle) ran a popular blog and had deep connections in procurement circles.\n5. **Created organic buzz** — early coverage from procurement bloggers (like Spend Matters) and trade publications.\n\n**The impact?**\n\n* 460+ downloads in Month 1.\n* 10,000+ downloads in Year 1.\n* Built a strong early adopter base before launching their SaaS (paid) version.\n\nEven a modest 10% free-to-paid conversion would have given them \\~$1M ARR, as their early ACV was north of $15K.\n\n**Why it worked:**\n\n* Open source killed friction — no huge sales cycles, no approvals needed to try it.\n* They expanded the market — making procurement software accessible to smaller companies, not just enterprises.\n* And when the paid version dropped, they already had trust and familiarity.\n\n**Fast forward: Coupa went public and eventually got acquired for $8B.**\n\nI broke down the full story (with more tactical details) — dropped the link in the comments if you want to check it out. 👇",
       "top_comments": [
+        "Coupa is, without a doubt, the worst platform I have to use on a regular basis. Slow, buggy, awful UX.\n\nIf you are reading this and think you can sell in to procurement teams, please disrupt this POS ASAP thx",
         "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*",
-        "Did you talk to anybody before building? They usually make great bets customers or can refer you. If not, start talking now. Hacking social media communities is also free.",
-        "What is your app?",
-        "the best beta testers are going to be the ones that have the problem you're trying to solve. if you get off the shelf beta testers and interview them afterwards, it might actually lead you astray bc they weren't ideal customers/users in the first place. i think the better question is who are you trying to help, who has the problem you're trying to solve, and where do they usually congregate?",
-        "That's no MVP. Beta testers try out your app for the purpose of finding some bugs. That doesn't qualify as 'real use.' \n\nYou can get a few beta testers who want to help you (out of boredom), a couple of real users, and no buyers. That's not validation. It is utterly ridiculous. Not that some haven't abused the term 'traction.'\n\nThe term testing should have given away this fiction. \n\nY Combinator suggests founders tackle \"hair on fire\" problems, because a couple of bugs won't deter people with urgent problems in need of a genuine solution. Founders, on the other hand, ask around and launch first, ask questions later. \n\nI recently discussed a project where the dev got one offer to pay without ads, without finishing the app, without having any way to accept payment. That's the sort of thing to look for. ...too soon? \n\nA slight faux pass, as you were supposed to wait one full minute of dreadful silence after launch, but no big deal."
+        "Here is the full case study with contextual links and screenshots.\n\n[*Startup Marketing Case Study: Coupa*](https://newsletter.saastrek.co/p/coupas-0-to-1-million-arr-marketing)*.*",
+        "Does Coupa still have an open source version?"
       ]
     },
     {
-      "title": "My experience with health insurance as a founder I will not promote",
+      "title": "ERA NY interview invite! Still waiting on Techstars. I will Not Promote",
       "score": 3,
-      "url": "https://www.reddit.com/r/startups/comments/1k367k3/my_experience_with_health_insurance_as_a_founder/",
-      "id": "1k367k3",
+      "url": "https://www.reddit.com/r/startups/comments/1k8ti8k/era_ny_interview_invite_still_waiting_on/",
+      "id": "1k8ti8k",
       "subreddit": "startups",
-      "created_utc": 1745096380.0,
+      "created_utc": 1745720575.0,
       "num_comments": 1,
-      "selftext": "Hi, I wanted to share my experience as a a startup founder looking for health insurance. This post is specific for US based individuals where our health care options are generally…bad. Being in my 40s not having health insurance was not an option so when I moved to working full time at my startup I needed to find coverage. I am the only full time employee and my cofounders both have health insurance through their other means. \n\nI could tell you about how many hours I spent scouring the internet for pricing and plans, comparing, scheduling calls with the very few companies that claim to be startup friendly. I was looking for a national PPO (I travel a lot for work and most of my Dr appointments are things like getting strep after a big conference) and I have one speciality orthopedist I wanted to keep seeing. The options were…dismal. The best I found on my own was an EPO with regional coverage. At least my orthopedist was in network. \n\nTLDR I ended up going an ICRHA that provides pre-tax dollar reimbursement to me from the company (a tax benefit for my startup) and working with an individual broker I actually found on here who has an excellent selection of plans with national coverage, with many options under $500/month.  I’m not sure what constitutes promotion but feel free to DM me if you want either of these names. Both companies were extremely responsive to my questions and I was onboarded within 48 hours, no phone calls and online the necessary amount of admin/paperwork required. Just getting quotes on my own was Feb times more of headache. \n\nJust wanted to share my experience for any small teams out there looking for options! \n\nI will not promote. \n\nI will not promote ",
+      "selftext": "i will not promote:\n\nFor those who've been through ERA interviews or progressed with Techstars: what should I prepare for? Any tips on standing out during accelerator interviews?\n\nCurrently, we are part of the Founder University Pre-Accelerator Program.\n\nThanks!",
       "top_comments": [
         "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*"
       ]
     },
     {
-      "title": "$75000 at 19 what should i do",
-      "score": 111,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k2sy77/75000_at_19_what_should_i_do/",
-      "id": "1k2sy77",
-      "subreddit": "entrepreneur",
-      "created_utc": 1745057163.0,
-      "num_comments": 248,
-      "selftext": "I was able to save up $75000 being a crypt0/web3 meme coin space entrepreneur running my own community and funneling them into my telegram and monetizing my community.\n\nI need someone to give me a big brother/dad tips on what path i should attack next with the money i have saved up wether investing, retaining, growing it/ starting a business \n\nThank you redditors :)\n\nedit: i have been hustling online for the past 8 years running & founding big esport pages w/ over 100k followers on IG, had my own social media management agency, managed big content creators, did e commerce, drop shipping that’s just a couple of business models i tried & no i did not PUMP & DUMP anything i would’ve been up way more if i did i provided real value and people are extremely satisfied with that",
+      "title": "Best tools you've used to improve user activation/onboarding? I WILL NOT PROMOTE",
+      "score": 5,
+      "url": "https://www.reddit.com/r/startups/comments/1k8kdfr/best_tools_youve_used_to_improve_user/",
+      "id": "1k8kdfr",
+      "subreddit": "startups",
+      "created_utc": 1745693886.0,
+      "num_comments": 8,
+      "selftext": "We're early-stage (\\~few hundred users) and trying to tighten up our activation funnel.\n\nRight now we're manually watching session replays (Hotjar, PostHog, etc), but it's super time-consuming and hard to know what *actually matters*.\n\nTools I’ve looked into or tested so far:\n\n* Hotjar (session replays)\n* PostHog (analytics + session replay)\n* Prism Replay (YC startup, surfaces friction automatically)\n* FullStory (enterprise-heavy though)\n\nCurious — what else have you all used to spot onboarding friction and tighten activation?\n\nWould love to hear real-world tools/approaches that worked for you!\n\nI WILL NOT PROMOTE",
       "top_comments": [
-        "Welcome to /r/Entrprenuer and thank you for the post, /u/Prudent-Ad-2462! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
-        "S&p 500 and forget",
-        "so you pump and dumped them",
-        "Down payment on a duplex. Move in to one side rent out the other. Just make sure you're in a good enough area to where the rent from the one side covers the mortgage and your utilities. Basically live for free and duplex appreciates every year. When you get older and move into a single family home rent out both sides and let those rents pay for your new mortgage",
-        "Sounds like you need to be teaching us.  Many of us entrepreneurs would love to make money off the Internet and we’ve been stuck in brick and mortar all lives and don’t really know how to begin"
+        "It depends\n\nUse Userflow if you need to guide users through onboarding without migranes. Use Appcues if you want multi-step onboarding flows without much work (expensive).",
+        "3 things - \n\none, you have to make it clear about the journey that they have to go through, clear simple self explanatory terminology and they know exactly where they stand \ntwo, keep reminding them, setup strategies to keep reminding them about what stage they are in and what will they get after getting activated\nthree, over communicate the incentive and always know that the other person knows nothing,they are new to this.\n\nsee what worked for you, keep active data and see the missing points for yourself",
+        "What's Prism Replay? - is it any good? My concern with posthog and hotjar is that it's very manual. Heard good things about fullstory but seems to be for larger businesses.",
+        "Hotjar and PostHog are cute toys. If you’re serious, you need Heap’s auto-capture + Mixpanel for real cohorting—Amplitude’s Journeys seals the deal. FullStory’s just overpriced fluff, Prism’s an undifferentiated YC demo… prove me wrong.",
+        "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*"
       ]
     },
     {
-      "title": "My small business is down 54% since the election.",
-      "score": 143,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k34bdl/my_small_business_is_down_54_since_the_election/",
-      "id": "1k34bdl",
-      "subreddit": "entrepreneur",
-      "created_utc": 1745091123.0,
-      "num_comments": 85,
-      "selftext": "I've been in business for over 10 years. We survived the pandemic but may not survive this administration.  \n\nOur building lease is up for renewal this fall, and I am currently trying to decide if I should renew or get out while I can. The numbers are dismal. People keep saying that it will turn around but I'm not so sure.\n\nI'm looking for others that may be in the same/similar position. Are you staying open? Closing your doors? Do you see it getting better,  or worse? I'm not an Economist, but my doubts are strong as we are almost 6 months into this mess. \n\nThanks in advance for your feedback. ",
+      "title": "Are there any start-ups and/or tech in the space of pollution control/reduction? I will not promote.",
+      "score": 3,
+      "url": "https://www.reddit.com/r/startups/comments/1k8yawr/are_there_any_startups_andor_tech_in_the_space_of/",
+      "id": "1k8yawr",
+      "subreddit": "startups",
+      "created_utc": 1745738789.0,
+      "num_comments": 5,
+      "selftext": "Hey folks, I will not promote. Are there any sustainable/profitable start-up ideas which can help with reduction or control of pollution on a bigger scale (not just personal space like an in-door air-purifier)? Any companies that you are aware of who seem to be doing good and are not being subsidized by an NGO (not opposed to that idea, but ideally if they can generate enough cash by themselves). Would deeply appreciate any ideas.",
       "top_comments": [
-        "Welcome to /r/Entrprenuer and thank you for the post, /u/purpleplazas! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
-        "What are the products?",
-        "I've had an uptick in sales this week so I'm watching to see if the pattern holds.  No changes in marketing, etc.  This happened in May of 2020, too.  I sell products that you would want to invest in if supply chains are interrupted (reusables)  Having been in the business 17 years, I can tell when consumer confidence in the supply chain goes down because my sales go up.",
-        "I work for a US manufacturer, US labor, US fab, US assembly, US sales, US supply chains, US service industries, and well, Trump's really mucking everything up bigtime.  Many of his actions are driving up costs and/or availability problems.  If China decides to cut exports to the US, we're boned.  So many small components that go into products are Chinese made.  Heck, it's not even Chinese made.  He's messing up supply chains and trade with everyone.  We're seeing supply halts and costs increase from all kinds of countries.  However, China hardware is so ingrained that basically a full on halt means basically 2/3rds of our machines can't be made. That product and those sales will simply not exist.  I don't know about you, but if someone cut away...oh...4/5ths of all revenue from a company, any company, well, that company doesn't survive.\n\nFrankly, I'm 100% expecting our business to close down.  We're a big brand name in our market space too and an oem to many of the other big players.  Us ceasing means they cease.  The entire product segment just kind of...ends.  Maybe the used market space could last for a while, but we're also refurbing the used market products, so that too goes away.  Once the machines are dead, they're gone, period.\n\nIt's kind of crazy how fragile this whole ecosystem is, and Trump is just tossing molotovs everywhere.  It's insane.\n\nAmericans are going to see a large number of US manufacturers, big name brands, just end, gone, forever.  I mean, how do you even restart a brand when you are forced to lose all capital too.  This ends harshly and cruelly.  For many, there is no coming back.  US is on the precipice of seeing maybe 80% of their household brand names they grew up with die forever.  It IS going to be that bad.",
-        "We're in the same position. Our margins are healthy so no threat of closing. We're hopping to see some growth back through advertising and SEO changes.\n\n\nNo end in sight though."
+        "there are a few solid plays, but its a brutal space if you’re not subsidized\n\nsome directions worth looking at:\nindustrial air capture (direct co2 removal) — companies like climeworks, but capital intensive\n\npollution sensors + real-time monitoring for factories/cities — more sass than hardware, faster to market\n\nregenerative materials (capturing waste as input) — like bioplastics or carbon-negative concrete\n\nif you’re thinking startups, low capex + measurable impact is key — otherwise you’re just a science project that burns cash\n\nhappy to dive deeper if you want to brainstorm niches",
+        "hi, automod here, if your post doesn't contain the exact phrase \"`i will not promote`\" your post will automatically be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/startups) if you have any questions or concerns.*"
       ]
     },
     {
-      "title": "What \"must-have\" entrepreneurial skill actually turned out to be completely unnecessary for your success?",
-      "score": 76,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k2jtmk/what_musthave_entrepreneurial_skill_actually/",
-      "id": "1k2jtmk",
+      "title": "Mental Exercise: You have 3 weeks to make $2,000",
+      "score": 276,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k8ro8l/mental_exercise_you_have_3_weeks_to_make_2000/",
+      "id": "1k8ro8l",
       "subreddit": "entrepreneur",
-      "created_utc": 1745022330.0,
-      "num_comments": 58,
-      "selftext": "What entrepreneurial \"requirements\" did you stress about that turned out to be total myths? And what unexpected skills actually drove your growth instead?",
+      "created_utc": 1745714666.0,
+      "num_comments": 262,
+      "selftext": "You have 3 weeks to turn $5 into $2,000. You aren't able to get a job. You don't have access to a car, but you can walk. You have a phone and a computer. What would you do? 🤔",
       "top_comments": [
-        "Welcome to /r/Entrprenuer and thank you for the post, /u/wasayybuildz! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
-        "That you have to do the rise and grind stuff.\n\nThat you have to put other people out of business.\n\nThat you have to learn how to be good at high pressure sales.\n\nThat you have to put in 20 hours of work a day.\n\nBasically everything you see on the internet about being an Entrepreneur. \n\n  \nMy absolute favorite is the waking up early thing. 28 businesses over 10 years and I've never set an alarm before 8:30 lol.",
-        "When I realized nothing has to be perfect. I always stressed about how my products appeared, do I have the perfect picture, perfect packaging, perfect website design, etc. Then I worked part time for another small business and realized it was literally the most chaotically thrown together thing I’ve ever seen and she was making millions a year. It completely changed my approach and now I’m actually living off my side hustle working only a couple hours a week on it cuz I just throw shit at the wall and see if it sticks",
-        "Biggest myth? That you need to be a Swiss Army knife of skills. I wasted years trying to master coding, design, and SEO before realizing delegating is the real superpower.",
-        "Living like a pauper initially. \n\nNot required. You should invest in your business but the whole \"eating only Ramen because you believe so much in your idea\" is not something that has to happen,  nor are you suddenly going to succeed if you do."
+        "Welcome to /r/Entrepreneur and thank you for the post, /u/i-cant-stand-idiots! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
+        "Put on my best tube top and start walking the streets.",
+        "I need to make $95 per day?\n\nStand at a busy intersection with cardboard sign.  At night, head to where yuppies drink with a cardboard sign.\n\n\"Not homeless, but lost job due to Elon Musk. I apply for several jobs a day.  In the mean time, my dog needs to eat.\"\n\nUnfortunately, stoplight crowdfunding is a pretty saturated industry these days, so not sure that would get me all the way there.",
+        "freeze up like I’m being hunted for sport while repeating the same mental loops that would work great without actually knowing what to do first in real life until those three weeks have passed",
+        "To quote key and peel \n‘That’s called a job!’"
       ]
     },
     {
-      "title": "This sub should be called \"ideas and motivation\"",
+      "title": "Grew a cat litter business to 20M in annual sales AMA",
+      "score": 124,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k8tc4g/grew_a_cat_litter_business_to_20m_in_annual_sales/",
+      "id": "1k8tc4g",
+      "subreddit": "entrepreneur",
+      "created_utc": 1745720009.0,
+      "num_comments": 99,
+      "selftext": "I spent $2 million dollars and 5 years building my DTC cat brand. Flash forward to today, and I've sold over $30 million dollars.\n\nHere to give back and share knowledge with the community that helped me so much in the early days.\n\nAMA about DTC, starting a business, or creating products.\n\nEDIT: sorry guys, signing off for the night. I'll answer everything in the morn",
+      "top_comments": [
+        "Welcome to /r/Entrepreneur and thank you for the post, /u/Birchlore! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
+        "What’s the biggest pain point in the cat litter business?",
+        "In the beginning and middle stages how did you market it?",
+        "What did you spend 2 million on? and in retrospect, did you have to spend that much?",
+        "What was your customer acquisition cost?"
+      ]
+    },
+    {
+      "title": "Started a restaurant, my partner bailed and now I’m drowning – what the hell do I do?",
+      "score": 70,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k8nhn5/started_a_restaurant_my_partner_bailed_and_now_im/",
+      "id": "1k8nhn5",
+      "subreddit": "entrepreneur",
+      "created_utc": 1745702296.0,
+      "num_comments": 48,
+      "selftext": "Hey,\n\nlast year, I started a restaurant in a Czech city (Ostrava) with someone who was still my friend back then and now I don’t know what to do anymore—I’m completely drained... My ex-friend was the chef and was supposed to be the cornerstone of our whole idea, but unfortunately, before we even managed to open, he bailed on me. I was suddenly facing a tough decision: either go through with it alone or give up... I decided to push forward and honestly, looking back now, I’m not sure if I made the right call... But I didn’t really have much of a choice—I had already rented the place, had all the equipment, suppliers, and staff lined up...\n\nThe first month looked promising, it worked fairly well because people saw a new place and came to check it out... It brought in money, customers were mostly happy, everyone seemed satisfied—except the damn staff and me... Why? Because I was literally sleeping at the restaurant, my entire life outside of it fell apart and I still hate the place, even though I spend 16 hours there every single day... Still doing good when it comes to money, BUT.\n\nEven though I hired two chefs, both turned out to be complete idiots who, for some reason, just couldn’t function. I’ve gone through maybe ten different people (both experienced and fresh out of school), and every single time, I had to yell at them because it always ended with me doing their job... Same story with the waitresses. One working behind the bar, one on the floor serving food... Guess what? One of them did everything, while the other spent every 30 minutes on the phone or out smoking. Meanwhile, the one who was running around like crazy would come up to me after a week and say she was done and that I could go to hell...\n\nSo it’s been one disaster after another. Everything works—except the staff. And from what I’ve heard from others in this business, it’s the same everywhere... I don’t know what to do anymore, how to find someone actually willing to work... I offer fair conditions—average pay (and I always try to be flexible, if their base pay is low, they get the rest in cash), plus they’re all getting state support too, so in the end they make more money than I do. And then I show up in the morning, and instead of the kitchen guys prepping everything for lunch like they should be, they bitch at me—and I have to do it myself... Like everything.\n\nYesterday I couldn’t take it anymore and fired them both... I had to close for the weekend and now I have no idea what to do—whether to give up or find some new idiot to take their place... I’ve gone through so many people and no one in this industry is willing to actually work...\n\n**How do you, in the rest of the world, motivate lazy people? How do you do it elsewhere?**  \nBecause I seriously have no idea anymore. They laugh in my face every single day, and I’m the one paying for their little comedy show. I’m working myself into the ground like a pig and somehow they’re ending up with more than me...",
+      "top_comments": [
+        "Welcome to /r/Entrepreneur and thank you for the post, /u/Loepu! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
+        "It sounds like you need to work on your people skills. You've pissed off your friend. You've pissed off everyone you've hired, and you haven't been open long.\n\n\nIf you can figure out how to check your ego - then I'd ask your employees what position you'd need to hire to fill in the gaps of your management style (it sounds like you'll need the best).\n\n\nAs someone that owned a hospitality business with minimal experience in the hospitality business, I had to trust my employees. Find out what their needs and wants are and give them those. You've made assumptions that you're giving good work conditions, and you talk a big game, but it sounds like you haven't listened to anyone in a while, and that makes it quick to find you're full of it.\n\n\nIf you can't create a good team and then withstand the bad luck that inevitably follows businesses, then it might be time to cut your losses. It's cheaper every month sooner that you do.",
+        "Transition to quick service + catering. Higher margins and less hours overall. Also, don’t waste your energy yelling at staff, just make the expectations of the role clear and fire them if they don’t meet them. You want to cultivate loyalty and you do that by showing respect and kindness while still setting high expectations. Don’t let your exhaustion break the principles necessary for the long run; you won’t be able to rely on any staff that you yell at.",
+        "not trying to hate but, why would you continue forward and open after the “cornerstone” and chef quits on you?",
+        "Why did the friend bail?\n\nHonestly, everyone is having problems with employees. In fact, the CEO roundtable I was invited to, spends 1/3 of the time navigating problems relating to employees. These are of successful businesses.\n\nThe food industry is hard. It invites people that may not be as motivated as you are (not saying they all are unmotivated). It's just harder to sift through and find the good ones.\n\nFrom the sounds of it, you're trying to figure out an industry that you don't personally have experience in. Not sure why you would have proceeded after the friend bailed. If you wanted to do it anyways, you should have gotten a job at another business and learned the ropes first. Honestly, even a chef might not have been the right partner. A manager at a successful restaurant would have been much better.\n\nYou can try to poach someone from a good restaurant, but you would likely need to offer equity at this point. You can't coax them with similar pay. Even 10% more and they're smart they wouldn't take it. You want someone smart.\n\nGood luck."
+      ]
+    },
+    {
+      "title": "How a small step with GPT turned into real business momentum",
       "score": 40,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k2pozn/this_sub_should_be_called_ideas_and_motivation/",
-      "id": "1k2pozn",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k89kzt/how_a_small_step_with_gpt_turned_into_real/",
+      "id": "1k89kzt",
       "subreddit": "entrepreneur",
-      "created_utc": 1745043051.0,
-      "num_comments": 13,
-      "selftext": "Because thats realistically 95% of it. I know there's established ent's in here lurking and occasionally commenting but most of the discourse is between people who are fantasizing about it or asking the same three questions that all basically come down to, \"promise me if I try I won't regret it.\"  \n\nI wish this sub had more discussion about the part of entrepreneurship that happens AFTER you have an idea and actually start operating the business. ",
+      "created_utc": 1745662057.0,
+      "num_comments": 14,
+      "selftext": "There are tons of great ideas that die in your head.\nUsually, it ends with opening a few browser tabs, reading something… and that’s it. Energy’s gone. You forget about it.\n\nThis time, I did it differently.\nI asked GPT a real question: “What’s actually going on in this niche?” — and got a rough but working skeleton of an answer.\nA few days later, I opened that chat again, made another small move: clarified the numbers, sketched out the unit economics, found the first factories to reach out to.\nNow I’m already shaping the investor pitch and I can clearly see how this initiative fits into my bigger mission: building a strong brand from Kazakhstan.\n\nAnd it all started not with inspiration. It started with a small, almost invisible step that kept the idea alive.\n\nGPT doesn’t kill thinking. It helps turn small steps into big moves.\n\nQuestion:\nHas anyone else used AI (or other tools) not just to “google stuff,” but to actually push ideas into the real world?",
       "top_comments": [
-        "Welcome to /r/Entrprenuer and thank you for the post, /u/CanUnusual8729! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
-        " spot on the \"promise me if i try, i won't regret it,\" lol.\n\nI mean, there are established entrepreneurs here, and new ones want advice.\n\nThat's actually why I joined the group because i was seeking guidance and from time to time searching similar questions i have that was answered in the past",
-        "Naaah, this sub should be called \"Fake ChatGPT written stories and hidden marketing\"",
-        "I actually tried looking for something on this sub back in November but all I can find was looking for ideas or help me validate this idea posts. And funnily enough, that inspired me to build a site around business and everyday problems that people can get inspired by. But you’re 100% right",
-        "You’re right"
+        "Welcome to /r/Entrepreneur and thank you for the post, /u/ZookeepergameUsed194! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
+        "Yes im creating a business from scratch with GPT currently at around 20K revenue a month and started about 10 months ago",
+        "How does one start ramping up from GPT?",
+        "Wishing u success bro !",
+        "What were your prompt? congratulations my friend "
       ]
     },
     {
-      "title": "The Rise of the Solopreneurs",
-      "score": 24,
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k2qfxz/the_rise_of_the_solopreneurs/",
-      "id": "1k2qfxz",
+      "title": "Who’s out here making solid money from their side hustle?",
+      "score": 33,
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1k8rz29/whos_out_here_making_solid_money_from_their_side/",
+      "id": "1k8rz29",
       "subreddit": "entrepreneur",
-      "created_utc": 1745046129.0,
-      "num_comments": 16,
-      "selftext": "Remember when building software was something for expert programmers? I worked in large companies during a long time and I recall the challenges on shipping new software due to the scarce coding skillset in the market.\n\nThis is not something we see anymore. Even agreeing there will always be space for the most experienced developers to operate, I see the best ones learning marketing, design and focusing on systems engineering rather than coding.\n\nPersonally, I feel as entrepreneurs we finally have time to explore the full business spectrum without the need of specializing in specific areas to ship a disruptive product.\n\nI started piloting and refining how a technical solopreneur can leverage AI to free his time to innovate on other aspects of the business and I wonder whether it would be relevant from some of you guys to see the results.\n\nHave you thought about this? Curious about your thoughts!",
+      "created_utc": 1745715624.0,
+      "num_comments": 40,
+      "selftext": "Who while maintaining a normal 9-5 is also successfully making money on the side from your entrepreneurial endeavors?\n\nWhat’s your main job and what’s the side job? Do you plan to go all out at some point?",
       "top_comments": [
-        "Welcome to /r/Entrprenuer and thank you for the post, /u/rumirras! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
-        "Yeah interesting question\n\nOne thing though; entrepreneurship is definitely a social sport. Sometimes the winners are the most connected ones.\n\nThe term ‘solopreneur’ is dangerous in the sense of isolating yourself from ineraction with real customers and buyers.\n\nBusiness = connections x value",
-        "Hey, I think I get what you're saying, but I'm not convinced solopreneurs can skip specialty areas entirely. Yeah, it's cool that tools like AI and no-code platforms make tech more accessible, but you still gotta have some grip on the fundamentals. I tried using AI to streamline content creation for my projects, but oh man, the AI’s quirks sometimes made the content sound robotic. It took a while before I found the right balance between automation and my personal touch.\n\nAlso, while it's tempting to go solo, remember collaboration can spark innovation. Working with folks smarter than me has been a game-changer. They kinda push me to see things from angles I wouldn't have thought of alone. So even if you’re capable of handling everything, it doesn’t mean you should. I’m all for leveraging tech to free up time, but sometimes the best ideas happen when you're working with a great team. So yeah, dive into all those business aspects, but don't count out the value of a good collaboration. I'm really curious to hear about your AI experience though... does it really feel like it's lifting much of the technical burden?",
-        "[deleted]",
-        "I'm an expert in many things including seeing ChatGPT"
+        "Welcome to /r/Entrepreneur and thank you for the post, /u/alexstrehlke! Please make sure you read our [community rules](https://www.reddit.com/r/Entrepreneur/about/rules/) before participating here. As a quick refresher:  \n\n* Promotion of products and services is not allowed here. This includes dropping URLs, asking users to DM you, check your profile, job-seeking, and investor-seeking. *Unsanctioned promotion of any kind will lead to a permanent ban for all of your accounts.* \n* AI and GPT-generated posts and comments are unprofessional, and will be treated as spam, including a permanent ban for that account.   \n* If you have free offerings, please comment in our weekly Thursday stickied thread.\n* If you need feedback, please comment in our weekly Friday stickied thread. \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Entrepreneur) if you have any questions or concerns.*",
+        "I build websites for small businesses. When I had my day job my side business was pulling $150k a year part timing it. I since left my job and I should be making $400k by beginning of 2026. We’re at $250k a year right now. Left the job in February a fee months ago. Much happier working for myself.",
+        "I think some of my staff are based on their performances",
+        "Main job: Engineering\n\nSide hustles: Stuffed toy e-commerce, mobile/web app building. \n\nStuffed toy business does reasonably well ($12k/year net)\n\nApps are mostly pizza money at the moment, but have led to equity in a couple of startups.\n\nWould really only quit my day job if health insurance went single-payer, because I've seen medical issues burn wealth firsthand.",
+        "Main job: engineering\n\nSide hustle: 2 patrons that pay around $3k/month or around $36,000 profit a year\n\nAlso trading, I’m currently funded $250k, make anywhere from $25k/$80k a month depends how strict I am\n\nJust opened an S corp I’m going to be using as a holding company and probably start buying boomer business soon"
       ]
     },
     {
-      "title": "I’m a skincare junkie and I built a skin quiz - would love your feedback!",
-      "score": 0,
-      "url": "https://skin-quiz.com",
-      "id": "1k31yli",
+      "title": "I built an open-source, no-install, no-login, WebRTC-based text and file sharing site.",
+      "score": 34,
+      "url": "https://clip.fish",
+      "id": "1k8vttk",
       "subreddit": "InternetIsBeautiful",
-      "created_utc": 1745084801.0,
-      "num_comments": 10,
-      "selftext": "Skincare has always been a huge passion of mine, and friends frequently come to me for advice on what products to buy. I decided to take my knowledge of skin products and skin hacks I’ve discovered over the years to create skin quiz that gives product recs based on your skin type + concerns. Would love honest feedback on the results and suggestions!",
+      "created_utc": 1745728726.0,
+      "num_comments": 8,
+      "selftext": "I got tired of texting/emailing myself links or jumping through hoops just to move something between devices, so I built [Clip Fish](https://clip.fish). \n\nExisting solutions (PushBullet, Discord, Telegram, Signal, etc.) often don't meet my needs. Most require logins and installations, which isn't ideal for quick, one-off transfers or sharing with someone who doesn't use the same app. Some tools come close. PairDrop is decent, but the UI can be confusing, messages don’t persist, and sharing across networks takes too many steps. \n\nClip Fish aims to fix this:\n\n* No signups or installs\n* Simple QR code scanning to connect devices\n* Intuitive, chat-like interface for sending text and files\n* Session and message persistence, even after refresh\n* Fully peer-to-peer over WebRTC (messages are never routed through a server)\n* Sessions can be cleared anytime\n\nYou can try it out at [https://clip.fish](https://clip.fish). It’s open-source and easy to self-host. The code and hosting instructions are available on [GitHub](https://github.com/clip-fish/web). It’s still under active development, so I'd really appreciate any feedback. If you encounter any issues or have suggestions, please let me know: [support@clip.fish](mailto:support@clip.fish).",
       "top_comments": [
-        "As a male, this quiz confuses and enrages me.",
-        "I guess this has the fundamental assumption I'm unhappy with my skincare routine of \"SPF50 and bar soap\" and need Product to achieve some goal, right?",
-        "I like it, but I think there’s a lot of information available already for any one issue. For people like myself with more than one skin concern, it can be overwhelming to figure out what might work—especially when trying these products can break the bank. I, personally, would really value a quiz like this that allows me to select more than one concern while keeping the results relevant."
+        "Very interesting. I have an IT background and currently work at a very large corporate HQ that locks stuff down so hard, it’s sometimes difficult just to do my actual job, or get something as simple as, say, a camera phone photo of a broken door latch over to building maintenance.\n\nIn fact, I can’t access this site at all because “the domain is too new!” But I look forward to trying it out sometime down the line. Great idea to use WebRTC to make this happen.",
+        "Just tried to chat, but there was an \"error loading message \"\n\nThe file uploaded but wasn't available with a red retry circle",
+        "Very good idea, I'll check it out !\nWe were just in the process of failing to transfer files from one android device to another",
+        "This looks great, hopefully it'll replace one drive for getting stuff from phone to pc",
+        "Are you aware of [drop.lol](https://drop.lol/)? It seems to be what you are trying to build."
       ]
     },
     {
-      "title": "What is more traumatic than people think?",
-      "score": 5657,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1k2p46n/what_is_more_traumatic_than_people_think/",
-      "id": "1k2p46n",
-      "subreddit": "AskReddit",
-      "created_utc": 1745040716.0,
-      "num_comments": 6548,
+      "title": "Just some colorful flow lines generated by JS",
+      "score": 5,
+      "url": "https://mathemartica.com/",
+      "id": "1k8ljcw",
+      "subreddit": "InternetIsBeautiful",
+      "created_utc": 1745696989.0,
+      "num_comments": 1,
       "selftext": "",
       "top_comments": [
-        "Homelessness. Once you get that low, you live the rest of your life knowing how easy it is t fall into it again even if you take every precaution.",
-        "Bedbugs. Imagine the one place in the world that’s supposed to feel safe—your bed—no longer feels safe.",
-        "Chronic pain. It destroys your personality slowly.",
-        "Childhood emotional neglect. It's hard to grasp how impactful it is because we weren't sexually or physically abused, and all our physiological needs were met. The neglect disrupts the fundamental processes of emotional development, safety, and attachment that children need to thrive and is a major underlying cause of complex PTSD (CPTSD)",
-        "Being betrayed by someone you considered trustworthy"
+        "*colourful"
       ]
     },
     {
-      "title": "What is a fantasy that is insanely hot to you, but you know you could never pull off in reality?",
-      "score": 3857,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1k2qgw2/what_is_a_fantasy_that_is_insanely_hot_to_you_but/",
-      "id": "1k2qgw2",
-      "subreddit": "AskReddit",
-      "created_utc": 1745046239.0,
-      "num_comments": 2160,
-      "selftext": "",
+      "title": "Spacing out at work",
+      "score": 5,
+      "url": "http://cubiclecoma.com",
+      "id": "1k8gac8",
+      "subreddit": "InternetIsBeautiful",
+      "created_utc": 1745683264.0,
+      "num_comments": 2,
+      "selftext": "[**CubicleComa.com**](http://CubicleComa.com) is a website that i made to develop met webdev skills a bit.   \n  \nYou can go there to zone out at work while appearing productive.  \n  \nPerfect for impressing Karen from HR with with fancy charts and complex looking code that is basically meaningless mumbo jumbo.  \nenjoy",
       "top_comments": [
-        "I love how 50% of the comments are like \"taking a good nap\" and the other 50% is \" Being brutally molested by 15 autistic clowns while john cena is watching\" 🤣",
-        "Being kidnapped by some hot obsessive dude who then has his way with me while I'm tied up.\n\n\nHonestly pretty possible irl, but I once saw this horror movie about this woman who almost starved to death because she was tied to a bed, like all her limbs not even just her wrists, and the guy fucking her straight up had a heart attack and died and no one knew she was at this cabin because her fucking this guy was a big secret.\n\n\nI know that it's very unlikely to actually happen, but that's now a new fear I unlocked.",
-        "My wife and I love roleplaying fucking in public places but obviously we're never actually gonna do that. ",
-        "Exhibitionism, like proper exhibitionism. We’re way too chicken and that’s good!",
-        "I wish I could make clones of myself and have a gang bang with my fiancée. Maximum pleasure."
+        "I mean come on. This is truly so funny. Love it!"
       ]
     },
     {
-      "title": "What do you consider the most well known post in Reddit history?",
-      "score": 3702,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1k2kse0/what_do_you_consider_the_most_well_known_post_in/",
-      "id": "1k2kse0",
+      "title": "What is the most unhealthy thing you’ve seen a human do?",
+      "score": 5249,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1k8l7f5/what_is_the_most_unhealthy_thing_youve_seen_a/",
+      "id": "1k8l7f5",
       "subreddit": "AskReddit",
-      "created_utc": 1745025432.0,
-      "num_comments": 2039,
+      "created_utc": 1745696093.0,
+      "num_comments": 4130,
       "selftext": "",
       "top_comments": [
-        "This is a sad one, not a funny one. The guy who was asking for relationship advice on reddit because his wife was cheating on him, and then his wife killed their children. Jasoninhell. ",
-        "When Rick himself got Rick Rolled",
-        "The guy telling you in detail what to do if you win the lottery",
-        "Sense of pride and accomplishment\n\nFor those who are curious [this is the comment](https://www.reddit.com/r/StarWarsBattlefront/s/ZXgxe8RyzC)",
-        "Realistically the broken arms post or the ask a rapist thread"
+        "Turn off their oxygen tank so they could have a smoke. That's real dedication.",
+        "there was a player at the casino who used to come in in his mobility scooter, order redbull and vodka over and over, smoke unfiltered camels, and play three video poker machines at a time for 36-48 hours. he weighed  380 at least, hated the entire world, and ordered food only from the fried chicken place. one day i went to wake him up and he was dead. so i'd go with that.",
+        "Saw a guy chase 6 energy drinks with a cigarette and call it breakfast while saying sleep is a scam. I’m convinced his organs have a group chat to plan their escape.",
+        "I once saw a guy spraying spray paint in his mouth to get high. „Normally“ when people do thus they would use some fabric to Filter everything except the Gas but well he didnt and his mouth was sprayed in black paint. Would not reccomend getting high Like that either way",
+        "Pour Mountain Dew into a baby bottle and hand it to their toddler."
       ]
     },
     {
-      "title": "Whats something that's not considered sexual but it's hot as hell?",
-      "score": 3113,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1k2wj6q/whats_something_thats_not_considered_sexual_but/",
-      "id": "1k2wj6q",
+      "title": "You are now your username. What are you?",
+      "score": 4123,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1k8lzk3/you_are_now_your_username_what_are_you/",
+      "id": "1k8lzk3",
       "subreddit": "AskReddit",
-      "created_utc": 1745070107.0,
-      "num_comments": 2991,
+      "created_utc": 1745698219.0,
+      "num_comments": 16383,
       "selftext": "",
       "top_comments": [
-        "My wife says seeing me cleaning or doing laundry.  I think it’s just a ploy though.",
-        "A man while cooking 🥵",
-        "Watching a man teach a kid something and being patient as hell the whole time. Doesn’t matter what. Riding a bike, sounding out letters, behaving in public, but being super patient and calm about it.",
-        "Confidence. Not arrogance, just a calm self-assuredness",
-        "Silliness. a person that doesnt take themselves too seriously. A good balance. serious when the situation calls for it and fun when it doesn't. "
+        "I'm sorry, everyone.",
+        "...\n🦝 🦝 🦝 🧥",
+        "Uhmm... i dont like this game",
+        "Concrete, but japanese",
+        "…"
       ]
     },
     {
-      "title": "What surprised you the most about your first sexual experience?",
-      "score": 2591,
-      "url": "https://www.reddit.com/r/AskReddit/comments/1k2i7kt/what_surprised_you_the_most_about_your_first/",
-      "id": "1k2i7kt",
+      "title": "Doctors of Reddit: what is the biggest medical mystery you’ve solved?",
+      "score": 3138,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1k8qehl/doctors_of_reddit_what_is_the_biggest_medical/",
+      "id": "1k8qehl",
       "subreddit": "AskReddit",
-      "created_utc": 1745017450.0,
-      "num_comments": 2128,
+      "created_utc": 1745710780.0,
+      "num_comments": 975,
       "selftext": "",
       "top_comments": [
-        "When my gf at the time told me she wanted to try sex for the first time, I got overexcited on my way to buy condoms and crashed my motorbike. Injured myself so bad we couldn't have the sex.\n\nWhen we finally could do the deed, I lasted 3 thrusts lmfao. We're married now.",
-        "I did not have the right motion the first time I did the missionary. \n\nInstead of thrusting, I started doing push ups. \n\nAfter 15 odd reps, my chest and triceps were burning and I was genuinely questioning how people do this for an hour.",
-        "The fact that I managed to get to that situation",
-        "How warm it was in there",
-        "I never thought that having my breasts touched and kissed would feel so amazing"
+        "I made something up on the spot that saved a guys life. \n\nMotorcycle crash. Dude comes in agitated, breathing rapidly, has the “I’m dying” look in his eyes. We intubate him for low oxygen levels, and it’s just….not working. The tubes in the right place but now he has two massive pneumothoraxes (collapsed lungs) and with every breath he is pouring air out of the chest tubes I placed. Air is going in, but not making it into his lungs. There’s an airway injury somewhere and it’s big. I tell my ED colleagues to get a bronchoscope ready because we’re going to do the fastest CT ever and figure out what’s injured.\n\nHe barely survives being in the CT scanner. We get one pass through and speed him back to the ED so we can figure out the next step. As the CT images come across, it’s worst case scenario. His trachea is completely severed and forcing air to go through has created this large, air filled gap in his neck meat between the two ends of his windpipe. Every breath we force in there takes the path of least resistance, meaning into the chest cavity and out the draining chest tubes, but NOT into his lungs. \n\nSo basically he won’t survive long enough for us to try and surgically fix it. But if we could just push the breathing tube down to the lower segment, we would be able to help him breathe again. So in a moment of inspiration, I tell my respiratory tech to set up the bronchoscope. I stick the scope in the breathing tube (like usual) and have the ED doc helping me pull the tube most of the way out. And there it was! \n\nOnce the ET tube was pulled back, my bronchoscope was basically sitting in what felt like a giant cavern of neck meat, all stretched out from forcing so many breaths down the ET tube. And at the end of this cavern was the other end of his trachea. In reality, this “cavern” was probably 15 mm wide at the most, but I was locked on and drove that bronch straight down the middle and into the lower segment of his trachea. Once I had the scope in I basicallly rammed it as far down into his lung as it would go and the ED doc rammed the breathing tube over the bronch, down into the lower segment. We pulled out the bronch and gave a few breaths….there was no leaking. His chest rose with each breath. His oxygen was back at 100% within 45 seconds. \n\nWe got him up to the OR and about 6 hours later had fixed him up and he survived that night. \n\nThe best feeling, though, is when a renowned otolaryngologist whom we called in to help with the tracheal repair asked how I got the tube down into the lower part of the trachea. I described what we had done in the ED, and he just goes, “How?! That’s not a thing!”",
+        "Not me, but my attending. We had an older guy with new severe hip pain but his x ray and MRI was normal. Things were just…off and she felt like there was more going on. We got an MRI of his spine and lo and behold he had a huge honking spinal abscess. Most of the time you would expect to see weakness or sensory changes with a spinal abscess - he had none of that. We imaged his whole spine and found a couple more spots of infection. So we imaged his brain. Big old abscess. We also got a heart ultrasound (echo) that ended up showing a massive infection sitting on one of his heart valves. He had literally zero symptoms except this sudden onset hip pain. \n\nLong story short we think his bad diverticulitis let some bacteria into his blood and he was unlucky enough to have it seed his heart valve. He ended up doing great with a truckload of antibiotics!",
+        "Not a huge mystery, but one that drove me nuts for 4 years as a dentist was this guy who had severe acid erosion on all is teeth, but one area in particular was super bad. I figured he had to be obsessively eating something acidic and chewing it with one side of his mouth. I would interrogate him at every single visit (and there were tons of visits because he was totally destroying his teeth) to figure out what the hell was causing it. I probably asked the guy 50 times over 4 years if he liked to eat sour candy. Always said \"not really.\" \n\n\nOne day we had a long appointment together and I just decided to name every sour candy I could think of while I worked. Captive audience. When I said Cry Baby's, he was like \"Mmm I like those, they're so sour!\" Come to find out he was eating 1-2 bags a day. Dude. What did you think I was asking about when I asked if you liked to eat sour candy all of these years?!?!? ",
+        "Not my story, but an ER physician (Dr Mark Wahba) in Saskatchewan who recognised that the patient’s headaches were due to carbon monoxide poisoning, and because the patient lived in an apartment complex, he also made some calls and was able to save the entire building from carbon monoxide poisoning!",
+        "Working out that someone’s occasionally coughing up blood was linked to their menstrual cycle, then finding it was from a patch of endometriosis in the lung. Don’t see that everyday!"
+      ]
+    },
+    {
+      "title": "If you won the lottery and never had to work anymore, what would you say when someone asked you what you do for a living?",
+      "score": 2703,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1k8u6qj/if_you_won_the_lottery_and_never_had_to_work/",
+      "id": "1k8u6qj",
+      "subreddit": "AskReddit",
+      "created_utc": 1745722888.0,
+      "num_comments": 5157,
+      "selftext": "",
+      "top_comments": [
+        "I'm gonna make up a different bullshit answer each time",
+        "Stay at home dad",
+        "\"A little of this, a little of that.\"",
+        "“Oh, I’m retired”.",
+        "“Thanks for asking! I work for Amway and so should you!”"
+      ]
+    },
+    {
+      "title": "Do you believe it's still important to give a firm handshake when meeting someone for the first time? (Not stupidly strong, not soft & limp) Or is this an outdated custom of the past? Why?",
+      "score": 2553,
+      "url": "https://www.reddit.com/r/AskReddit/comments/1k8b1ii/do_you_believe_its_still_important_to_give_a_firm/",
+      "id": "1k8b1ii",
+      "subreddit": "AskReddit",
+      "created_utc": 1745667830.0,
+      "num_comments": 1614,
+      "selftext": "",
+      "top_comments": [
+        "I'm a woman, so I think the \"first impression handshake\" for me is more about eye contact and a good smile. \n\nPersonally I find it displays confidence but also that I'm warm and inviting.",
+        "I definitely prefer it over the, \"dead fish,\" handshake. Feels more professional and polite to me as well, as it shows you've got good etiquette",
+        "I find it important. But not like important important.\n\nAll I can say is when I go to shake someone's hand and it's very limp and weak.... it's very offputting. But I also can't explain why.",
+        "If you shake my hand like you’re trying to show how strong you are you’re an asshole. A good firm shake is plenty manly enough.",
+        "I think it is important to scratch the palm. Keep things interesting."
       ]
     }
   ],
   "hn_stories": [
     {
-      "title": "Raspberry Pi Lidar Scanner",
-      "url": "https://github.com/PiLiDAR/PiLiDAR",
-      "score": 230,
-      "id": 43738561,
-      "by": "Venn1",
+      "title": "CSS Zen Garden",
+      "url": "https://csszengarden.com/",
+      "score": 192,
+      "id": 43809484,
+      "by": "onat1",
       "text": "",
       "top_comments": [
-        "This is really cool<p>One thing I&#x27;d suggest, for any hardware product, is that when doing your bill of materials to provide links and show estimated costs. Sure, these will change but having a rough idea of the costs is really helpful, especially when perusing on from things like HN. It can be a big difference for someone to decide if they want to try it on their own or not. It is the ballpark figures that matter, not the specifics.<p>You did all that research, write it down. If for no one but yourself! Providing links is highly helpful because names can be funky and helps people (including your future self) know if this is the same thing or not. It&#x27;s always noisy, but these things reduce noise. Importantly, they take no time while you&#x27;re doing the project (you literally bought the parts, so you have the link and the price). It saves yourself a lot of hassle, not just for others. Document because no one remembers anything after a few days or weeks. It takes 10 seconds to write it down and 30 minutes to do the thing all over again, so be lazy and document. I think this is one of the biggest lessons I learned when I started as an engineer. You save yourself so much time. You just got to fight that dumb part in your head that is trying to convince you that it doesn&#x27;t save time. (Same with documenting code[0])<p>Here. I did a quick &quot;15 minute&quot; look. May not be accurate<p><pre><code>  Lidar:\n    One of:\n      LD06: $80 https:&#x2F;&#x2F;www.aliexpress.us&#x2F;item&#x2F;3256803352905216.html\n      LD19: $70 https:&#x2F;&#x2F;www.amazon.com&#x2F;DTOF-D300-Distance-Obstacle-Education&#x2F;dp&#x2F;B0B1V8D36H\n      STL27L: $160 https:&#x2F;&#x2F;www.dfrobot.com&#x2F;product-2726.html\n  Camera and Lens: $60 https:&#x2F;&#x2F;www.amazon.com&#x2F;Arducam-Raspberry-Camera-Distortion-Compatible&#x2F;dp&#x2F;B0B1MN721K\n  Raspberry Pi 4: $50\n  NEMA17 42-23 stepper: $10 https:&#x2F;&#x2F;www.amazon.com&#x2F;SIMAX3D-Nema17-Stepper-Motor&#x2F;dp&#x2F;B0CQLFNSMJ\n  </code></pre>\nThat gives us $200-$280 before counting the power supply and buck converter.<p>[0] When I wrote the code only me and god understood what was going on. But as time marched on, now only god knows.",
-        "The actual scanners: [1]<p>Max range 12 meters. That&#x27;s when it seems to start to get expensive. The light source, filters, and sensors all have to get better.<p>Good enough for most small robots. Maybe good enough for the minor sensors on self-driving cars, the ones that cover the vehicle perimeter so kids and dogs are reliably sensed. The big long-range LIDAR up top is still hard.<p>[1] <a href=\"https:&#x2F;&#x2F;www.ldrobot.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ldrobot.com&#x2F;</a>",
-        "Somewhat related. I&#x27;m looking for a cheap way to measure distances to approx 10 microns accuracy, over distances on the order of 300mm. Any ideas?",
-        "You could probably harvest these from robot vacuums on ebay&#x2F;goodwill.",
-        "Hi! Thanks for sharing this amazing work. I’m curious about the scalability and performance of PiLiDAR when deployed on large-scale outdoor datasets. Have you benchmarked it on datasets like SemanticKITTI or nuScenes? If so, could you share any insights on runtime, memory usage, and how well it generalizes beyond the indoor scenes used in your paper?"
+        "There’s an aspect of this that is not readily apparent unless you were a web developer around the time this was created.<p>Before CSS, layouts were implemented by abusing table elements to create a grid. Then images were sliced up into sections, and each section was placed into the table. This has generally been remembered in the present day, however what seems to have been forgotten was the pushback against CSS.<p>There was a large number of web developers who were happy with the status quo and refused to learn CSS. One of the most persistent myths was that you couldn’t make anything look nice with CSS. Specifically, CSS was accused of only being able to create “boring, boxy” designs.<p>It wasn’t true at all. Even back in the early days of CSS, you could create great layouts. It was especially absurd because the approach favoured by the people saying this was literally abusing tables to create grids.<p>So along comes Dave Shea and points out that this is ridiculous, that CSS is capable of great designs, and puts the CSS Zen Garden up. A whole bunch of people contribute good-looking designs and make it impossible for people to claim that “CSS can only produce boring, boxy designs”. I think it’s amusing that he won the argument so conclusively that people forget it was even an argument in the first place.",
+        "This site is old, and I mean it in a good way.<p>This site was a &quot;culture&quot; shock for me, back in 200x and made me walk away from Microsoft ASP.NET and start building apps on linux, realizing all those &quot;server controls&quot; with inline style parameters were basically the complete wrong way, the &quot;anti internet way&quot;.<p>It was Alex Russell (creator of Dojo JS) who showed that side in one of the conferences, and I was shocked how much information I was missing while getting my technical news through Microsoft channels.<p>For many years, my toolkit was simply Web.py, HTML, JS and CSS.<p>We then got jQuery, and Backbone, and Underscore, till the React and then TS made new &quot;Full stack&quot; dumber again.",
+        "I feel like the main point of css zen garden was how, by maximizing your use of semantic HTML, you could separate the presentation from the content and operate on them completely independently.<p>While you can still do this to the extent zen garden does, it&#x27;s really operating within the limits of css (i.e. css can do this, therefore I can create this type of design, not I want this type of design, therefore I need to write this css).<p>There are lots of style choices that require modifying the DOM directly to effect, and can&#x27;t be done purely with CSS.  I&#x27;ve seen discussions on W3C where it was like &quot;Well if you add another div around this you can achieve this effect, so why do we need a new CSS property?&quot;.  Stuff like inserting or swapping an image is simple, but swapping a styleable SVG is impossible because the SVG nodes need to be directly embedded in the html.<p>So you&#x27;re forced to mix presentation and content structuring decisions at the HTML and Javascript levels and even some simple design changes require modifications throughout the stack.",
+        "As someone who learned CSS from Zen Garden and the likes of Eric Meyer, modern css tools like Tailwind looks like an anti pattern",
+        "A bit of light in the dark ages of Tailwind and CSS-in-JS.<p>It&#x27;s difficult to realize how significant CSS Zen Garden was 20 years ago or so."
       ]
     },
     {
-      "title": "The Web Is Broken – Botnet Part 2",
-      "url": "https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/",
-      "score": 181,
-      "id": 43738603,
-      "by": "todsacerdoti",
+      "title": "U.S. autism data project sparks uproar over ethics, privacy and intent",
+      "url": "https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/",
+      "score": 76,
+      "id": 43810561,
+      "by": "perihelions",
       "text": "",
       "top_comments": [
-        "<i>&gt; So if you as an app developer include such a 3rd party SDK in your app to make some money — you are part of the problem and I think you should be held responsible for delivering malware to your users, making them botnet members.</i><p>I suspect that this goes for <i>many</i> different SDKs. Personally, I am really, <i>really</i> sick of hearing &quot;That&#x27;s a <i>solved</i> problem!&quot;, whenever I mention that I tend to &quot;roll my own,&quot; as opposed to including some dependency, recommended by some jargon-addled dependency addict.<p>Bad actors <i>love</i> the dependency addiction of modern developers, and have learned to set some pretty clever traps.",
-        "&gt; So there is a (IMHO) shady market out there that gives app developers on iOS, Android, MacOS and Windows money for including a library into their apps that sells users network bandwidth<p>AKA &quot;why do Cloudflare and Google make me fill out these CAPTCHAs all day&quot;<p>I don&#x27;t know why Play Protect&#x2F;MS Defender&#x2F;whatever Apple has for antivirus don&#x27;t classify apps that embed such malware as such. It&#x27;s ridiculous that this is allowed to go on when detection is so easy. I don&#x27;t know a more obvious example of a trojan than an SDK library making a user&#x27;s device part of a botnet.",
-        "We need a list of apps that include these libraries and any malware scanner - including Windows Defender, Play Protect and whatever Apple calls theirs - need to put infected applications into quarantine immediately.\nJust because it&#x27;s not <i>directly</i> causing damage to the device running the malware is running on, that doesn&#x27;t mean it&#x27;s not malware.",
-        "I don&#x27;t know if I should be surprised about what&#x27;s described in this article, given the current state of the world. Certainly I didn&#x27;t know about it before, and I agree with the article&#x27;s conclusion.<p>Personally, I think the &quot;network sharing&quot; software bundled with apps should fall into the category of potentially unwanted applications along with adware and spyware. All of the above &quot;tag along&quot; with something the user DID want to install, and quietly misuse the user&#x27;s resources. Proxies like this definitely have an impact for metered&#x2F;slow connections - I&#x27;m tempted to start Wireshark&#x27;ing my devices now to look for suspicious activity.<p>There should be a public repository of apps known to have these shady behaviours. Having done some light web scraping for archival&#x2F;automation before, it&#x27;s a pity that it&#x27;ll become collateral damage in the anti-AI-botfarm fight.",
-        "&gt; I am now of the opinion that every form of web-scraping should be considered abusive behaviour and web servers should block all of them. If you think your web-scraping is acceptable behaviour, you can thank these shady companies and the “AI” hype for moving you to the bad corner.<p>I imagine that e.g. Youtube would be happy to agree with this. Not that it would turn them against AI generally."
+        "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;TEAAk\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;TEAAk</a>",
+        "Aktion T4 next? This is a dark dark road.<p>I suspect the US will become like Germany in the next few decades where the paranoia about handing any data over is justifiably high. I hope this burns the unethical side of the tech industry to the ground. It deserves it.",
+        "Ultimately, whether one thinks that having more volume of and more or less fragmented statistics is good or bad depends on their opinion of the State.<p>Olivier Ray wrote a great book about the history of statistics : <i>Quand le monde s’est fait nombre</i> (fr)<p><a href=\"https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;OlivierReynombre&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;OlivierReynombre&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.radiofrance.fr&#x2F;franceculture&#x2F;podcasts&#x2F;les-chemins-de-la-philosophie&#x2F;quand-le-monde-s-est-fait-nombre-d-olivier-rey-1493156\" rel=\"nofollow\">https:&#x2F;&#x2F;www.radiofrance.fr&#x2F;franceculture&#x2F;podcasts&#x2F;les-chemin...</a>.<p><a href=\"https:&#x2F;&#x2F;www.fnac.com&#x2F;a9931250&#x2F;Olivier-Rey-Quand-le-monde-s-est-fait-nombre\" rel=\"nofollow\">https:&#x2F;&#x2F;www.fnac.com&#x2F;a9931250&#x2F;Olivier-Rey-Quand-le-monde-s-e...</a>",
+        "“Health and Human Services Secretary Robert F. Kennedy Jr., the nation’s top health official, repeatedly said before taking office that vaccines cause autism, despite overwhelming scientific evidence that they do not. He has declined to disavow his statements and has continued to promote a possible link.”<p>Having worked directly with autism researchers, I can confidently tell you that RFK is making a wild guess not based in current evidence. All the data we have indicate autism is a multifactorial condition with a genetic&#x2F;developmental component that may or may not be affected by the environment.<p>RFK is genuinely a danger to health care in the United States.",
+        "The criteria for diagnosing ASD today are vastly different from those that would’ve resulted in an autism diagnosis shortly after the abolishment of lobotomy, it is hardly surprising the rate keeps going up as you widen the net."
       ]
     },
     {
-      "title": "The Art of Assembly Language (2010)",
-      "url": "https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html",
-      "score": 45,
-      "id": 43739285,
-      "by": "ibobev",
-      "text": "",
+      "title": "Show HN: Remote-Controlled IKEA Deathstar Lamp",
+      "url": "https://gitlab.com/sephalon/deathstar_lamp",
+      "score": 68,
+      "id": 43809841,
+      "by": "sephalon",
+      "text": "Repainting the iconic IKEA PS 2014 lamp into the Deathstar from Star Wars has been a popular IKEA hack for quite some time.<p>This variant additionally replaces the manual, rope-operated mechanism to open and close the lamp with a remote-controlled motor.<p>The firmware is based on ESPHome, and its excellent Home Assistant integration enables one to implement higher-level features, like a &quot;sundial&quot; where the aperture of the Deathstar follows the sun elevation throughout the day (see  the timelapse video).<p>That said, I will not consider this project as complete until the Imperial March can be played over the stepper motor (just like the legendary Floppotron) ;-)",
       "top_comments": [
-        "I loved to do little assembly patches to modify <i>any exe&#x2F;app</i> to my desire (e.g. disable certain notifications&#x2F;popups , add lifes, change values etc). Unfortunately with code signing this joy is no longer part of my pastime.<p>I&#x27;m not interested in optimizing the last microsecond of my programs so for normal development it has exactly 0 relevance.",
-        "I have (had? Looking at my bookshelf I can&#x27;t find, maybe I tossed it?) a hardcopy of this book. The information in it is well written, however... The use of &quot;HLA&quot; (High Level Assembly) is a real turn off, at least for me. Really wish this book was targeting standard vendor compilers instead.",
-        "This sort of manual has since been gamified by Zachtronics, and I think it is genuinely a better alternative. If you are trying to pick up the basics of programming assembly and are already committed to use a &quot;fake&quot; language, why not enjoy the experience as a video game?<p>And it does not help that this page starts with a dick joke."
+        "Why does this lamp make people think of the death star? Me and my wife bought it ten years ago because of the cool mechanism and immediately started calling it the death star, but I struggle to see what the resemblance really is.",
+        "Cool project indeed. I used to own the first model and thought about how one could motorize the lamp. I used to own the one which didn’t have the reflected coating on the inside panels. At least in Germany they changed that a few years back from plain white to silver or gold reflection. And now the lamp is also available in bigger sizes. I bought it like most because of the interesting design. But was never really pleased with it. Practical use of keeping it closed is zero. I guess that was the reason to motorize it ;) But even in the open configuration it’s so dark that it’s unusable as a promised light source.",
+        "What a gem of a project. I am a huge fan of the PS 2014. To me it is one of the best IKEA products ever, even better than the discontiued Broder shelf system. We bought the large version with copper reflector for my son&#x27;s room almost ten years ago and until today the mechanism works and it just looks great (it &quot;ties the room together&quot; for those who know). My idea was to replace the balls on the strings with little iron cast x-wings from a key chain ring, but they would always fly into the wrong direction, because the connector is at the back of the x-wing. I do not want some x-wings constantly flying cowardly away from our death star.<p>This project looks awesome and I will give it a shot, because it actually looks doable for a first ESP32 project. But I will first try it on the smaller version of the PS 2014 before I start working on my son&#x27;s lamp.",
+        "Didn&#x27;t know anyone still used gitlab. Also video not working.."
       ]
     },
     {
-      "title": "A unique sound alleviates motion sickness",
-      "url": "https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html",
-      "score": 8,
-      "id": 43740021,
-      "by": "miles",
+      "title": "Open-source interactive C tutorial in the browser",
+      "url": "https://www.learn-c.org/",
+      "score": 137,
+      "id": 43809092,
+      "by": "Buttons840",
       "text": "",
       "top_comments": [
-        "Hope this works and VR games start playing it before motion intense parts of the games. I have built up a tolerance for the most part but some games just leave me motion sick if I am not careful."
+        "As great as this looks, I think it should heavily emphasize moving on to using GCC (or maybe LLVM).<p>I learned C in the mid nineties using a copy of Visual C++ 1.0 that a friend had gotten from his father (and probably he got it from work). It was the only compiler I knew of and once I was ready to move beyond toy programs, I was seriously hampered by the fact that this compiler couldn&#x27;t produce text mode executables (any call to printf opened its own new window that definitely wasn&#x27;t cmd.exe) and it couldn&#x27;t set the graphics mode for blitting pixels. It was heavily oriented around this new fangled MFC thing but I was a teenager so I wanted to program <i>games</i> not business apps or whatever. That meant I wanted text mode or graphics mode.<p>My high school CS class had Borland C++ and I could set mode 0x13 with that in DOS. But I had no way of obtaining this compiler as a kid. And it probably didn&#x27;t work on Windows 95 anyway.<p>Anyways, it wasn&#x27;t until the early 2000s that I finally learned about GCC, a free as in beer and freedom compiler and the simplicity of it would have been amazing for learning.. <i>If only I had known</i>.",
+        "Saw this mentioned in a HN comment and thought it deserved more attention: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=34106174\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=34106174</a>",
+        "&gt; Defined using char, int, short, long or long long<p>&gt; Note that C does not have a boolean type<p>`_Bool` and `long long` are both introduced in C99, this is mixed up info.<p>Edit: probably tailor-made for old MSVC, which didn&#x27;t support _Bool until VS2013.",
+        "The issue I always find with these tutorials that they never seem explain the finer details.<p>On the Array Page:<p>&#x2F;* print the 7th number from the array, which has an index of 6 *&#x2F;<p>printf(&quot;The 7th number in the array is %d&quot;, numbers[6]);<p>There is no mention of what %d is or does. Once you know, it&#x27;s fine, it&#x27;s the display placeholder for the variable but that&#x27;s what throws me off on tutorials."
       ]
     },
     {
-      "title": "Monsky's Theorem",
-      "url": "https://mathmondays.com/monskys-theorem",
-      "score": 11,
-      "id": 43739510,
-      "by": "hyperbrainer",
+      "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
+      "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
+      "score": 827,
+      "id": 43803243,
+      "by": "simonw",
       "text": "",
       "top_comments": [
-        "&gt; no face of P, nor any face of one of the Ti, contains vertices of all three colors<p>That should be &#x27;edge&#x27;, not &#x27;face&#x27;, no? Otherwise I do not understand what is happening at all with the examples.",
-        "Haven&#x27;t read the article. But something about this reminds me of Arnold&#x27;s topological proof of the unsolvability of the quintic (YouTube form: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BSHv9Elk1MU\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BSHv9Elk1MU</a> ; PDF: <a href=\"https:&#x2F;&#x2F;web.williams.edu&#x2F;Mathematics&#x2F;lg5&#x2F;394&#x2F;ArnoldQuintic.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;web.williams.edu&#x2F;Mathematics&#x2F;lg5&#x2F;394&#x2F;ArnoldQuintic.p...</a>).<p>It seems a lot of impossibility theorems - the type that the ancient Greeks would have understood - can be proven using algebraic topology. Perhaps Sperner&#x27;s lemma can be seen as an algebraic topology theorem? I don&#x27;t personally know."
+        "I play competitive Geoguessr at a fairly high level, and I wanted to test this out to see how it compares.<p>It&#x27;s astonishingly good.<p>It will use information it knows about you to arrive at the answer - it gave me the exact trailhead of a photo I took locally, and when I asked it how, it mentioned that it knows I live nearby.<p>However, I&#x27;ve given it vacation photos from ages ago, and not only in tourist destinations either. It got them all as good or better than a pro human player would. Various European, Central American, and US locations.<p>The process for how it arrives at the conclusion is somewhat similar to humans. It looks at vegetation, terrain, architecture, road infrastructure, signage, and it just knows seemingly everything about all of them.<p>Humans can do this too, but it takes many thousands of games or serious study, and the results won&#x27;t be as broad. I have a flashcard deck with hundreds of entries to help me remember road lines, power poles, bollards, architecture, license plates, etc. These models have more than an individual mind could conceivably memorize.",
+        "&gt; I’m confident it didn’t cheat and look at the EXIF data on the photograph, because if it had cheated it wouldn’t have guessed Cambria first.<p>It also, at one point, said it couldn&#x27;t see any image data at all.  You absolutely cannot trust what it says.<p>You need to re-run with the EXIF data removed.",
+        "For all of the images I&#x27;ve tried, the base model (e.g. 4o) already has a ~95% accurate idea of where the photo is, and then o3 does so much tool use only to confirm its intuition from the base model and slightly narrow down. For OP&#x27;s initial image, 4o in fact provides a more accurate initial guess of Carmel-by-the-Sea (d=~100mi &lt; 200mi), and its next guess is also Half Moon Bay, although it did not figure out the exact town of El Granada [0].<p>The clue is in the CoT - you can briefly see the almost correct location as the very first reasoning step. The model then apparently seems to ignore it and try many other locations, a ton of tool use, etc, always coming back to the initial guess.<p>For pictures where the base model has no clue, I haven&#x27;t seen o3 do anything smart, it just spins in circles.<p>I believe the model has been RL-ed to death in a way that incentivizes correct answers no matter the number of tools used.<p>[0]: <a href=\"https:&#x2F;&#x2F;chatgpt.com&#x2F;c&#x2F;680d011a-9470-8002-97a0-a0d2b067eacf\" rel=\"nofollow\">https:&#x2F;&#x2F;chatgpt.com&#x2F;c&#x2F;680d011a-9470-8002-97a0-a0d2b067eacf</a>",
+        "Feels like privacy is becoming this quaint, old-fashioned idea we&#x27;re all just pretending still exists",
+        "I added a section just now with something I had missed: o3 DOES have a loose model of your location fed into it, which I believe is intended to support the new search feature (so it can run local searches).<p>The thinking summary it showed me did not reference that information, but it&#x27;s still very possible that it used that in its deliberations.<p>I ran two extra example queries for photographs I&#x27;ve taken thousands of miles away (in Buenos Aires and Madagascar) - EXIF stripped - and it did a convincing job with both of those as well: <a href=\"https:&#x2F;&#x2F;simonwillison.net&#x2F;2025&#x2F;Apr&#x2F;26&#x2F;o3-photo-locations&#x2F;#update-o3-does-have-rough-location-access\" rel=\"nofollow\">https:&#x2F;&#x2F;simonwillison.net&#x2F;2025&#x2F;Apr&#x2F;26&#x2F;o3-photo-locations&#x2F;#up...</a>"
       ]
     }
   ],
   "devto_articles": [
     {
-      "title": "Building Dissi with Agno and MCP",
-      "url": "https://dev.to/komsenapati/building-dissi-with-agno-and-mcp-4044",
-      "description": "Why AI agents are hot right now ?   I'm sure you've heard about AI agents at least once in...",
-      "published_at": "2025-04-19T06:22:51Z",
-      "tags": "ai, mcp, discord, agno",
-      "comments_count": 9,
-      "positive_reactions_count": 58
-    },
-    {
-      "title": "How to Prioritize Tasks When Everything Feels Urgent: A Developer's Guide",
-      "url": "https://dev.to/teamcamp/how-to-prioritize-tasks-when-everything-feels-urgent-a-developers-guide-3d6o",
-      "description": "Introduction     As developers, we've all experienced those days when our task list seems to...",
-      "published_at": "2025-04-19T05:47:48Z",
-      "tags": "webdev, devops, productivity, opensource",
-      "comments_count": 3,
-      "positive_reactions_count": 46
-    },
-    {
-      "title": "AquaScript 🌊✨ | Free JSON APIs 📡",
-      "url": "https://dev.to/aquascript/aquascript-free-json-apis-1eoa",
-      "description": "Team Behind AquaScript                                               Precious Kelvin...",
-      "published_at": "2025-04-19T02:29:07Z",
-      "tags": "api, aquascript, programming, discuss",
+      "title": "Robo Runner Web Game Challenge Submission: Alibaba Cloud Web Game",
+      "url": "https://dev.to/menghnani/robo-runner-web-game-challenge-submission-alibaba-cloud-web-game-432h",
+      "description": "This is a submission for the Alibaba Cloud Challenge: Build a Web Game.*           What I Built     ...",
+      "published_at": "2025-04-27T06:31:37Z",
+      "tags": "alibabachallenge, devchallenge, gamedev, webdev",
       "comments_count": 1,
-      "positive_reactions_count": 37
+      "positive_reactions_count": 26
     },
     {
-      "title": "All Design Pattern Javascript/Typescript You Must Know",
-      "url": "https://dev.to/tak089/typescript-design-patterns-5hei",
-      "description": "Structural Patterns with Best Practice API Usage               1. Composite Pattern + API...",
-      "published_at": "2025-04-19T17:17:17Z",
-      "tags": "webdev, programming, javascript, beginners",
-      "comments_count": 0,
-      "positive_reactions_count": 31
+      "title": "DeepWiki: An AI Guide to GitHub Codebase Mastery🚀",
+      "url": "https://dev.to/fallon_jimmy/deepwiki-an-ai-guide-to-github-codebase-mastery-3p5m",
+      "description": "Cognition Labs, the team behind the well-known AI developer tool Devin, has recently launched an...",
+      "published_at": "2025-04-27T05:44:27Z",
+      "tags": "github, webdev, programming, ai",
+      "comments_count": 5,
+      "positive_reactions_count": 21
     },
     {
-      "title": "Serverless is NOT a Scam.",
-      "url": "https://dev.to/best_codes/serverless-is-not-a-scam-356",
-      "description": "The post you are currently reading is a lot of facts, but also a lot of my opinions. It is...",
-      "published_at": "2025-04-19T17:50:11Z",
-      "tags": "serverless, webdev, discuss, programming",
-      "comments_count": 7,
-      "positive_reactions_count": 23
+      "title": "2.1 ARCHITECTURAL STYLES (Distributed Systems)",
+      "url": "https://dev.to/dima853/21-architectural-styles-distributed-systems-4g0o",
+      "description": "Before we begin, let's read this excerpt from the book.   Distributed systems are often complex...",
+      "published_at": "2025-04-26T18:37:39Z",
+      "tags": "architecture, dsdima853, webdev, systemdesign",
+      "comments_count": 1,
+      "positive_reactions_count": 20
+    },
+    {
+      "title": "Create AES on C/JAVA || SubBytes / ShiftRows / Vulnerabilities (second part)",
+      "url": "https://dev.to/dima853/create-aes-on-cjava-subbytes-shiftrows-vulnerabilities-second-part-6io",
+      "description": "1 part - https://dev.to/dima853/create-aes-on-cjava-forward-s-box-first-part-4lef           1....",
+      "published_at": "2025-04-26T13:23:51Z",
+      "tags": "programming, tutorial, discuss, createaesdima853",
+      "comments_count": 1,
+      "positive_reactions_count": 20
+    },
+    {
+      "title": "Client-Side SSR: Build a Component-Based Landing Page in 10 Minutes⏱️",
+      "url": "https://dev.to/hmpljs/client-side-ssr-build-a-component-based-landing-page-in-10-minutes-2784",
+      "description": "Today, it is impossible to imagine a modern large project without using Next.js or Nuxt.js.  But,...",
+      "published_at": "2025-04-27T09:09:08Z",
+      "tags": "webdev, javascript, programming, opensource",
+      "comments_count": 1,
+      "positive_reactions_count": 20
     }
   ],
   "lobsters_stories": [
     {
-      "title": "Frankenstein’s `__init__`",
-      "url": "https://ohadravid.github.io/posts/2025-04-19-frank/",
+      "title": "Remove these tags from <head>",
+      "url": "https://getoutofmyhead.dev/",
       "description": "",
-      "created_at": "2025-04-19T06:30:43.000-05:00",
+      "created_at": "2025-04-27T02:58:54.000-05:00",
       "tags": [
-        "python"
+        "a11y",
+        "web"
       ],
       "comments_count": 0,
-      "score": 37
+      "score": 10
     },
     {
-      "title": "On Bloat",
-      "url": "https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub",
+      "title": "Compiler reminders",
+      "url": "https://jfmengels.net/compiler-reminders",
       "description": "",
-      "created_at": "2025-04-19T13:30:26.000-05:00",
+      "created_at": "2025-04-26T17:13:13.000-05:00",
       "tags": [
-        "go",
-        "performance",
-        "programming",
-        "slides"
+        "elm",
+        "practices"
       ],
       "comments_count": 0,
-      "score": 15
+      "score": 18
     },
     {
-      "title": "Vendoring",
-      "url": "https://htmx.org/essays/vendoring/",
+      "title": "Parallel ./configure",
+      "url": "https://tavianator.com/2025/configure.html",
       "description": "",
-      "created_at": "2025-04-19T09:12:12.000-05:00",
+      "created_at": "2025-04-26T11:23:17.000-05:00",
       "tags": [
-        "practices",
-        "programming"
+        "unix"
       ],
       "comments_count": 0,
-      "score": 17
+      "score": 39
     },
     {
-      "title": "falsify: Hypothesis-inspired shrinking for Haskell",
-      "url": "https://www.well-typed.com/blog/2023/04/falsify/",
+      "title": "Apple Encrypted Archive",
+      "url": "https://theapplewiki.com/wiki/Apple_Encrypted_Archive",
       "description": "",
-      "created_at": "2025-04-19T08:08:23.000-05:00",
+      "created_at": "2025-04-27T00:02:15.000-05:00",
       "tags": [
-        "haskell",
-        "python",
-        "testing"
+        "ios",
+        "mac"
       ],
       "comments_count": 0,
-      "score": 13
+      "score": 9
     },
     {
-      "title": "goenums: Type Safe Enum generator for Go",
-      "url": "https://github.com/zarldev/goenums",
+      "title": "9front “clause 15 common elements of maus and star type” released",
+      "url": "https://9front.org/releases/2025/04/26/0/",
       "description": "",
-      "created_at": "2025-04-19T13:14:38.000-05:00",
+      "created_at": "2025-04-26T22:33:13.000-05:00",
       "tags": [
-        "go"
+        "art",
+        "release"
       ],
       "comments_count": 0,
-      "score": 6
+      "score": 9
     }
   ],
   "github_trending": [
     {
-      "title": "Anduin2017/HowToCook",
-      "url": "https://github.com/Anduin2017/HowToCook",
-      "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
-      "language": "Dockerfile",
-      "stars": "77,605"
+      "title": "kortix-ai/suna",
+      "url": "https://github.com/kortix-ai/suna",
+      "description": "Suna - Open Source Generalist AI Agent",
+      "language": "TypeScript",
+      "stars": "7,522"
     },
     {
-      "title": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "stars": "14,132"
+      "title": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "35,479"
     },
     {
-      "title": "jlowin/fastmcp",
-      "url": "https://github.com/jlowin/fastmcp",
-      "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+      "title": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "AI-powered multi-agent builder",
+      "language": "TypeScript",
+      "stars": "1,682"
+    },
+    {
+      "title": "ocrmypdf/OCRmyPDF",
+      "url": "https://github.com/ocrmypdf/OCRmyPDF",
+      "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
       "language": "Python",
-      "stars": "6,086"
+      "stars": "28,412"
     },
     {
-      "title": "docmost/docmost",
-      "url": "https://github.com/docmost/docmost",
-      "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
-      "language": "TypeScript",
-      "stars": "14,272"
-    },
-    {
-      "title": "kamranahmedse/developer-roadmap",
-      "url": "https://github.com/kamranahmedse/developer-roadmap",
-      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "language": "TypeScript",
-      "stars": "314,148"
+      "title": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "25,894"
     }
   ],
   "dribbble_shots": [
@@ -489,34 +518,34 @@
   ],
   "techcrunch_articles": [
     {
-      "title": "Congress has questions about 23andMe bankruptcy",
-      "url": "https://techcrunch.com/2025/04/19/congress-has-questions-about-23andme-bankruptcy/",
-      "description": "3The leaders of the House Committee on Energy and Commerce said they are investigating how 23andMe’s bankruptcy might affect customers’ data. Representatives Brett Guthrie, Gus Bilirakis, and Gary Palmer (all Republicans) sent a letter Thursday to the genetic testing company’s interim CEO Joe Selsavage asking a number of questions about how 23andMe will handle customer [&#8230;]",
-      "published": "Sat, 19 Apr 2025 20:56:54 +0000"
+      "title": "The RealReal founder Julie Wainwright has a startling new memoir",
+      "url": "https://techcrunch.com/2025/04/26/the-realreal-founder-julie-wainwright-has-a-startling-new-memoir/",
+      "description": "Julie Wainwright has taken two companies public, an incredible feat by any standard. Yet in her new memoir, Time to Get Real, she offers readers something even more valuable than a kind of victory lap: a look at the messy realities of leadership. Wainwright shares tough truths that many high-achieving CEOs can relate to but [&#8230;]",
+      "published": "Sat, 26 Apr 2025 22:02:27 +0000"
     },
     {
-      "title": "Robots run a half marathon, slowly",
-      "url": "https://techcrunch.com/2025/04/19/robots-run-a-half-marathon-slowly/",
-      "description": "It looks like humanoid robots have a long way to go before catching up with human runners. Beijing’s E-Town tech hub hosted what it described as the first world’s first humanoid half-marathon on Saturday, with 21 humanoid robots competing alongside thousands of humans. Bloomberg reports that the winning robot, Tiangong Ultra, was built by the [&#8230;]",
-      "published": "Sat, 19 Apr 2025 18:32:48 +0000"
+      "title": "Google’s DeepMind UK team reportedly seeks to unionize",
+      "url": "https://techcrunch.com/2025/04/26/googles-deepmind-uk-team-reportedly-seeks-to-unionize/",
+      "description": "Around 300 London-based members of Google’s AI-focused DeepMind team are seeking to unionize with the Communication Workers Union, according to a Financial Times report that cites three people involved with the unionization effort. These DeepMind employees are reportedly unhappy about Google’s decision to remove a pledge not to use AI for weapons or surveillance from [&#8230;]",
+      "published": "Sat, 26 Apr 2025 21:09:34 +0000"
     },
     {
-      "title": "Week in Review: Google loses a major antitrust case",
-      "url": "https://techcrunch.com/2025/04/19/week-in-review-google-loses-a-major-antitrust-case/",
-      "description": "Welcome back to Week in Review! We&#8217;ve got tons of stuff for you this week: antitrust lawsuits against Google and Meta; Grok can now remember; Bolt CEO Ryan Breslow wants to make his mark; and much, much more. Have a great weekend! It&#8217;s over: Google violated antitrust laws in the ad tech market, a judge [&#8230;]",
-      "published": "Sat, 19 Apr 2025 17:05:00 +0000"
+      "title": "Google will stop supporting early Nest thermostats on October 25",
+      "url": "https://techcrunch.com/2025/04/26/google-will-stop-supporting-early-nest-thermostats-on-october-25/",
+      "description": "Google announced this week that beginning on October 25, it will no longer support or release software updates for the first and second generation Nest Learning Thermostats. And it will completely stop launching new Nest products in Europe. That means owners of the Nest thermostats released in 2011 and 2012 (as well as the version [&#8230;]",
+      "published": "Sat, 26 Apr 2025 19:01:16 +0000"
     },
     {
-      "title": "Famed AI researcher launches controversial startup to replace all human workers everywhere",
-      "url": "https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/",
-      "description": "Every now and then, a Silicon Valley startup launches with such an “absurdly” described mission that it’s difficult to discern if the startup is for real or just satire. Such is the case with Mechanize, a startup whose founder – and the non-profit AI research organization he founded called Epoch – is being skewered on [&#8230;]",
-      "published": "Sat, 19 Apr 2025 16:09:45 +0000"
+      "title": "Week in Review: Cluely helps you cheat on everything",
+      "url": "https://techcrunch.com/2025/04/26/week-in-review-cluely-helps-you-cheat-on-everything/",
+      "description": "Welcome back to Week in Review! We&#8217;ve got tons of news for you this week: Slate EVs spotted in the wild; Airbnb pricing updates; a hack at Blue Shield; and much more. Let&#8217;s go! Get a clue: Cluely is an AI-based tool that helps people cheat on exams, sales calls, and even job interviews. Though [&#8230;]",
+      "published": "Sat, 26 Apr 2025 17:11:00 +0000"
     },
     {
-      "title": "Read what Mark Zuckerberg and Facebook execs said about Instagram before buying it",
-      "url": "https://techcrunch.com/2025/04/19/read-what-mark-zuckerberg-and-facebook-execs-said-about-instagram-before-buying-it/",
-      "description": "The first week of the Meta antitrust trial brought new revelations about how the company formerly known as Facebook approached the competitive threat posed by Instagram in the early 2010s. The U.S. government is accusing Meta of violating competition laws by acquiring companies like Instagram and WhatsApp that threatened the Facebook monopoly. If lawyers for [&#8230;]",
-      "published": "Sat, 19 Apr 2025 14:00:00 +0000"
+      "title": "Amazon’s big book sale just happens to overlap with Independent Bookstore Day",
+      "url": "https://techcrunch.com/2025/04/26/amazons-big-book-sale-just-happens-to-overlap-with-independent-bookstore-day/",
+      "description": "Amazon is raising eyebrows with the timing of its big book sale for 2025, which runs from April 23 to 28 — which means it’s competing directly with Independent Bookstore Day. As writer Maris Kreisman explained in Lit Hub, Independent Bookstore Day is an annual event organized by the American Booksellers Association (ABA), with events, [&#8230;]",
+      "published": "Sat, 26 Apr 2025 16:27:37 +0000"
     }
   ],
   "trends": [
@@ -525,14 +554,8 @@
     }
   ],
   "ideas": [
-    "1. \"**Lawyer Up**\": A platform that connects freelance workers with lawyers who specialize in recovering unpaid wages and invoices. Users can submit their information and receive a list of recommended lawyers with reviews and ratings, as well as an estimated cost for their services.",
-    "2. \"**Idea Validation Hub**\": A community-driven platform where users can share their ideas and receive feedback from other members. The platform includes tools for creating landing pages, running surveys, and A/B testing ad campaigns, allowing users to validate their ideas before investing time and resources into building an MVP.",
-    "3. \"**Healthcare Navigator**\": A platform that helps small business owners navigate the complex world of healthcare insurance. The platform includes a marketplace of insurance plans from multiple providers, as well as tools for comparing plans, calculating costs, and managing enrollment.",
-    "4. \"**Beta Tester Network**\": A platform that connects indie founders with a network of beta testers who are interested in trying out new products and providing feedback. Users can create a profile for their product, specify the type of testers they are looking for, and manage the testing process through the platform.",
-    "5. \"**Solopreneur Support Network**\": A community-driven platform where solopreneurs can connect with other entrepreneurs, share advice and resources, and collaborate on projects. The platform includes tools for finding co-founders, hiring freelancers, and managing team communication and project management.",
-    "6. \"**AI-Powered Design Assistant**\": An AI-powered tool that helps non-technical founders create designs for their products and marketing materials. The tool includes a library of customizable templates, as well as tools for creating custom designs from scratch.",
-    "7. \"**Early-Stage Investment Matchmaker**\": A platform that connects early-stage startups with potential investors. The platform includes tools for creating a pitch deck, managing investor outreach, and tracking investment conversations and deals.",
-    "8. \"**Remote Team Management Platform**\": A platform that helps remote teams manage their workflows and communication. The platform includes tools for scheduling meetings, managing tasks and deadlines, and collaborating on documents and projects.",
-    "9. \"**Supply Chain Transparency Tool**\": A tool that helps small businesses track the origins and environmental impact of their products and materials. The tool"
+    "**BetaBait** - A platform connecting early-stage startups with eager beta testers. Startups can showcase their prototypes, and users can sign up for exclusive early access, providing feedback in exchange for free perks or future discounts.",
+    "**VendorVex** - A review and comparison app for B2B software platforms (like Coupa). Users can rate, review, and crowdsource alternatives to poorly designed enterprise tools, helping businesses make informed purchasing decisions.",
+    "**AccelTrack** - A dashboard for startup founders tracking incubator/accelerator applications (like ERA NY or Techstars). The app provides deadlines, interview prep tips, and community insights to streamline the application process."
   ]
 }
